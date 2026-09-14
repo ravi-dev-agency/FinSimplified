@@ -6,7 +6,7 @@ export const site = {
    * need absolute URLs, so this has to be right before you go live.
    * Set NEXT_PUBLIC_SITE_URL in production to override.
    */
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://finsimplified.in",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://fin-simplified.vercel.app",
   tagline: "Money is complicated. Understanding it doesn't have to be.",
   author: {
     /** Shown on every chapter byline. */
