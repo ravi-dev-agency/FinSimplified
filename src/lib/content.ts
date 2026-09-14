@@ -4,11 +4,25 @@ import path from "node:path";
 const CONTENT_DIR = path.join(process.cwd(), "content", "modules");
 const ARTICLES_DIR = path.join(process.cwd(), "content", "articles");
 
+/**
+ * Editorial notes to myself, written as *[VERIFY: …]* in the markdown.
+ *
+ * They stay in the source as a reminder that a figure needs checking against
+ * a current source, but they must never reach a reader — an internal note on
+ * a public page reads as an unfinished draft, and on a finance site it
+ * undermines the thing the note is trying to protect.
+ */
+const EDITORIAL_NOTE = /^\s*\*\[VERIFY:[\s\S]*?\]\*\s*$/gm;
+
+function stripEditorialNotes(raw: string): string {
+  return raw.replace(EDITORIAL_NOTE, "").replace(/\n{3,}/g, "\n\n");
+}
+
 /** You write plain markdown. Nothing here touches React. */
 export function getModuleBody(slug: string): string | null {
   const file = path.join(CONTENT_DIR, `${slug}.md`);
   if (!fs.existsSync(file)) return null;
-  return fs.readFileSync(file, "utf8");
+  return stripEditorialNotes(fs.readFileSync(file, "utf8"));
 }
 
 export function isPublished(slug: string): boolean {
@@ -27,7 +41,7 @@ export function publishedSlugs(): string[] {
 export function getArticleBody(slug: string): string | null {
   const file = path.join(ARTICLES_DIR, `${slug}.md`);
   if (!fs.existsSync(file)) return null;
-  return fs.readFileSync(file, "utf8");
+  return stripEditorialNotes(fs.readFileSync(file, "utf8"));
 }
 
 export function isArticlePublished(slug: string): boolean {

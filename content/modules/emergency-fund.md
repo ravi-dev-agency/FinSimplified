@@ -100,6 +100,10 @@ His take-home is ₹58,000. The other ₹18,407 went on eating out, shopping, su
 
 *Table 2.3 — months by how replaceable your income is*
 
+![Months of cover by job type: three for a government job, up to twelve for a freelancer or an industry cutting jobs](/diagrams/months-by-job.svg)
+
+*Fig 2.2 — the less replaceable your income, the longer the cushion.*
+
 > **Careful — two things people leave out.** EMIs, because the bank will not pause your loan just because you lost your job. And insurance premiums, because if a health policy lapses you lose the waiting periods you have already served.
 
 ## 2.4 – Where to keep it
@@ -120,6 +124,10 @@ Returns are not the point here. Safety is.
 **The simplest answer for a beginner:** open a separate savings account at a different bank. Do not link UPI to it. Once it crosses ₹50,000, move some into fixed deposits.
 
 > **Do this.** Break large FDs into small ones. Three FDs of ₹25,000 beat one of ₹75,000 — a ₹15,000 problem should not force you to break the whole thing.
+
+![One seventy-five thousand FD must be broken entirely; three of twenty-five thousand let you break just one](/diagrams/fd-ladder.svg)
+
+*Fig 2.3 — same money, same rate, far less damage when you need part of it.*
 
 ### Never keep it here
 

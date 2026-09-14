@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 250" width="600" height="250" fill="none" role="img" aria-labelledby="mjT">
+  <title id="mjT">How many months of expenses to keep, by how replaceable your income is. A government job with no dependants needs three months. A private job needs four to six. A sole earner needs six to nine. A freelancer needs nine to twelve. An industry cutting jobs needs twelve.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">THE HARDER YOUR INCOME IS TO REPLACE, THE MORE MONTHS YOU KEEP</text>
+
+  <text x="16" y="52" font-family="Inter, Arial, sans-serif" font-size="11" fill="#44484D">Government job, no dependants</text>
+  <rect x="270" y="40" width="72" height="18" rx="2" fill="#A8C8E4"/>
+  <text x="352" y="53" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FA0">3 months</text>
+
+  <text x="16" y="86" font-family="Inter, Arial, sans-serif" font-size="11" fill="#44484D">Private job, single</text>
+  <rect x="270" y="74" width="144" height="18" rx="2" fill="#8FB8DC"/>
+  <text x="424" y="87" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FA0">4–6 months</text>
+
+  <text x="16" y="120" font-family="Inter, Arial, sans-serif" font-size="11" fill="#44484D">Only earning member</text>
+  <rect x="270" y="108" width="180" height="18" rx="2" fill="#6FA3D0"/>
+  <text x="460" y="121" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FA0">6–9 months</text>
+
+  <text x="16" y="154" font-family="Inter, Arial, sans-serif" font-size="11" fill="#44484D">Freelancer or own business</text>
+  <rect x="270" y="142" width="240" height="18" rx="2" fill="#3D7FB8"/>
+  <text x="520" y="155" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FA0">9–12 months</text>
+
+  <text x="16" y="188" font-family="Inter, Arial, sans-serif" font-size="11" fill="#44484D">Industry cutting jobs now</text>
+  <rect x="270" y="176" width="288" height="18" rx="2" fill="#1F5FA0"/>
+  <text x="558" y="207" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FA0" text-anchor="end">12 months</text>
+
+  <line x1="16" y1="222" x2="584" y2="222" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="240" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2E3338">Months of essential expenses — not months of salary.</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" fill="none" role="img" aria-labelledby="fdT">
+  <title id="fdT">One fixed deposit of seventy-five thousand rupees must be broken entirely for a fifteen thousand rupee problem. Three deposits of twenty-five thousand let you break only one, leaving fifty thousand untouched and still earning.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">A ₹15,000 PROBLEM SHOULD NOT COST YOU ₹75,000 OF INTEREST</text>
+
+  <text x="16" y="52" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#B44A22">ONE BIG FD</text>
+  <rect x="16" y="64" width="260" height="56" rx="4" fill="#FDF0EC" stroke="#E2683C" stroke-width="2"/>
+  <text x="146" y="88" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#B44A22" text-anchor="middle">₹75,000</text>
+  <text x="146" y="107" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#B44A22" text-anchor="middle">break it all, lose all the interest</text>
+  <text x="16" y="140" font-family="Inter, Arial, sans-serif" font-size="11" fill="#B44A22">✕ ₹75,000 disturbed</text>
+
+  <text x="324" y="52" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#2F6B3A">THREE SMALL FDs</text>
+  <rect x="324" y="64" width="78" height="56" rx="4" fill="#FDF0EC" stroke="#E2683C" stroke-width="2"/>
+  <text x="363" y="88" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#B44A22" text-anchor="middle">₹25,000</text>
+  <text x="363" y="105" font-family="Inter, Arial, sans-serif" font-size="10" fill="#B44A22" text-anchor="middle">break only this</text>
+
+  <rect x="412" y="64" width="78" height="56" rx="4" fill="#E8F3EA" stroke="#3B8049" stroke-width="2"/>
+  <text x="451" y="88" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#2F6B3A" text-anchor="middle">₹25,000</text>
+  <text x="451" y="105" font-family="Inter, Arial, sans-serif" font-size="10" fill="#2F6B3A" text-anchor="middle">untouched</text>
+
+  <rect x="500" y="64" width="78" height="56" rx="4" fill="#E8F3EA" stroke="#3B8049" stroke-width="2"/>
+  <text x="539" y="88" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#2F6B3A" text-anchor="middle">₹25,000</text>
+  <text x="539" y="105" font-family="Inter, Arial, sans-serif" font-size="10" fill="#2F6B3A" text-anchor="middle">untouched</text>
+
+  <text x="324" y="140" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2F6B3A">✓ ₹50,000 still earning</text>
+
+  <line x1="16" y1="166" x2="584" y2="166" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="188" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338">Same total, same rate. The only difference is how many pieces it is in.</text>
+  <text x="16" y="208" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">Breaking an FD early usually costs you the interest earned on the whole deposit,</text>
+  <text x="16" y="224" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">so the size of the piece you break is what decides the damage.</text>
+</svg>
