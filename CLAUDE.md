@@ -110,6 +110,7 @@ calculators; the Financial Health Check; a comments system; sitemap, robots
 and JSON-LD structured data.
 
 Needs attention: legal pages contain draft wording that needs review, and
+
 `src/data/site.ts` has a placeholder author line.
 
 ## Commands
