@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { PageHeader } from "@/components/ui/Content";
-import { site } from "@/data/site";
 
 export const metadata: Metadata = {
   title: "About",
@@ -19,14 +18,33 @@ export default function AboutPage() {
 
       <section className="mx-auto max-w-[720px] px-4 py-10 md:px-8 md:py-14">
         <h2 className="text-xl">Who writes this</h2>
-        <p className="mt-3">{site.author.line}</p>
-
-        <h2 className="mt-8 text-xl">What this site does</h2>
         <p className="mt-3">
-          We explain money in plain English, with Indian rupee examples, for
-          people who were never taught any of this. Every article assumes you
-          are starting from zero, and nothing here assumes you already know what
-          a mutual fund is.
+          I am Ravi. I write every word on this site myself. I am not a
+          registered adviser — I am someone who learned this the expensive way
+          and writes it down.
+        </p>
+        <p className="mt-3">
+          Over the past five years I have read, asked, made mistakes and slowly
+          worked this out for myself. I am writing all of it down here so you
+          can be better with your own money and get further on your wealth
+          journey — without paying for the lessons I paid for.
+        </p>
+
+        <h2 className="mt-8 text-xl">What FinSimplified means</h2>
+        <p className="mt-3">
+          Finance, made simple. That is the only promise this site makes: money
+          explained in plain language, the way I wish someone had explained it
+          to me.
+        </p>
+        <p className="mt-3">
+          Every chapter assumes you are starting from zero, uses Indian rupee
+          examples, and never assumes you already know what a mutual fund is.
+          No jargon, no signup, no paywall. Nothing is sold here and no product
+          is recommended.
+        </p>
+        <p className="mt-3">
+          If it helps you make one better decision about your own money, this
+          site has done its job.
         </p>
 
         <h2 className="mt-8 text-xl">What we don&apos;t do</h2>
