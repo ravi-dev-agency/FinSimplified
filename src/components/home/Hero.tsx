@@ -24,7 +24,7 @@ export default function Hero() {
   return (
     <section className="border-b border-rule">
       <div className="mx-auto max-w-[1080px] px-4 pt-12 pb-14 md:px-6 md:pt-16">
-        <div className="grid items-center gap-10 md:grid-cols-[1fr_300px]">
+        <div className="grid items-center gap-10 md:grid-cols-[1fr_340px]">
           <div>
             <p className="text-[0.8125rem] font-semibold tracking-[0.08em] text-muted uppercase">
               Hi, I am Ravi
@@ -43,13 +43,13 @@ export default function Hero() {
                 href="/learn"
                 className="rounded-[4px] bg-display px-5 py-3 text-[0.9375rem] font-semibold text-white no-underline hover:opacity-90"
               >
-                Start with chapter 1 →
+                Start reading →
               </Link>
               <Link
                 href="/calculators"
                 className="rounded-[4px] border border-rule px-5 py-3 text-[0.9375rem] font-semibold text-display no-underline hover:border-display"
               >
-                Try a calculator
+                Run the numbers
               </Link>
             </div>
 
@@ -60,12 +60,12 @@ export default function Hero() {
           </div>
 
           <Image
-            src="/diagrams/hero-jar.svg"
-            alt="A savings jar partly filled with coins, with more coins stacked beside it"
-            width={300}
-            height={244}
+            src="/diagrams/hero-growth.svg"
+            alt="Coin stacks rising from a single rupee to a tall column, with a growth curve above them"
+            width={340}
+            height={218}
             priority
-            className="hidden w-full max-w-[300px] md:block"
+            className="hidden w-full max-w-[340px] md:block"
           />
         </div>
       </div>
