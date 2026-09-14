@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import type { Metadata } from "next";
 import ModuleGrid, { MoreComing } from "@/components/home/ModuleGrid";
@@ -86,13 +85,17 @@ export default function LearnPage() {
     <div className="mx-auto max-w-[1080px] px-4 pt-12 pb-16 md:px-6 md:pt-16">
       <h1 className="display max-w-[15ch]">From your salary to wealth, in order</h1>
       <p className="mt-5 max-w-[54ch] text-[1.0625rem] leading-relaxed text-subtle">
-        Building wealth is not one decision — it is four stages, in order.
-        See where the money goes, plan the split, protect what you have, and
-        only then grow it. The {modules.length} chapters below cover each
-        stage in full.
+        Building wealth is not one decision — it is six steps, in order. Most
+        people attempt the last one first, then discover there was nothing
+        underneath it.
       </p>
 
-      <div className="mt-12 grid items-start gap-10 md:grid-cols-[1fr_320px]">
+      <p className="mt-4 max-w-[54ch] text-[1.0625rem] leading-relaxed text-subtle">
+        Start wherever you actually are. Each step below opens the chapter
+        that covers it.
+      </p>
+
+      <div className="mt-12 max-w-[760px]">
         <div>
           {stages.map((group) => (
             <section key={group.stage} className="mt-8 first:mt-0">
@@ -103,24 +106,31 @@ export default function LearnPage() {
               </h2>
               <ol className="mt-2">
                 {group.steps.map((step) => (
-                  <li
-                    key={step.n}
-                    className="flex gap-4 border-t border-rule py-4 last:border-b"
-                  >
-                    <span className="num w-6 shrink-0 pt-0.5 text-[1.0625rem] font-bold text-display">
-                      {step.n}
-                    </span>
-                    <span className="min-w-0">
-                      <Link
-                        href={`/learn/${step.slug}`}
-                        className="text-[1.0625rem] font-semibold text-display no-underline hover:text-link"
-                      >
-                        {step.title}
-                      </Link>
-                      <span className="mt-1 block text-[0.9375rem] leading-relaxed text-subtle">
-                        {step.line}
+                  <li key={step.n} className="border-t border-rule last:border-b">
+                    {/* The whole row is the target, so the step reads as
+                        navigation rather than a preview of one. */}
+                    <Link
+                      href={`/learn/${step.slug}`}
+                      className="group flex gap-4 py-4 no-underline"
+                    >
+                      <span className="num w-6 shrink-0 pt-0.5 text-[1.0625rem] font-bold text-display">
+                        {step.n}
                       </span>
-                    </span>
+                      <span className="min-w-0">
+                        <span className="text-[1.0625rem] font-semibold text-display group-hover:text-link">
+                          {step.title}
+                          <span
+                            aria-hidden
+                            className="ml-1.5 inline-block text-link opacity-0 transition-opacity group-hover:opacity-100"
+                          >
+                            →
+                          </span>
+                        </span>
+                        <span className="mt-1 block text-[0.9375rem] leading-relaxed text-subtle">
+                          {step.line}
+                        </span>
+                      </span>
+                    </Link>
                   </li>
                 ))}
               </ol>
@@ -128,13 +138,6 @@ export default function LearnPage() {
           ))}
         </div>
 
-        <Image
-          src="/diagrams/salary-flow.svg"
-          alt="Four stages: see where your salary goes, plan the split, protect with an emergency fund and insurance, then grow by clearing debt and investing"
-          width={600}
-          height={470}
-          className="hidden w-full rounded-card border border-rule p-3 md:block"
-        />
       </div>
 
       <div className="mt-16 border-t border-rule pt-10">
