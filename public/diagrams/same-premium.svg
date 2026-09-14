@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 240" width="560" height="240" fill="none" role="img" aria-labelledby="spTitle">
+  <title id="spTitle">The same twenty thousand rupees a year buys two crore of cover as a pure term plan, seventy lakh as return of premium, five lakh as an endowment, and three lakh as a ULIP.</title>
+
+  <text x="16" y="22" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">THE SAME ₹20,000 A YEAR, AT AGE 30</text>
+
+  <!-- term -->
+  <text x="16" y="58" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338">Pure term plan</text>
+  <rect x="16" y="66" width="480" height="26" rx="3" fill="#1B6B3A"/>
+  <text x="506" y="84" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B6B3A">₹2 cr</text>
+
+  <!-- ROP -->
+  <text x="16" y="122" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">Return of premium</text>
+  <rect x="16" y="130" width="168" height="26" rx="3" fill="#B3541E"/>
+  <text x="194" y="148" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">₹70 lakh</text>
+
+  <!-- endowment -->
+  <text x="16" y="180" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">Endowment plan</text>
+  <rect x="16" y="188" width="12" height="26" rx="3" fill="#B3261E"/>
+  <text x="38" y="206" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">₹5 lakh</text>
+
+  <!-- ulip -->
+  <text x="300" y="180" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">ULIP</text>
+  <rect x="300" y="188" width="7" height="26" rx="3" fill="#B3261E"/>
+  <text x="317" y="206" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">₹3 lakh</text>
+
+  <text x="16" y="234" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">Illustrative. The bars are to scale — that is the whole point.</text>
+</svg>

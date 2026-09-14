@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 250" width="600" height="250" fill="none" role="img" aria-labelledby="seT">
+  <title id="seT">Ramu invests six lakh over ten years from age twenty-five and stops, ending with about two crore thirty lakh at sixty. Kiran invests fifteen lakh over twenty-five years from age thirty-five and ends with about ninety-five lakh. Ramu put in less and finished far ahead.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">SAME FUND, SAME RETURN. ONLY THE STARTING AGE DIFFERS.</text>
+
+  <text x="16" y="52" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">RAMU</text>
+  <text x="16" y="68" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177">age 25–35</text>
+  <rect x="104" y="40" width="92" height="22" rx="2" fill="#1F5FA0"/>
+  <text x="150" y="55" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#FFFFFF" text-anchor="middle">pays in ₹6L</text>
+  <rect x="200" y="40" width="300" height="22" rx="2" fill="#D6E5F2"/>
+  <text x="350" y="55" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1F5FA0" text-anchor="middle">stops — money keeps compounding for 25 years</text>
+  <text x="584" y="55" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#3B8049" text-anchor="end">₹2.30 cr</text>
+
+  <text x="16" y="120" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">KIRAN</text>
+  <text x="16" y="136" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177">age 35–60</text>
+  <rect x="200" y="108" width="300" height="22" rx="2" fill="#E2683C"/>
+  <text x="350" y="123" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#FFFFFF" text-anchor="middle">pays in ₹15L over 25 years</text>
+  <text x="584" y="123" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#B44A22" text-anchor="end">₹94.9L</text>
+
+  <line x1="104" y1="160" x2="584" y2="160" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="104" y="178" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177">25</text>
+  <text x="200" y="178" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177">35</text>
+  <text x="500" y="178" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="end">60</text>
+
+  <text x="16" y="212" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338">Ramu paid in ₹9 lakh less — and finished ₹1.35 crore ahead.</text>
+  <text x="16" y="232" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">The difference is not effort or skill. It is ten years.</text>
+</svg>

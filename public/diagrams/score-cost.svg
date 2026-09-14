@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 230" width="600" height="230" fill="none" role="img" aria-labelledby="scTitle">
+  <title id="scTitle">On a thirty lakh home loan over twenty years, a credit score of 780 gets 8.5 percent and an EMI of about 26,000. A score of 670 gets 9.5 percent and an EMI of about 28,000, costing over four and a half lakh more in total.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">THE SAME ₹30 LAKH HOME LOAN, 20 YEARS</text>
+
+  <text x="16" y="52" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1B6B3A">SCORE 780</text>
+  <text x="16" y="70" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">8.5% offered</text>
+  <rect x="140" y="40" width="300" height="30" rx="3" fill="#1B6B3A"/>
+  <text x="290" y="60" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#FFFFFF" text-anchor="middle">EMI ₹26,035</text>
+  <text x="452" y="60" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#44484D">repays ₹62.5 lakh</text>
+
+  <text x="16" y="118" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#B3261E">SCORE 670</text>
+  <text x="16" y="136" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">9.5% offered</text>
+  <rect x="140" y="106" width="322" height="30" rx="3" fill="#B3261E"/>
+  <text x="301" y="126" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#FFFFFF" text-anchor="middle">EMI ₹27,964</text>
+  <text x="474" y="126" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#44484D">repays ₹67.1 lakh</text>
+
+  <line x1="16" y1="168" x2="584" y2="168" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="192" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#2E3338">One percentage point = about ₹4,63,000 extra over twenty years.</text>
+  <text x="16" y="214" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Same house, same income. The only difference is a number in a database.</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260" width="600" height="260" fill="none" role="img" aria-labelledby="fpT">
+  <title id="fpT">A purchase made just after the statement date gets about forty-seven interest-free days. A mid-cycle purchase gets about thirty-four. A purchase just before the statement date gets only about nineteen.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">WHEN YOU BUY DECIDES HOW LONG THE MONEY IS FREE</text>
+
+  <text x="16" y="48" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#6B7177">statement</text>
+  <line x1="72" y1="54" x2="72" y2="218" stroke="#8A9099" stroke-width="1.2" stroke-dasharray="3 3"/>
+  <text x="300" y="48" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#6B7177" text-anchor="middle">next statement</text>
+  <line x1="380" y1="54" x2="380" y2="218" stroke="#8A9099" stroke-width="1.2" stroke-dasharray="3 3"/>
+  <text x="516" y="48" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#6B7177" text-anchor="middle">due date</text>
+  <line x1="516" y1="54" x2="516" y2="218" stroke="#2E3338" stroke-width="1.3"/>
+
+  <text x="16" y="84" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338">Buy on</text>
+  <text x="16" y="98" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338">the 2nd</text>
+  <circle cx="88" cy="90" r="4.5" fill="#3B8049"/>
+  <rect x="88" y="82" width="428" height="16" rx="2" fill="#8FD0A8"/>
+  <text x="302" y="94" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#2F6B3A" text-anchor="middle">about 47 free days</text>
+
+  <text x="16" y="134" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338">Buy on</text>
+  <text x="16" y="148" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338">the 15th</text>
+  <circle cx="220" cy="140" r="4.5" fill="#1F5FA0"/>
+  <rect x="220" y="132" width="296" height="16" rx="2" fill="#A8C8E4"/>
+  <text x="368" y="144" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1F5FA0" text-anchor="middle">about 34 free days</text>
+
+  <text x="16" y="184" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338">Buy on</text>
+  <text x="16" y="198" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338">the 30th</text>
+  <circle cx="360" cy="190" r="4.5" fill="#E2683C"/>
+  <rect x="360" y="182" width="156" height="16" rx="2" fill="#F2B49B"/>
+  <text x="438" y="194" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#B44A22" text-anchor="middle">about 19 days</text>
+
+  <line x1="16" y1="232" x2="584" y2="232" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="250" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2E3338">A big purchase just after your statement date buys you nearly seven weeks of free credit.</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290" width="600" height="290" fill="none" role="img" aria-labelledby="sgT">
+  <title id="sgT">A five thousand rupee monthly SIP at an assumed twelve percent. After five years you have put in three lakh and it is worth four point one lakh. After thirty years you have put in eighteen lakh and it is worth one crore seventy-six lakh. The growth portion overtakes the invested portion between years ten and fifteen.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">₹5,000 A MONTH, AT AN ASSUMED 12%</text>
+
+  <line x1="70" y1="208" x2="560" y2="208" stroke="#2E3338" stroke-width="1.2"/>
+
+  <rect x="84" y="200" width="46" height="8" rx="1.5" fill="#1F5FA0"/>
+  <rect x="84" y="197" width="46" height="3" rx="1" fill="#8FD0A8"/>
+  <text x="107" y="224" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#44484D" text-anchor="middle">5 yrs</text>
+  <text x="107" y="190" font-family="Inter, Arial, sans-serif" font-size="10" fill="#6B7177" text-anchor="middle">₹4.1L</text>
+
+  <rect x="164" y="186" width="46" height="22" rx="1.5" fill="#1F5FA0"/>
+  <rect x="164" y="176" width="46" height="10" rx="1" fill="#8FD0A8"/>
+  <text x="187" y="224" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#44484D" text-anchor="middle">10 yrs</text>
+  <text x="187" y="169" font-family="Inter, Arial, sans-serif" font-size="10" fill="#6B7177" text-anchor="middle">₹11.6L</text>
+
+  <rect x="244" y="175" width="46" height="33" rx="1.5" fill="#1F5FA0"/>
+  <rect x="244" y="146" width="46" height="29" rx="1" fill="#8FD0A8"/>
+  <text x="267" y="224" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#44484D" text-anchor="middle">15 yrs</text>
+  <text x="267" y="139" font-family="Inter, Arial, sans-serif" font-size="10" fill="#6B7177" text-anchor="middle">₹25.2L</text>
+
+  <rect x="324" y="164" width="46" height="44" rx="1.5" fill="#1F5FA0"/>
+  <rect x="324" y="96" width="46" height="68" rx="1" fill="#8FD0A8"/>
+  <text x="347" y="224" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#44484D" text-anchor="middle">20 yrs</text>
+  <text x="347" y="89" font-family="Inter, Arial, sans-serif" font-size="10" fill="#6B7177" text-anchor="middle">₹50L</text>
+
+  <rect x="404" y="153" width="46" height="55" rx="1.5" fill="#1F5FA0"/>
+  <rect x="404" y="58" width="46" height="95" rx="1" fill="#8FD0A8"/>
+  <text x="427" y="224" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#44484D" text-anchor="middle">25 yrs</text>
+  <text x="427" y="51" font-family="Inter, Arial, sans-serif" font-size="10" fill="#6B7177" text-anchor="middle">₹94.9L</text>
+
+  <rect x="484" y="142" width="46" height="66" rx="1.5" fill="#1F5FA0"/>
+  <rect x="484" y="38" width="46" height="104" rx="1" fill="#3B8049"/>
+  <text x="507" y="224" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#44484D" text-anchor="middle">30 yrs</text>
+  <text x="507" y="31" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#2F6B3A" text-anchor="middle">₹1.76 cr</text>
+
+  <rect x="16" y="244" width="12" height="10" rx="2" fill="#1F5FA0"/>
+  <text x="34" y="253" font-family="Inter, Arial, sans-serif" font-size="11" fill="#2E3338">what you put in</text>
+  <rect x="150" y="244" width="12" height="10" rx="2" fill="#8FD0A8"/>
+  <text x="168" y="253" font-family="Inter, Arial, sans-serif" font-size="11" fill="#2E3338">what growth added</text>
+
+  <text x="16" y="276" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2E3338">Over 30 years you put in ₹18 lakh. Growth added the rest. Illustration only.</text>
+</svg>

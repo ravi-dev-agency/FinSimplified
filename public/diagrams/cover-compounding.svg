@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" fill="none" role="img" aria-labelledby="covT">
+  <title id="covT">One paisa on the left, and one crore seven lakh rupees on the right, separated by thirty-one days of doubling.</title>
+  <rect width="400" height="300" fill="#1F5FA0"/>
+
+  <text x="200" y="52" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#A8C8E4" text-anchor="middle" letter-spacing="1.5">31 DAYS OF DOUBLING</text>
+
+  <circle cx="92" cy="150" r="30" fill="#8FD0A8"/>
+  <text x="92" y="157" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A4D2A" text-anchor="middle">1p</text>
+  <text x="92" y="206" font-family="Inter, Arial, sans-serif" font-size="12" fill="#C5DBEE" text-anchor="middle">one paisa</text>
+
+  <path d="M140 150 L246 150" stroke="#8FD0A8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M236 141l12 9-12 9" stroke="#8FD0A8" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="310" y="142" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#FFFFFF" text-anchor="middle">₹1.07</text>
+  <text x="310" y="172" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF" text-anchor="middle">crore</text>
+  <text x="310" y="206" font-family="Inter, Arial, sans-serif" font-size="12" fill="#C5DBEE" text-anchor="middle">the same paisa</text>
+
+  <line x1="60" y1="242" x2="340" y2="242" stroke="#3D7FB8" stroke-width="1.5"/>
+  <text x="200" y="268" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">Nothing changed but the number of days.</text>
+</svg>

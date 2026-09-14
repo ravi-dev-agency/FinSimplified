@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 270" width="560" height="270" fill="none" role="img" aria-labelledby="moTitle">
+  <title id="moTitle">Five steps in order: emergency fund, health insurance, term insurance, clearing expensive debt, then investing. Term insurance is the third step.</title>
+
+  <text x="16" y="22" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">THE ORDER THAT KEEPS THE WHOLE THING STANDING</text>
+
+  <!-- step 1 -->
+  <rect x="16" y="208" width="100" height="38" rx="4" fill="#EEF4FA" stroke="#1F5FA0" stroke-width="1.5"/>
+  <text x="66" y="226" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1F5FA0" text-anchor="middle">1. Emergency</text>
+  <text x="66" y="240" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1F5FA0" text-anchor="middle">fund</text>
+
+  <!-- step 2 -->
+  <rect x="124" y="166" width="100" height="38" rx="4" fill="#EEF4FA" stroke="#1F5FA0" stroke-width="1.5"/>
+  <text x="174" y="184" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1F5FA0" text-anchor="middle">2. Health</text>
+  <text x="174" y="198" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1F5FA0" text-anchor="middle">insurance</text>
+
+  <!-- step 3 — this chapter -->
+  <rect x="232" y="124" width="100" height="38" rx="4" fill="#1B6B3A"/>
+  <text x="282" y="142" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">3. Term</text>
+  <text x="282" y="156" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">insurance</text>
+  <text x="282" y="114" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#1B6B3A" text-anchor="middle">you are here</text>
+
+  <!-- step 4 -->
+  <rect x="340" y="82" width="100" height="38" rx="4" fill="#EEF4FA" stroke="#1F5FA0" stroke-width="1.5"/>
+  <text x="390" y="100" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1F5FA0" text-anchor="middle">4. Clear</text>
+  <text x="390" y="114" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1F5FA0" text-anchor="middle">costly debt</text>
+
+  <!-- step 5 -->
+  <rect x="448" y="40" width="100" height="38" rx="4" fill="#EEF4FA" stroke="#1F5FA0" stroke-width="1.5"/>
+  <text x="498" y="64" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1F5FA0" text-anchor="middle">5. Invest</text>
+
+  <!-- base line -->
+  <line x1="16" y1="258" x2="548" y2="258" stroke="#E3E6E9" stroke-width="1"/>
+</svg>

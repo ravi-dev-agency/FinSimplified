@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" width="320" height="260" fill="none" role="img" aria-labelledby="jarTitle">
+  <title id="jarTitle">A savings jar, partly filled with coins, with more coins waiting beside it</title>
+
+  <!-- desk line -->
+  <line x1="18" y1="222" x2="302" y2="222" stroke="#2E3338" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- jar body -->
+  <path d="M92 84 h96 a6 6 0 0 1 6 6 v104 a26 26 0 0 1 -26 26 h-56 a26 26 0 0 1 -26 -26 v-104 a6 6 0 0 1 6 -6 z"
+        stroke="#2E3338" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- jar rim -->
+  <rect x="84" y="68" width="112" height="18" rx="5" stroke="#2E3338" stroke-width="2.5"/>
+
+  <!-- fill level: the saved money -->
+  <path d="M88 152 v42 a22 22 0 0 0 22 22 h60 a22 22 0 0 0 22 -22 v-42 z" fill="#EEF4FA"/>
+  <line x1="88" y1="152" x2="192" y2="152" stroke="#1F5FA0" stroke-width="2.5"/>
+
+  <!-- coins inside, resting on the fill line -->
+  <circle cx="116" cy="176" r="13" stroke="#1F5FA0" stroke-width="2"/>
+  <circle cx="150" cy="192" r="13" stroke="#1F5FA0" stroke-width="2"/>
+  <circle cx="172" cy="170" r="11" stroke="#1F5FA0" stroke-width="2"/>
+  <text x="116" y="181" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1F5FA0" text-anchor="middle">₹</text>
+  <text x="150" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1F5FA0" text-anchor="middle">₹</text>
+
+  <!-- a coin going in -->
+  <circle cx="140" cy="34" r="15" stroke="#2E3338" stroke-width="2"/>
+  <text x="140" y="40" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#2E3338" text-anchor="middle">₹</text>
+  <path d="M140 54 v10" stroke="#2E3338" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 5"/>
+
+  <!-- stacked coins waiting beside the jar -->
+  <ellipse cx="248" cy="214" rx="30" ry="9" stroke="#2E3338" stroke-width="2"/>
+  <ellipse cx="248" cy="200" rx="30" ry="9" stroke="#2E3338" stroke-width="2"/>
+  <ellipse cx="248" cy="186" rx="30" ry="9" stroke="#2E3338" stroke-width="2"/>
+  <path d="M218 186 v28 M278 186 v28" stroke="#2E3338" stroke-width="2"/>
+
+  <!-- small growth mark, the point of saving -->
+  <path d="M232 150 l12 -14 l10 10 l16 -20" stroke="#1B6B3A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M264 126 h8 v8" stroke="#1B6B3A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" width="600" height="280" fill="none" role="img" aria-labelledby="epTitle">
+  <title id="epTitle">Normally, when an ETF trades above its value, institutions create new units and sell them, pushing the price back to fair value. When overseas investment limits block new unit creation, supply is frozen while demand continues, so the price rises far above the fund's true value.</title>
+
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">WHY AN INTERNATIONAL ETF CAN COST MORE THAN IT IS WORTH</text>
+
+  <!-- normal -->
+  <text x="16" y="50" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1B6B3A">NORMALLY — creation works</text>
+  <rect x="16" y="60" width="266" height="86" rx="4" fill="#EDF5EF" stroke="#1B6B3A" stroke-width="1.2"/>
+  <text x="30" y="82" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1B6B3A">1. Price drifts above iNAV</text>
+  <text x="30" y="102" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1B6B3A">2. An institution creates new units</text>
+  <text x="30" y="122" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1B6B3A">3. Extra supply pushes price down</text>
+  <text x="30" y="140" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#1B6B3A">Price stays near fair value</text>
+
+  <!-- blocked -->
+  <text x="318" y="50" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#B3261E">LIMITS FULL — creation blocked</text>
+  <rect x="318" y="60" width="266" height="86" rx="4" fill="#FCEDEC" stroke="#B3261E" stroke-width="1.2"/>
+  <text x="332" y="82" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#B3261E">1. Fund cannot take new money</text>
+  <text x="332" y="102" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#B3261E">2. No new units can be created</text>
+  <text x="332" y="122" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#B3261E">3. Buyers bid against each other</text>
+  <text x="332" y="140" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#B3261E">Price floats far above value</text>
+
+  <!-- the cost -->
+  <line x1="16" y1="172" x2="584" y2="172" stroke="#E3E6E9" stroke-width="1"/>
+
+  <text x="16" y="198" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">What the shares are worth (iNAV)</text>
+  <rect x="300" y="186" width="180" height="18" rx="3" fill="#1B6B3A"/>
+  <text x="490" y="200" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B6B3A">₹100</text>
+
+  <text x="16" y="230" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">What you pay at a 15% premium</text>
+  <rect x="300" y="218" width="180" height="18" rx="3" fill="#B3261E"/>
+  <rect x="480" y="218" width="27" height="18" rx="3" fill="#B3541E"/>
+  <text x="517" y="232" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#B3261E">₹115</text>
+
+  <text x="16" y="264" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338">When limits reopen the premium collapses. You lose 15% — and the foreign index never moved.</text>
+</svg>

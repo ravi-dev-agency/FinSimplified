@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 210" width="600" height="210" fill="none" role="img" aria-labelledby="hmTitle">
+  <title id="hmTitle">A timeline showing where money belongs by when it is needed. Under one year in savings and liquid funds. One to three years in fixed deposits and short duration debt. Three to five years in hybrid funds. Five to ten years in index and large cap funds. Ten years or more in flexi cap and mid cap funds.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">WHEN DO YOU NEED THE MONEY? THAT DECIDES WHERE IT GOES.</text>
+
+  <line x1="16" y1="60" x2="584" y2="60" stroke="#2E3338" stroke-width="1.5"/>
+  <circle cx="16" cy="60" r="5" fill="#1F5FA0"/>
+  <circle cx="158" cy="60" r="5" fill="#1F5FA0"/>
+  <circle cx="300" cy="60" r="5" fill="#1F5FA0"/>
+  <circle cx="442" cy="60" r="5" fill="#1F5FA0"/>
+  <circle cx="584" cy="60" r="5" fill="#1F5FA0"/>
+
+  <text x="16" y="46" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338">now</text>
+  <text x="158" y="46" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338" text-anchor="middle">1 yr</text>
+  <text x="300" y="46" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338" text-anchor="middle">3 yrs</text>
+  <text x="442" y="46" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338" text-anchor="middle">5 yrs</text>
+  <text x="584" y="46" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338" text-anchor="end">10 yrs+</text>
+
+  <rect x="16" y="76" width="138" height="30" rx="3" fill="#EEF4FA" stroke="#1F5FA0" stroke-width="1.2"/>
+  <text x="85" y="96" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1F5FA0" text-anchor="middle">Savings, liquid fund</text>
+
+  <rect x="158" y="112" width="138" height="30" rx="3" fill="#D6E5F2" stroke="#1F5FA0" stroke-width="1.2"/>
+  <text x="227" y="132" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1F5FA0" text-anchor="middle">FD, short duration debt</text>
+
+  <rect x="300" y="76" width="138" height="30" rx="3" fill="#A8C8E4" stroke="#1F5FA0" stroke-width="1.2"/>
+  <text x="369" y="96" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#2E3338" text-anchor="middle">Hybrid funds</text>
+
+  <rect x="442" y="112" width="142" height="30" rx="3" fill="#3D7FB8"/>
+  <text x="513" y="132" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#FFFFFF" text-anchor="middle">Index and equity funds</text>
+
+  <line x1="16" y1="164" x2="584" y2="164" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="186" font-family="Inter, Arial, sans-serif" font-size="12" fill="#2E3338">Equity can fall 30% in a year. A date you have already promised does not move.</text>
+  <text x="16" y="204" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">Write the goal and the year beside it before choosing anything.</text>
+</svg>

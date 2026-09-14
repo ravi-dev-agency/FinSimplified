@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 270" width="600" height="270" fill="none" role="img" aria-labelledby="peT">
+  <title id="peT">Two companies both earning one crore a year. Company A has a share price of one hundred rupees and is worth ten crore, a P/E of ten. Company B has a share price of two thousand rupees but is worth only two crore, a P/E of two. The higher-priced share is the cheaper business.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">BOTH COMPANIES EARN ₹1 CRORE A YEAR. WHICH IS CHEAPER?</text>
+
+  <rect x="16" y="36" width="276" height="188" rx="3" fill="#FFFFFF" stroke="#E3E6E9" stroke-width="1.2"/>
+  <text x="36" y="60" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">Company A</text>
+  <text x="36" y="86" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Share price</text>
+  <text x="272" y="86" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338" text-anchor="end">₹100</text>
+  <text x="36" y="110" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Number of shares</text>
+  <text x="272" y="110" font-family="Inter, Arial, sans-serif" font-size="12" fill="#2E3338" text-anchor="end">10,00,000</text>
+  <text x="36" y="134" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Whole company costs</text>
+  <text x="272" y="134" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338" text-anchor="end">₹10 crore</text>
+  <line x1="36" y1="148" x2="272" y2="148" stroke="#E3E6E9" stroke-width="1"/>
+  <rect x="36" y="162" width="236" height="46" rx="3" fill="#FDF0EC"/>
+  <text x="52" y="182" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#8F3A18">You pay for ₹1 of profit</text>
+  <text x="256" y="196" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="600" fill="#E2683C" text-anchor="end">₹10</text>
+
+  <rect x="308" y="36" width="276" height="188" rx="3" fill="#FFFFFF" stroke="#1F5FA0" stroke-width="1.6"/>
+  <text x="328" y="60" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1F5FA0">Company B</text>
+  <text x="328" y="86" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Share price</text>
+  <text x="564" y="86" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338" text-anchor="end">₹2,000</text>
+  <text x="328" y="110" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Number of shares</text>
+  <text x="564" y="110" font-family="Inter, Arial, sans-serif" font-size="12" fill="#2E3338" text-anchor="end">10,000</text>
+  <text x="328" y="134" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Whole company costs</text>
+  <text x="564" y="134" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338" text-anchor="end">₹2 crore</text>
+  <line x1="328" y1="148" x2="564" y2="148" stroke="#E3E6E9" stroke-width="1"/>
+  <rect x="328" y="162" width="236" height="46" rx="3" fill="#E8F3EA"/>
+  <text x="344" y="182" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2F6B3A">You pay for ₹1 of profit</text>
+  <text x="548" y="196" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="600" fill="#3B8049" text-anchor="end">₹2</text>
+
+  <text x="16" y="248" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338">The ₹2,000 share is five times cheaper than the ₹100 share.</text>
+  <text x="16" y="264" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">That ratio is the P/E. Share price on its own tells you nothing about how expensive a company is.</text>
+</svg>

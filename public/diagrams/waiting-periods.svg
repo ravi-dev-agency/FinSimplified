@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="600" height="200" fill="none" role="img" aria-labelledby="wpTitle">
+  <title id="wpTitle">A timeline of health insurance waiting periods: accidents covered from day one, most illnesses after thirty days, listed illnesses after one to two years, pre-existing diseases after up to three years, and the five-year moratorium after which claims cannot be rejected for non-disclosure.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">WHAT IS COVERED, AND WHEN</text>
+
+  <line x1="24" y1="100" x2="576" y2="100" stroke="#E3E6E9" stroke-width="2"/>
+
+  <circle cx="24" cy="100" r="6" fill="#1B6B3A"/>
+  <text x="24" y="128" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#2E3338">Day 1</text>
+  <text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">Accidents</text>
+
+  <circle cx="156" cy="100" r="6" fill="#1B6B3A"/>
+  <text x="156" y="84" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#2E3338" text-anchor="middle">30 days</text>
+  <text x="156" y="68" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">Most illnesses</text>
+
+  <circle cx="300" cy="100" r="6" fill="#B3541E"/>
+  <text x="300" y="128" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#2E3338" text-anchor="middle">1–2 years</text>
+  <text x="300" y="144" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">Listed illnesses: cataract,</text>
+  <text x="300" y="158" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">hernia, piles, stones, knee</text>
+
+  <circle cx="444" cy="100" r="6" fill="#B3261E"/>
+  <text x="444" y="84" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#2E3338" text-anchor="middle">Up to 3 years</text>
+  <text x="444" y="68" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">Illnesses you already had:</text>
+  <text x="444" y="54" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">diabetes, BP, thyroid, asthma</text>
+
+  <circle cx="576" cy="100" r="7" fill="#1F5FA0"/>
+  <text x="576" y="128" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#1F5FA0" text-anchor="end">5 years</text>
+  <text x="576" y="144" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="end">Moratorium — no rejection for</text>
+  <text x="576" y="158" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="end">non-disclosure, except fraud</text>
+
+  <line x1="16" y1="178" x2="584" y2="178" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="194" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">No insurer may impose a pre-existing disease waiting period longer than 36 months.</text>
+</svg>

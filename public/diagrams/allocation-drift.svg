@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" fill="none" role="img" aria-labelledby="adT">
+  <title id="adT">A seventy percent equity and thirty percent debt split left alone drifts to seventy-nine percent equity and twenty-one percent debt after ten years, because equity grows faster. Rebalancing returns it to the intended split.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">A 70/30 SPLIT, LEFT ALONE, DRIFTS TOWARDS EQUITY</text>
+
+  <text x="16" y="56" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">Day 1</text>
+  <rect x="110" y="42" width="325" height="24" rx="2" fill="#1F5FA0"/>
+  <text x="272" y="59" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle">Equity 70%</text>
+  <rect x="437" y="42" width="139" height="24" rx="2" fill="#8A9099"/>
+  <text x="506" y="59" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle">Debt 30%</text>
+
+  <text x="16" y="98" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">3 years</text>
+  <rect x="110" y="84" width="339" height="24" rx="2" fill="#1F5FA0"/>
+  <text x="279" y="101" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle">Equity 73%</text>
+  <rect x="451" y="84" width="125" height="24" rx="2" fill="#8A9099"/>
+  <text x="513" y="101" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle">27%</text>
+
+  <text x="16" y="140" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">5 years</text>
+  <rect x="110" y="126" width="349" height="24" rx="2" fill="#1F5FA0"/>
+  <text x="284" y="143" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle">Equity 75%</text>
+  <rect x="461" y="126" width="115" height="24" rx="2" fill="#8A9099"/>
+  <text x="518" y="143" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle">25%</text>
+
+  <text x="16" y="182" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">10 years</text>
+  <rect x="110" y="168" width="367" height="24" rx="2" fill="#E2683C"/>
+  <text x="293" y="185" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle">Equity 79%</text>
+  <rect x="479" y="168" width="97" height="24" rx="2" fill="#8A9099"/>
+  <text x="527" y="185" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle">21%</text>
+
+  <line x1="16" y1="206" x2="584" y2="206" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="228" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2E3338">You never chose to hold 79% equity. Rebalancing once a year puts it back where you set it.</text>
+</svg>

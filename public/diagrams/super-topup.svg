@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 210" width="600" height="210" fill="none" role="img" aria-labelledby="stuTitle">
+  <title id="stuTitle">On a twenty-two lakh rupee bill, a ten lakh base policy pays the first ten lakh and a forty lakh super top-up pays the remaining twelve lakh, leaving nothing for you.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">A ₹22,00,000 BILL · BASE ₹10 LAKH + SUPER TOP-UP ₹40 LAKH ABOVE A ₹10 LAKH DEDUCTIBLE</text>
+
+  <rect x="16" y="40" width="252" height="54" rx="3" fill="#1B6B3A"/>
+  <text x="142" y="64" font-family="Inter, Arial, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle">Base policy pays</text>
+  <text x="142" y="84" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">₹10,00,000</text>
+
+  <rect x="274" y="40" width="264" height="54" rx="3" fill="#1F5FA0"/>
+  <text x="406" y="64" font-family="Inter, Arial, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle">Super top-up pays</text>
+  <text x="406" y="84" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">₹12,00,000</text>
+
+  <rect x="544" y="40" width="40" height="54" rx="3" stroke="#E3E6E9" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="564" y="62" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#6B7177" text-anchor="middle">You</text>
+  <text x="564" y="80" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1B6B3A" text-anchor="middle">₹0</text>
+
+  <line x1="16" y1="122" x2="584" y2="122" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="146" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#2E3338">Why not simply buy ₹50 lakh cover directly?</text>
+  <text x="16" y="168" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7177">Because the top-up only pays once ₹10 lakh is crossed in a year, which happens rarely —</text>
+  <text x="16" y="186" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7177">so it costs a fraction of a ₹50 lakh base policy, for nearly the same protection.</text>
+</svg>

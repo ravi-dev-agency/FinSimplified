@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" width="600" height="280" fill="none" role="img" aria-labelledby="ccT">
+  <title id="ccT">A five thousand rupee monthly investment at twelve percent. The line is almost flat for the first decade, reaching about twelve lakh, then curves upward steeply — fifty lakh by year twenty, one crore seventy-six lakh by year thirty, and nearly six crore by year forty.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">₹5,000 A MONTH, AT AN ASSUMED 12%</text>
+
+  <line x1="64" y1="228" x2="570" y2="228" stroke="#2E3338" stroke-width="1.2"/>
+  <line x1="64" y1="40" x2="64" y2="228" stroke="#E3E6E9" stroke-width="1"/>
+
+  <path d="M64 228 C 180 226, 250 219, 316 204 S 430 150, 500 96 S 545 52, 564 40"
+        fill="none" stroke="#1F5FA0" stroke-width="2.4"/>
+
+  <line x1="64" y1="234" x2="316" y2="234" stroke="#8A9099" stroke-width="1.2"/>
+  <text x="190" y="250" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">the flat part — where people quit</text>
+
+  <circle cx="190" cy="223" r="4" fill="#1F5FA0"/>
+  <text x="190" y="212" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1F5FA0" text-anchor="middle">₹11.6L</text>
+  <circle cx="316" cy="204" r="4" fill="#1F5FA0"/>
+  <text x="316" y="193" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1F5FA0" text-anchor="middle">₹50L</text>
+  <circle cx="442" cy="140" r="4" fill="#1F5FA0"/>
+  <text x="442" y="129" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1F5FA0" text-anchor="middle">₹1.76 cr</text>
+  <circle cx="564" cy="40" r="4.5" fill="#3B8049"/>
+  <text x="560" y="30" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2F6B3A" text-anchor="end">₹5.94 cr</text>
+
+  <text x="64" y="250" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177">0</text>
+  <text x="190" y="266" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="middle">10 yrs</text>
+  <text x="316" y="266" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="middle">20 yrs</text>
+  <text x="442" y="266" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="middle">30 yrs</text>
+  <text x="564" y="266" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="middle">40 yrs</text>
+
+  <text x="16" y="44" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#6B7177">VALUE</text>
+</svg>

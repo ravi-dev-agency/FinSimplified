@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" width="600" height="180" fill="none" role="img" aria-labelledby="ccTitle">
+  <title id="ccTitle">The cashless claim flow: show your card at the insurance desk, the hospital sends your details to the insurer, the insurer approves within one hour, you are treated paying nothing, and final approval comes within three hours at discharge.</title>
+  <text x="16" y="18" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">A CASHLESS CLAIM, AT A NETWORK HOSPITAL</text>
+
+  <rect x="16" y="34" width="124" height="62" rx="3" fill="#F5F6F7" stroke="#E3E6E9" stroke-width="1.5"/>
+  <text x="78" y="58" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338" text-anchor="middle">Show your card</text>
+  <text x="78" y="74" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="middle">and photo ID at the</text>
+  <text x="78" y="87" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="middle">insurance desk</text>
+
+  <path d="M146 65 h16" stroke="#6B7177" stroke-width="1.5"/><path d="M158 61 l6 4 l-6 4 z" fill="#6B7177"/>
+
+  <rect x="170" y="34" width="124" height="62" rx="3" fill="#F5F6F7" stroke="#E3E6E9" stroke-width="1.5"/>
+  <text x="232" y="58" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338" text-anchor="middle">Hospital sends</text>
+  <text x="232" y="74" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="middle">your details to</text>
+  <text x="232" y="87" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="middle">the insurer</text>
+
+  <path d="M300 65 h16" stroke="#6B7177" stroke-width="1.5"/><path d="M312 61 l6 4 l-6 4 z" fill="#6B7177"/>
+
+  <rect x="324" y="34" width="124" height="62" rx="3" fill="#1B6B3A"/>
+  <text x="386" y="60" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#FFFFFF" text-anchor="middle">Insurer approves</text>
+  <text x="386" y="80" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">within 1 hour</text>
+
+  <path d="M454 65 h16" stroke="#6B7177" stroke-width="1.5"/><path d="M466 61 l6 4 l-6 4 z" fill="#6B7177"/>
+
+  <rect x="478" y="34" width="106" height="62" rx="3" fill="#EDF5EF" stroke="#1B6B3A" stroke-width="1.5"/>
+  <text x="531" y="58" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1B6B3A" text-anchor="middle">You get treated</text>
+  <text x="531" y="76" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#1B6B3A" text-anchor="middle">paying nothing</text>
+  <text x="531" y="89" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#1B6B3A" text-anchor="middle">at this stage</text>
+
+  <rect x="16" y="112" width="568" height="52" rx="3" fill="#2E3338"/>
+  <text x="30" y="134" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">At discharge, the final approval must come within 3 hours.</text>
+  <text x="30" y="152" font-family="Inter, Arial, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.8">You settle only what is not covered — consumables, a room upgrade, any co-payment.</text>
+</svg>

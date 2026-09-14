@@ -1,0 +1,294 @@
+@import "tailwindcss";
+
+/* ==================================================================
+   FinSimplified design system — FINAL
+   Plain, classic, Varsity-like. Every value has one job.
+   Contrast ratios checked against white for WCAG AA.
+   ================================================================== */
+@theme {
+  /* Text */
+  --color-display: #1a1d21;  /* display headings only           15.8:1 */
+  --color-ink: #2e3338;      /* headings, table totals          12.0:1 */
+  --color-body: #44484d;     /* all paragraph text               9.1:1 */
+  --color-subtle: #5a6066;   /* blurbs, secondary copy           6.6:1 */
+  --color-muted: #6b7177;    /* dates, captions, meta            4.9:1 */
+
+  /* Surfaces */
+  --color-page: #ffffff;
+  --color-tint: #f5f6f7;     /* table headers, takeaways box */
+  --color-stripe: #fafafa;   /* alternate table rows only */
+  --color-icon-bg: #eef4fa;  /* module icon block only */
+
+  /* Lines */
+  --color-rule: #e3e6e9;
+
+  /* Accent — links, icons, active nav. Nothing else. */
+  --color-link: #1f5fa0;     /*                                  6.6:1 */
+  --color-link-hover: #16487a;
+
+  /* Semantic — meaning only, never decoration */
+  --color-do: #1b6b3a;
+  --color-do-bg: #edf5ef;
+  --color-care: #b3541e;
+  --color-care-bg: #fdf3ec;
+  --color-dont: #b3261e;
+  --color-dont-bg: #fcedec;
+
+  --font-sans: var(--font-inter), Arial, sans-serif;
+
+  /* 4px scale. Classic radius: small enough to be almost invisible. */
+  --radius-card: 4px;
+  --radius-btn: 4px;
+}
+
+/* ------------------------------------------------------------------
+   Chapter accents. One hue per chapter, used ONLY as the 3px rule that
+   marks a chapter. Never on type, never as a background behind text,
+   never in the reading column.
+
+   These are BRIGHT on purpose. A 3px decorative bar is not text, so it
+   carries no contrast minimum — darkening them to pass 4.5:1 (as an
+   earlier version did) made the whole page look tired for no benefit.
+   Saturation is what makes a fourteen-chapter list feel alive.
+
+   Declared on :root, not in @theme — they are referenced through var()
+   in inline styles rather than utility classes, and @theme only emits
+   variables it sees used in a class name.
+   ------------------------------------------------------------------ */
+:root {
+  /* The brand mark. Deeper and more saturated than the link blue so the
+     badge reads as an identity, not as a link that lost its underline. */
+  --color-brand: #1668cc;
+
+  /* Sequence starts on teal and alternates warm/cool. Deliberately not
+     the green→blue→yellow→pink march a certain well-known syllabus
+     opens with. */
+  --color-ch-1:  #0fa3a3;  /* teal      */
+  --color-ch-2:  #e2683c;  /* burnt orange */
+  --color-ch-3:  #4f6fd4;  /* indigo    */
+  --color-ch-4:  #d4a017;  /* ochre     */
+  --color-ch-5:  #6aa84f;  /* leaf      */
+  --color-ch-6:  #c2417f;  /* magenta   */
+  --color-ch-7:  #1d8fb0;  /* cerulean  */
+  --color-ch-8:  #e0752d;  /* tangerine */
+  --color-ch-9:  #7d5bc4;  /* purple    */
+  --color-ch-10: #b5442f;  /* brick     */
+  --color-ch-11: #2f9e6e;  /* emerald   */
+  --color-ch-12: #8a6bbf;  /* lavender  */
+}
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; }
+
+  body {
+    background-color: var(--color-page);
+    color: var(--color-body);
+    font-family: var(--font-sans);
+    font-size: 16px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, h4 { color: var(--color-ink); font-weight: 600; line-height: 1.3; }
+
+  a { color: var(--color-link); text-decoration: none; }
+  a:hover { color: var(--color-link-hover); }
+
+  .num { font-variant-numeric: tabular-nums; }
+
+  /* Display type. Large, tight, near-black. Mastheads and page titles
+     only — never inside the reading column, which stays at 16px.
+     Colour never touches type: the chapter accent lives in the rule
+     above a title, not in the words. */
+  .display {
+    color: var(--color-display);
+    font-weight: 800;
+    line-height: 1.05;
+    letter-spacing: -0.032em;
+    font-size: clamp(2.5rem, 6vw, 4rem);
+  }
+  .display-sm {
+    color: var(--color-display);
+    font-weight: 700;
+    line-height: 1.15;
+    letter-spacing: -0.022em;
+    font-size: clamp(1.625rem, 3vw, 2.125rem);
+  }
+
+  :focus-visible { outline: 2px solid var(--color-link); outline-offset: 2px; }
+}
+
+/* ==================================================================
+   Chapter body. Rule that keeps it tidy: space ABOVE a heading is
+   always larger than space below it, so the heading attaches to its
+   own text instead of floating between two paragraphs.
+   ================================================================== */
+/* 17px, not 16px: the reading column is the one place worth the extra
+   pixel, and it matches the density Varsity reads at. */
+/* The page wrapper centres the column; the article fills it. */
+.chapter { font-size: 1.0625rem; line-height: 1.75; }
+
+.chapter h2 {
+  font-size: 1.3125rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--color-display);
+  margin-top: 40px;
+  margin-bottom: 8px;
+}
+.chapter h3 {
+  font-size: 1.0625rem;
+  font-weight: 600;
+  color: var(--color-display);
+  margin-top: 28px;
+  margin-bottom: 8px;
+}
+.chapter h2:first-child, .chapter h3:first-child { margin-top: 0; }
+
+.chapter p  { margin-top: 18px; }
+.chapter p:first-child { margin-top: 0; }
+
+.chapter ul, .chapter ol { margin-top: 16px; padding-left: 20px; }
+.chapter ul { list-style: disc; }
+.chapter ol { list-style: decimal; }
+.chapter li { margin-top: 6px; }
+.chapter strong { color: var(--color-ink); font-weight: 600; }
+
+/* Tables: visible borders, 8/12 cell padding. Numeric cells are right-aligned
+   by the renderer, which can read the text; prose stays left. */
+.chapter table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 16px;
+  font-size: 0.906rem;
+}
+.chapter th, .chapter td {
+  border: 1px solid var(--color-rule);
+  padding: 8px 12px;
+  text-align: left;
+}
+.chapter th {
+  background: var(--color-tint);
+  color: var(--color-ink);
+  font-weight: 600;
+}
+.chapter tbody tr:nth-child(even) td { background: var(--color-stripe); }
+.chapter td[style*="right"] {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Author aside */
+.chapter blockquote {
+  margin-top: 16px;
+  padding-left: 16px;
+  border-left: 3px solid var(--color-rule);
+  color: var(--color-subtle);
+}
+.chapter blockquote p:first-child { margin-top: 0; }
+
+/* Figures. An image on its own line is centred in the column with its
+   caption beneath, the way a textbook sets a plate. No border: a drawing
+   on white needs no box, and the border made diagrams look like screenshots. */
+.chapter p:has(> img:only-child) {
+  margin-top: 28px;
+  text-align: center;
+}
+.chapter img {
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
+}
+.chapter p:has(> img:only-child) + p > em:only-child {
+  display: block;
+  margin-top: -14px;
+  text-align: center;
+  font-size: 0.8125rem;
+  color: var(--color-muted);
+  font-style: italic;
+}
+
+/* Icon beside a definition — a small drawing left, the explanation right.
+   Written in markdown as an image immediately followed by a heading. */
+.chapter .definition {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  margin-top: 28px;
+}
+.chapter .definition > img {
+  flex-shrink: 0;
+  width: 84px;
+  height: 84px;
+  margin: 4px 0 0;
+  border: 1px solid var(--color-rule);
+  border-radius: var(--radius-card);
+  padding: 10px;
+}
+.chapter .definition-body { flex: 1; min-width: 0; }
+.chapter .definition-body > :first-child { margin-top: 0; }
+
+@media (max-width: 520px) {
+  .chapter .definition { gap: 14px; }
+  .chapter .definition > img { width: 60px; height: 60px; }
+}
+
+/* A table written with no column headings renders an empty header strip.
+   :has() lets us hide it without touching the markdown. */
+.chapter thead:has(th:empty):not(:has(th:not(:empty))) { display: none; }
+
+/* Collapsible questions. A closed row is a scannable list; an open one is
+   an ordinary answer. The marker is a rotating chevron drawn in CSS, so no
+   icon font or JS is involved. */
+.chapter .qa {
+  border-bottom: 1px solid var(--color-rule);
+}
+.chapter .qa:first-of-type { border-top: 1px solid var(--color-rule); }
+
+.chapter .qa > summary {
+  cursor: pointer;
+  list-style: none;
+  position: relative;
+  padding: 14px 36px 14px 0;
+  font-size: 1.0625rem;
+  font-weight: 600;
+  color: var(--color-display);
+  line-height: 1.45;
+}
+.chapter .qa > summary::-webkit-details-marker { display: none; }
+
+.chapter .qa > summary::after {
+  content: "";
+  position: absolute;
+  right: 6px;
+  top: 22px;
+  width: 9px;
+  height: 9px;
+  border-right: 2px solid var(--color-muted);
+  border-bottom: 2px solid var(--color-muted);
+  transform: translateY(-4px) rotate(45deg);
+}
+.chapter .qa[open] > summary::after {
+  transform: translateY(0) rotate(-135deg);
+}
+.chapter .qa[open] > summary { color: var(--color-link); }
+.chapter .qa[open] > summary::after { border-color: var(--color-link); }
+
+.chapter .qa-body { padding: 0 0 18px; }
+.chapter .qa-body > p:first-child { margin-top: 0; }
+
+/* Advice callouts — the only semantic colour outside the health check */
+.callout { padding: 12px 16px; margin-top: 16px; border-radius: var(--radius-card); font-size: 0.938rem; }
+.callout p { margin: 0; }
+.callout-do   { background: var(--color-do-bg); }
+.callout-do strong { color: var(--color-do); }
+.callout-care { background: var(--color-care-bg); }
+.callout-care strong { color: var(--color-care); }
+.callout-dont { background: var(--color-dont-bg); }
+.callout-dont strong { color: var(--color-dont); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

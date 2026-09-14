@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260" width="600" height="260" fill="none" role="img" aria-labelledby="flTitle">
+  <title id="flTitle">A ladder of fund types. At the bottom, overnight and liquid funds for days to weeks. Rising through short duration and hybrid funds, then index and large cap, then flexi and mid cap, up to small cap and sectoral funds needing ten years or more.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">STEADIER AT THE BOTTOM, BUMPIER AT THE TOP</text>
+
+  <rect x="16" y="208" width="440" height="32" rx="3" fill="#EEF4FA"/>
+  <text x="30" y="229" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">Overnight and Liquid</text>
+  <text x="446" y="229" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="end">days to weeks</text>
+
+  <rect x="16" y="172" width="440" height="32" rx="3" fill="#D6E5F2"/>
+  <text x="30" y="193" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">Short duration, Corporate bond, Arbitrage</text>
+  <text x="446" y="193" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="end">1–3 years</text>
+
+  <rect x="16" y="136" width="440" height="32" rx="3" fill="#A8C8E4"/>
+  <text x="30" y="157" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">Conservative and Balanced Hybrid</text>
+  <text x="446" y="157" font-family="Inter, Arial, sans-serif" font-size="11" fill="#44484D" text-anchor="end">3–5 years</text>
+
+  <rect x="16" y="100" width="440" height="32" rx="3" fill="#6FA3D0"/>
+  <text x="30" y="121" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#FFFFFF">Index, Large cap, Aggressive Hybrid</text>
+  <text x="446" y="121" font-family="Inter, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="end">5–7 years</text>
+
+  <rect x="16" y="64" width="440" height="32" rx="3" fill="#3D7FB8"/>
+  <text x="30" y="85" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#FFFFFF">Flexi cap, Multi cap, Mid cap</text>
+  <text x="446" y="85" font-family="Inter, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="end">7+ years</text>
+
+  <rect x="16" y="28" width="440" height="32" rx="3" fill="#1F5FA0"/>
+  <text x="30" y="49" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#FFFFFF">Small cap, Focused, Sectoral, Thematic</text>
+  <text x="446" y="49" font-family="Inter, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="end">10+ years</text>
+
+  <line x1="478" y1="44" x2="478" y2="224" stroke="#2E3338" stroke-width="1.3"/>
+  <path d="M474 52 l4 -8 l4 8 z" fill="#2E3338"/>
+  <text x="492" y="80" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">More growth</text>
+  <text x="492" y="95" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">potential, and</text>
+  <text x="492" y="110" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">deeper falls</text>
+  <text x="492" y="190" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">More stability,</text>
+  <text x="492" y="205" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">lower returns</text>
+</svg>

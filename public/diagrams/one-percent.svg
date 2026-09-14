@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290" width="600" height="290" fill="none" role="img" aria-labelledby="opT">
+  <title id="opT">Two lines start at the same point. One improves by one percent each day and rises to thirty-eight times its starting value over a year. The other declines one percent each day and falls almost to zero. For the first two months the two lines are almost touching.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">1% BETTER OR 1% WORSE, EVERY DAY, FOR ONE YEAR</text>
+
+  <line x1="60" y1="150" x2="560" y2="150" stroke="#E3E6E9" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <text x="56" y="154" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="end">start</text>
+
+  <path d="M60 150 C 180 146, 280 132, 370 106 S 500 48, 556 30" stroke="#3B8049" stroke-width="2.6" fill="none"/>
+  <path d="M60 150 C 180 156, 300 176, 400 196 S 520 220, 556 226" stroke="#E2683C" stroke-width="2.6" fill="none"/>
+
+  <circle cx="556" cy="30" r="5" fill="#3B8049"/>
+  <text x="548" y="26" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#2F6B3A" text-anchor="end">37.8×</text>
+  <circle cx="556" cy="226" r="5" fill="#E2683C"/>
+  <text x="548" y="244" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#B44A22" text-anchor="end">0.03×</text>
+
+  <rect x="60" y="120" width="80" height="60" fill="#2E3338" fill-opacity="0.05"/>
+  <text x="100" y="196" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="middle">first 2 months:</text>
+  <text x="100" y="210" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="middle">barely any gap</text>
+
+  <line x1="16" y1="262" x2="584" y2="262" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="280" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2E3338">The daily choice is identical in size. After a year the two are about 1,480 times apart.</text>
+</svg>

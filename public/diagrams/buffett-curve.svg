@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290" width="600" height="290" fill="none" role="img" aria-labelledby="bcT">
+  <title id="bcT">A curve showing that when money compounds for sixty years, almost all of the final value appears in the last twenty. The line is barely off the floor at year thirty and rises almost vertically near the end.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">WHY A LONG LIFE MATTERS MORE THAN A GOOD YEAR</text>
+
+  <line x1="60" y1="234" x2="570" y2="234" stroke="#2E3338" stroke-width="1.2"/>
+  <line x1="60" y1="44" x2="60" y2="234" stroke="#E3E6E9" stroke-width="1"/>
+
+  <path d="M60 234 C 220 233, 330 230, 410 220 S 505 168, 540 110 S 558 66, 564 48"
+        fill="none" stroke="#1F5FA0" stroke-width="2.6"/>
+
+  <line x1="410" y1="44" x2="410" y2="234" stroke="#8A9099" stroke-width="1.3" stroke-dasharray="4 3"/>
+  <text x="402" y="60" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#6B7177" text-anchor="end">year 30</text>
+
+  <circle cx="410" cy="220" r="4.5" fill="#E2683C"/>
+  <text x="402" y="212" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#B44A22" text-anchor="end">0.4% of the total</text>
+
+  <circle cx="564" cy="48" r="5" fill="#3B8049"/>
+
+  <text x="60" y="252" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177">start</text>
+  <text x="564" y="252" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="end">year 60</text>
+
+  <line x1="16" y1="264" x2="584" y2="264" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="282" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2E3338">At a steady rate over sixty years, over 99% of the final value arrives in the second half.</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="600" height="200" fill="none" role="img" aria-labelledby="mdTitle">
+  <title id="mdTitle">A sixty thousand rupee balance paid by minimum due takes over ten years and costs about ninety-eight thousand in interest. Paying five thousand five hundred a month clears it in fourteen months for about sixteen thousand in interest.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">A ₹60,000 BALANCE AT ABOUT 40% A YEAR</text>
+
+  <text x="16" y="50" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#B3261E">Paying only the minimum due</text>
+  <rect x="16" y="58" width="568" height="30" rx="3" fill="#B3261E"/>
+  <text x="30" y="78" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">131 months — over 10 years</text>
+  <text x="570" y="78" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="end">₹1,57,600 paid</text>
+
+  <text x="16" y="120" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1B6B3A">Paying ₹5,500 a month</text>
+  <rect x="16" y="128" width="61" height="30" rx="3" fill="#1B6B3A"/>
+  <text x="88" y="148" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B6B3A">14 months</text>
+  <text x="570" y="148" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1B6B3A" text-anchor="end">₹75,800 paid</text>
+
+  <text x="16" y="186" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338">The minimum-due path costs about ₹98,000 in interest — more than the thing you bought.</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 250" width="600" height="250" fill="none" role="img" aria-labelledby="ieTitle">
+  <title id="ieTitle">One lakh rupees held as cash keeps the same balance for twenty years while what it can buy falls from one lakh to about thirty-one thousand rupees at six percent inflation.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">₹1,00,000 HELD AS CASH, AT 6% INFLATION</text>
+
+  <line x1="16" y1="196" x2="470" y2="196" stroke="#E3E6E9" stroke-width="1"/>
+
+  <line x1="60" y1="60" x2="440" y2="60" stroke="#6B7177" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="446" y="57" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#6B7177">the balance</text>
+  <text x="446" y="71" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177">never changes</text>
+
+  <rect x="52" y="60" width="56" height="136" rx="3" fill="#1F5FA0"/>
+  <text x="80" y="52" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FA0" text-anchor="middle">₹1,00,000</text>
+  <text x="80" y="214" font-family="Inter, Arial, sans-serif" font-size="11" fill="#44484D" text-anchor="middle">today</text>
+
+  <rect x="152" y="60" width="56" height="136" rx="3" fill="#EEF4FA"/>
+  <rect x="152" y="94" width="56" height="102" rx="3" fill="#3D7FB8"/>
+  <text x="180" y="86" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#3D7FB8" text-anchor="middle">₹74,726</text>
+  <text x="180" y="214" font-family="Inter, Arial, sans-serif" font-size="11" fill="#44484D" text-anchor="middle">5 years</text>
+
+  <rect x="252" y="60" width="56" height="136" rx="3" fill="#EEF4FA"/>
+  <rect x="252" y="120" width="56" height="76" rx="3" fill="#6FA3D0"/>
+  <text x="280" y="112" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#3D7FB8" text-anchor="middle">₹55,839</text>
+  <text x="280" y="214" font-family="Inter, Arial, sans-serif" font-size="11" fill="#44484D" text-anchor="middle">10 years</text>
+
+  <rect x="352" y="60" width="56" height="136" rx="3" fill="#EEF4FA"/>
+  <rect x="352" y="154" width="56" height="42" rx="3" fill="#A8C8E4"/>
+  <text x="380" y="146" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#3D7FB8" text-anchor="middle">₹31,180</text>
+  <text x="380" y="214" font-family="Inter, Arial, sans-serif" font-size="11" fill="#44484D" text-anchor="middle">20 years</text>
+
+  <text x="16" y="240" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2E3338">The solid bar is what the money can actually buy. Nobody took it — prices simply rose.</text>
+</svg>

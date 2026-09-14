@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290" width="600" height="290" fill="none" role="img" aria-labelledby="avTitle">
+  <title id="avTitle">The same four lakh fifty thousand rupee bill. Anil's room rent limit and twenty percent co-payment leave him paying two lakh seventy thousand. Vikram, with no limit and no co-payment, pays nothing.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">THE SAME ₹4,50,000 BILL · FIVE DAYS · SAME HOSPITAL</text>
+
+  <text x="16" y="48" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#B3261E">ANIL</text>
+  <line x1="16" y1="56" x2="292" y2="56" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="76" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Total bill</text>
+  <text x="292" y="76" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338" text-anchor="end">₹4,50,000</text>
+  <text x="16" y="96" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Cut for a costlier room</text>
+  <text x="292" y="96" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#B3261E" text-anchor="end">− ₹2,25,000</text>
+  <text x="16" y="116" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">His 20% co-payment</text>
+  <text x="292" y="116" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#B3261E" text-anchor="end">− ₹45,000</text>
+  <line x1="16" y1="128" x2="292" y2="128" stroke="#2E3338" stroke-width="1.5"/>
+  <text x="16" y="148" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#2E3338">Insurer paid</text>
+  <text x="292" y="148" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#2E3338" text-anchor="end">₹1,80,000</text>
+  <rect x="16" y="162" width="276" height="46" rx="3" fill="#B3261E"/>
+  <text x="30" y="182" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Anil paid from savings</text>
+  <text x="278" y="200" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="end">₹2,70,000</text>
+
+  <text x="308" y="48" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1B6B3A">VIKRAM</text>
+  <line x1="308" y1="56" x2="584" y2="56" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="308" y="76" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Total bill</text>
+  <text x="584" y="76" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338" text-anchor="end">₹4,50,000</text>
+  <text x="308" y="96" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Room rent cut</text>
+  <text x="584" y="96" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1B6B3A" text-anchor="end">None</text>
+  <text x="308" y="116" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Co-payment</text>
+  <text x="584" y="116" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1B6B3A" text-anchor="end">None</text>
+  <line x1="308" y1="128" x2="584" y2="128" stroke="#2E3338" stroke-width="1.5"/>
+  <text x="308" y="148" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#2E3338">Insurer paid</text>
+  <text x="584" y="148" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#2E3338" text-anchor="end">₹4,50,000</text>
+  <rect x="308" y="162" width="276" height="46" rx="3" fill="#1B6B3A"/>
+  <text x="322" y="182" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Vikram paid from savings</text>
+  <text x="570" y="200" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="end">₹0</text>
+
+  <rect x="16" y="228" width="568" height="46" rx="3" fill="#EDF5EF"/>
+  <text x="30" y="250" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1B6B3A">Anil saved ₹7,300 a year on premium. It cost him ₹2,70,000 on one hospital bill.</text>
+  <text x="30" y="268" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#44484D">Every rupee of that difference sat in two clauses he never read.</text>
+</svg>

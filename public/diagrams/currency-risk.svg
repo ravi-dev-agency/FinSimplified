@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" fill="none" role="img" aria-labelledby="crTitle">
+  <title id="crTitle">A US index rising ten percent gives an Indian investor plus 15.5 percent if the rupee weakens five percent, but only plus 3.4 percent if the rupee strengthens six percent. Currency movement is roughly half the outcome.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">THE US INDEX RISES 10%. WHAT DO YOU ACTUALLY GET?</text>
+
+  <text x="16" y="54" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Rupee weakens 5%</text>
+  <rect x="190" y="42" width="300" height="24" rx="3" fill="#1B6B3A"/>
+  <text x="498" y="59" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1B6B3A">+15.5%</text>
+  <text x="190" y="82" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">the weaker rupee adds to your gain</text>
+
+  <text x="16" y="118" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Rupee unchanged</text>
+  <rect x="190" y="106" width="194" height="24" rx="3" fill="#6B7177"/>
+  <text x="392" y="123" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#44484D">+10%</text>
+  <text x="190" y="146" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">you get what the index gave</text>
+
+  <text x="16" y="182" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Rupee strengthens 6%</text>
+  <rect x="190" y="170" width="66" height="24" rx="3" fill="#B3541E"/>
+  <text x="264" y="187" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#B3541E">+3.4%</text>
+  <text x="190" y="210" font-family="Inter, Arial, sans-serif" font-size="11" fill="#B3541E">most of the gain is eaten by currency</text>
+
+  <text x="16" y="234" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Most Indian international ETFs are unhedged, so this passes straight through to you. Illustrative.</text>
+</svg>

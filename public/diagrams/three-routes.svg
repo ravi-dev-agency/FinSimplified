@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290" width="600" height="290" fill="none" role="img" aria-labelledby="trTitle">
+  <title id="trTitle">Three routes into the stock market. Buying direct shares yourself means owning a few companies and carrying high risk. A mutual fund manager buys forty to fifty companies for you. An ETF copies an index of fifty or more companies. All three end at the same market.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">THREE ROUTES INTO THE SAME MARKET</text>
+
+  <rect x="16" y="38" width="176" height="40" rx="3" fill="#1F5FA0"/>
+  <text x="104" y="63" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">You buy shares</text>
+  <rect x="212" y="38" width="176" height="40" rx="3" fill="#3D7FB8"/>
+  <text x="300" y="63" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">You buy a mutual fund</text>
+  <rect x="408" y="38" width="176" height="40" rx="3" fill="#6FA3D0"/>
+  <text x="496" y="63" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">You buy an ETF</text>
+
+  <path d="M104 78 L104 104" stroke="#2E3338" stroke-width="1.3"/>
+  <path d="M100 96 l4 8 l4 -8 z" fill="#2E3338"/>
+  <path d="M300 78 L300 104" stroke="#2E3338" stroke-width="1.3"/>
+  <path d="M296 96 l4 8 l4 -8 z" fill="#2E3338"/>
+  <path d="M496 78 L496 104" stroke="#2E3338" stroke-width="1.3"/>
+  <path d="M492 96 l4 8 l4 -8 z" fill="#2E3338"/>
+
+  <rect x="16" y="106" width="176" height="52" rx="3" fill="#FDF0EC" stroke="#E2683C" stroke-width="1.2"/>
+  <text x="104" y="127" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#B44A22" text-anchor="middle">You choose each company</text>
+  <text x="104" y="145" font-family="Inter, Arial, sans-serif" font-size="11" fill="#B44A22" text-anchor="middle">High risk, high reward</text>
+
+  <rect x="212" y="106" width="176" height="52" rx="3" fill="#EEF4FA" stroke="#1F5FA0" stroke-width="1.2"/>
+  <text x="300" y="127" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FA0" text-anchor="middle">A manager chooses</text>
+  <text x="300" y="145" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1F5FA0" text-anchor="middle">40–50 companies</text>
+
+  <rect x="408" y="106" width="176" height="52" rx="3" fill="#EEF4FA" stroke="#1F5FA0" stroke-width="1.2"/>
+  <text x="496" y="127" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FA0" text-anchor="middle">It copies an index</text>
+  <text x="496" y="145" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1F5FA0" text-anchor="middle">50+ companies</text>
+
+  <path d="M104 158 L104 186 L300 186" stroke="#2E3338" stroke-width="1.3" fill="none"/>
+  <path d="M300 158 L300 186" stroke="#2E3338" stroke-width="1.3"/>
+  <path d="M496 158 L496 186 L300 186" stroke="#2E3338" stroke-width="1.3" fill="none"/>
+  <path d="M296 196 l4 8 l4 -8 z" fill="#2E3338"/>
+  <path d="M300 186 L300 198" stroke="#2E3338" stroke-width="1.3"/>
+
+  <rect x="150" y="206" width="300" height="44" rx="3" fill="#2E3338"/>
+  <text x="300" y="233" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#FFFFFF" text-anchor="middle">Shares of real companies</text>
+
+  <text x="16" y="274" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2E3338">All three own the same thing. What differs is who chooses, and how many companies you end up holding.</text>
+</svg>

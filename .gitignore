@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.env*
+.DS_Store
+*.log
+
+# Tooling output
+.playwright-mcp/
+tsconfig.tsbuildinfo

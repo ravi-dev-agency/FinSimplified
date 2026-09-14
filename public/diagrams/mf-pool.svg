@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" width="600" height="220" fill="none" role="img" aria-labelledby="mpTitle">
+  <title id="mpTitle">Many investors put money into one pool managed by a fund manager. The pool buys shares, bonds and cash instruments. Each investor receives units representing their share.</title>
+  <text x="76" y="20" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#6B7177" text-anchor="middle">INVESTORS</text>
+
+  <rect x="16" y="32" width="120" height="26" rx="4" fill="#F5F6F7" stroke="#E3E6E9" stroke-width="1.2"/>
+  <text x="76" y="49" font-family="Inter, Arial, sans-serif" font-size="11" fill="#2E3338" text-anchor="middle">Priya · ₹6,000</text>
+  <rect x="16" y="64" width="120" height="26" rx="4" fill="#F5F6F7" stroke="#E3E6E9" stroke-width="1.2"/>
+  <text x="76" y="81" font-family="Inter, Arial, sans-serif" font-size="11" fill="#2E3338" text-anchor="middle">Arjun · ₹2,000</text>
+  <rect x="16" y="96" width="120" height="26" rx="4" fill="#F5F6F7" stroke="#E3E6E9" stroke-width="1.2"/>
+  <text x="76" y="113" font-family="Inter, Arial, sans-serif" font-size="11" fill="#2E3338" text-anchor="middle">Meera · ₹25,000</text>
+  <rect x="16" y="128" width="120" height="26" rx="4" fill="#F5F6F7" stroke="#E3E6E9" stroke-width="1.2"/>
+  <text x="76" y="145" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">…10,000 more</text>
+
+  <path d="M142 93 h26" stroke="#6B7177" stroke-width="1.4"/><path d="M164 89 l6 4 l-6 4 z" fill="#6B7177"/>
+
+  <rect x="178" y="56" width="150" height="74" rx="5" fill="#1F5FA0"/>
+  <text x="253" y="86" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">The scheme</text>
+  <text x="253" y="106" font-family="Inter, Arial, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85" text-anchor="middle">one pool, one manager</text>
+
+  <path d="M334 93 h26" stroke="#6B7177" stroke-width="1.4"/><path d="M356 89 l6 4 l-6 4 z" fill="#6B7177"/>
+
+  <text x="474" y="20" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#6B7177" text-anchor="middle">WHAT THE POOL BUYS</text>
+  <rect x="370" y="40" width="214" height="28" rx="4" fill="#FFFFFF" stroke="#E3E6E9" stroke-width="1.2"/>
+  <text x="477" y="58" font-family="Inter, Arial, sans-serif" font-size="11" fill="#2E3338" text-anchor="middle">Shares of 50 companies</text>
+  <rect x="370" y="76" width="214" height="28" rx="4" fill="#FFFFFF" stroke="#E3E6E9" stroke-width="1.2"/>
+  <text x="477" y="94" font-family="Inter, Arial, sans-serif" font-size="11" fill="#2E3338" text-anchor="middle">Government and company bonds</text>
+  <rect x="370" y="112" width="214" height="28" rx="4" fill="#FFFFFF" stroke="#E3E6E9" stroke-width="1.2"/>
+  <text x="477" y="130" font-family="Inter, Arial, sans-serif" font-size="11" fill="#2E3338" text-anchor="middle">Cash and money market</text>
+
+  <path d="M253 134 v40 h-177 v-16" stroke="#6B7177" stroke-width="1.2" stroke-dasharray="4 4" fill="none"/>
+  <path d="M72 162 l4 -6 l4 6 z" fill="#6B7177"/>
+  <text x="300" y="196" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177" text-anchor="middle">Each investor gets units in return — their share of the pool</text>
+</svg>

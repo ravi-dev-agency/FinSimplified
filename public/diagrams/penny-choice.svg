@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" fill="none" role="img" aria-labelledby="pcT">
+  <title id="pcT">A person stands between two choices: three million rupees offered today in a large sack, or a single paisa that doubles every day for thirty-one days. The doubling paisa is worth far more.</title>
+
+  <g stroke="#2E3338" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="300" cy="120" r="34"/>
+    <circle cx="288" cy="114" r="4.5" fill="#2E3338"/>
+    <circle cx="313" cy="114" r="4.5" fill="#2E3338"/>
+    <path d="M286 134c5 5 10 7 15 7s10-2 14-6"/>
+    <path d="M276 96c4-6 9-8 14-7M324 96c-4-6-9-8-14-7"/>
+    <path d="M300 154v56"/>
+    <path d="M300 168 262 196M300 168l38 28"/>
+    <path d="M300 210l-16 44M300 210l16 44"/>
+  </g>
+
+  <g>
+    <rect x="36" y="150" width="150" height="96" rx="8" fill="#EEF4FA" stroke="#1F5FA0" stroke-width="2"/>
+    <text x="111" y="184" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1F5FA0" text-anchor="middle">₹30,00,000</text>
+    <text x="111" y="206" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1F5FA0" text-anchor="middle">right now, today</text>
+    <text x="111" y="226" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177" text-anchor="middle">in one sack</text>
+    <path d="M254 190 200 190" stroke="#8A9099" stroke-width="2" stroke-linecap="round"/>
+    <path d="M208 184l-8 6 8 6" fill="none" stroke="#8A9099" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g>
+    <rect x="414" y="150" width="150" height="96" rx="8" fill="#E8F3EA" stroke="#3B8049" stroke-width="2"/>
+    <circle cx="489" cy="180" r="15" fill="#8FD0A8" stroke="#3B8049" stroke-width="1.8"/>
+    <text x="489" y="185" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#2F6B3A" text-anchor="middle">1p</text>
+    <text x="489" y="214" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2F6B3A" text-anchor="middle">one paisa, doubling</text>
+    <text x="489" y="232" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2F6B3A" text-anchor="middle">every day for 31 days</text>
+    <path d="M346 190 400 190" stroke="#8A9099" stroke-width="2" stroke-linecap="round"/>
+    <path d="M392 184l8 6-8 6" fill="none" stroke="#8A9099" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="300" y="278" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#2E3338" text-anchor="middle">Which would you take?</text>
+  <text x="300" y="294" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">Almost everyone picks the sack. Almost everyone is wrong.</text>
+</svg>

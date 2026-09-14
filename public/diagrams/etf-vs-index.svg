@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 230" width="600" height="230" fill="none" role="img" aria-labelledby="eviTitle">
+  <title id="eviTitle">An index fund has one NAV a day that everyone pays. An ETF has a live market price that moves through the day and can sit above or below the fund's true value.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">THE SAME FIFTY COMPANIES. TWO WAYS TO BUY THEM.</text>
+
+  <text x="16" y="50" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1B6B3A">INDEX FUND</text>
+  <text x="16" y="67" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">one price a day</text>
+  <line x1="150" y1="58" x2="560" y2="58" stroke="#E3E6E9" stroke-width="1.2"/>
+  <rect x="150" y="48" width="410" height="20" rx="3" fill="#EDF5EF" stroke="#1B6B3A" stroke-width="1.2"/>
+  <text x="355" y="62" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1B6B3A" text-anchor="middle">everyone pays the same NAV</text>
+
+  <text x="16" y="116" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#B3541E">ETF</text>
+  <text x="16" y="133" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">a live price</text>
+
+  <line x1="150" y1="120" x2="560" y2="120" stroke="#E3E6E9" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <text x="566" y="124" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="end">iNAV — true value</text>
+
+  <path d="M150 128 L190 112 L230 132 L270 106 L310 126 L350 114 L390 134 L430 110 L470 124 L510 118 L550 128"
+        stroke="#B3541E" stroke-width="2" fill="none" stroke-linejoin="round"/>
+
+  <circle cx="270" cy="106" r="4" fill="#B3261E"/>
+  <text x="270" y="98" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#B3261E" text-anchor="middle">premium</text>
+  <circle cx="390" cy="134" r="4" fill="#1B6B3A"/>
+  <text x="390" y="152" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1B6B3A" text-anchor="middle">discount</text>
+
+  <line x1="16" y1="178" x2="584" y2="178" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="200" font-family="Inter, Arial, sans-serif" font-size="12" fill="#2E3338">Buying above the dashed line means overpaying for the same portfolio.</text>
+  <text x="16" y="219" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Check iNAV before every order. On a liquid ETF the gap is a few paise; on a thin one it can be 2%.</text>
+</svg>

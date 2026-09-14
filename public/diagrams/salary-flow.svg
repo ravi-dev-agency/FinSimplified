@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 470" width="600" height="470" fill="none" role="img" aria-labelledby="sfTitle">
+  <title id="sfTitle">Four stages of a wealth journey: first see where your salary goes, then plan it by paying yourself first, then protect it with an emergency fund and insurance, and finally grow it by clearing costly debt and investing.</title>
+
+  <!-- STAGE 1 — SEE -->
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7177" letter-spacing="1">STAGE 1 — SEE IT</text>
+  <rect x="16" y="30" width="568" height="48" rx="4" fill="#F5F6F7" stroke="#2E3338" stroke-width="1.5"/>
+  <circle cx="44" cy="54" r="13" fill="#2E3338"/>
+  <text x="44" y="59" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="70" y="50" font-family="Inter, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#2E3338">Find out where your salary actually goes</text>
+  <text x="70" y="67" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7177">one month of statements, three buckets — you cannot plan what you cannot see</text>
+
+  <path d="M300 78 v12" stroke="#B8BCC0" stroke-width="2"/>
+  <path d="M295 88 l5 6 l5 -6" fill="#B8BCC0"/>
+
+  <!-- STAGE 2 — PLAN -->
+  <text x="16" y="112" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#1B6B3A" letter-spacing="1">STAGE 2 — PLAN IT</text>
+  <rect x="16" y="122" width="568" height="48" rx="4" fill="#EDF5EF" stroke="#1B6B3A" stroke-width="1.5"/>
+  <circle cx="44" cy="146" r="13" fill="#1B6B3A"/>
+  <text x="44" y="151" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text x="70" y="142" font-family="Inter, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#1B6B3A">Decide the split, and move savings out on payday</text>
+  <text x="70" y="159" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1B6B3A">bills, savings, spending — in that order, before the month starts</text>
+
+  <path d="M300 170 v12" stroke="#B8BCC0" stroke-width="2"/>
+  <path d="M295 180 l5 6 l5 -6" fill="#B8BCC0"/>
+
+  <!-- STAGE 3 — PROTECT -->
+  <text x="16" y="204" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#B3541E" letter-spacing="1">STAGE 3 — PROTECT IT</text>
+  <rect x="16" y="214" width="568" height="44" rx="4" fill="#FDF3EC" stroke="#B3541E" stroke-width="1.5"/>
+  <circle cx="44" cy="236" r="13" fill="#B3541E"/>
+  <text x="44" y="241" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="70" y="232" font-family="Inter, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#B3541E">Build the emergency fund</text>
+  <text x="70" y="249" font-family="Inter, Arial, sans-serif" font-size="12" fill="#B3541E">three to six months of expenses, reachable the same day</text>
+
+  <path d="M300 258 v10" stroke="#B8BCC0" stroke-width="2"/>
+  <path d="M295 266 l5 6 l5 -6" fill="#B8BCC0"/>
+
+  <rect x="16" y="276" width="568" height="44" rx="4" fill="#FDF3EC" stroke="#B3541E" stroke-width="1.5"/>
+  <circle cx="44" cy="298" r="13" fill="#B3541E"/>
+  <text x="44" y="303" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+  <text x="70" y="294" font-family="Inter, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#B3541E">Insure — health first, then term</text>
+  <text x="70" y="311" font-family="Inter, Arial, sans-serif" font-size="12" fill="#B3541E">one hospital bill can undo a decade of saving</text>
+
+  <path d="M300 320 v12" stroke="#B8BCC0" stroke-width="2"/>
+  <path d="M295 330 l5 6 l5 -6" fill="#B8BCC0"/>
+
+  <!-- STAGE 4 — GROW -->
+  <text x="16" y="354" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#1F5FA0" letter-spacing="1">STAGE 4 — GROW IT</text>
+  <rect x="16" y="364" width="568" height="44" rx="4" fill="#EEF4FA" stroke="#1F5FA0" stroke-width="1.5"/>
+  <circle cx="44" cy="386" r="13" fill="#1F5FA0"/>
+  <text x="44" y="391" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+  <text x="70" y="382" font-family="Inter, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#1F5FA0">Clear expensive debt</text>
+  <text x="70" y="399" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1F5FA0">a credit card at 36% a year beats any return you will earn</text>
+
+  <path d="M300 408 v10" stroke="#B8BCC0" stroke-width="2"/>
+  <path d="M295 416 l5 6 l5 -6" fill="#B8BCC0"/>
+
+  <rect x="16" y="426" width="568" height="44" rx="4" fill="#1F5FA0"/>
+  <circle cx="44" cy="448" r="13" fill="#FFFFFF"/>
+  <text x="44" y="453" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1F5FA0" text-anchor="middle">6</text>
+  <text x="70" y="444" font-family="Inter, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#FFFFFF">Invest for the long term</text>
+  <text x="70" y="461" font-family="Inter, Arial, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.85">now this money can be left alone for ten years — which is how it compounds</text>
+</svg>

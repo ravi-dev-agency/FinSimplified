@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 200" width="560" height="200" fill="none" role="img" aria-labelledby="ayaTitle">
+  <title id="ayaTitle">From paying on day one to the policy being issued around day thirty. You are not covered during this period — only once the policy is issued.</title>
+
+  <text x="16" y="22" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">YOU ARE NOT COVERED UNTIL THE POLICY IS ISSUED</text>
+
+  <!-- the gap -->
+  <rect x="16" y="44" width="392" height="30" rx="4" fill="#FDF3EC"/>
+  <text x="212" y="64" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#B3541E" text-anchor="middle">not covered yet — this is the gap people do not expect</text>
+
+  <rect x="408" y="44" width="136" height="30" rx="4" fill="#EDF5EF"/>
+  <text x="476" y="64" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B6B3A" text-anchor="middle">covered</text>
+
+  <!-- timeline -->
+  <line x1="16" y1="98" x2="544" y2="98" stroke="#2E3338" stroke-width="1.5"/>
+
+  <circle cx="16" cy="98" r="5" fill="#2E3338"/>
+  <circle cx="150" cy="98" r="5" fill="#2E3338"/>
+  <circle cx="290" cy="98" r="5" fill="#2E3338"/>
+  <circle cx="408" cy="98" r="5" fill="#1B6B3A"/>
+
+  <text x="16" y="124" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338">Day 1</text>
+  <text x="16" y="140" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">you pay</text>
+
+  <text x="150" y="124" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338">Day 2–7</text>
+  <text x="150" y="140" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">medical test</text>
+
+  <text x="290" y="124" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2E3338">Day 7–20</text>
+  <text x="290" y="140" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">underwriting</text>
+
+  <text x="408" y="124" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#1B6B3A">Day 15–30</text>
+  <text x="408" y="140" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1B6B3A">policy issued</text>
+
+  <line x1="16" y1="166" x2="544" y2="166" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="188" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">Your 30 days to read the policy and cancel start on the day it is issued, not the day you paid.</text>
+</svg>

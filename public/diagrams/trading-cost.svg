@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 250" width="600" height="250" fill="none" role="img" aria-labelledby="tcT">
+  <title id="tcT">At a cost of 0.3 percent per round trip, twelve trades a year costs 3.6 percent of your capital, fifty trades costs 15 percent, and two hundred trades costs 60 percent. Equity has historically returned about 12 percent a year, so frequent trading consumes the entire return.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">WHAT TRADING COSTS YOU EACH YEAR, AT 0.3% A ROUND TRIP</text>
+
+  <line x1="150" y1="42" x2="150" y2="196" stroke="#E3E6E9" stroke-width="1"/>
+  <line x1="150" y1="196" x2="560" y2="196" stroke="#2E3338" stroke-width="1.3"/>
+
+  <line x1="219" y1="42" x2="219" y2="196" stroke="#3B8049" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="224" y="54" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#3B8049">equity has returned ~12% a year</text>
+
+  <text x="140" y="76" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2E3338" text-anchor="end">12 trades</text>
+  <rect x="150" y="64" width="21" height="20" rx="2" fill="#A8C8E4"/>
+  <text x="179" y="79" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#44484D">3.6%</text>
+
+  <text x="140" y="116" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2E3338" text-anchor="end">50 trades</text>
+  <rect x="150" y="104" width="86" height="20" rx="2" fill="#6FA3D0"/>
+  <text x="244" y="119" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#44484D">15%</text>
+
+  <text x="140" y="156" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2E3338" text-anchor="end">200 trades</text>
+  <rect x="150" y="144" width="345" height="20" rx="2" fill="#E2683C"/>
+  <text x="503" y="159" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2683C">60%</text>
+
+  <text x="150" y="212" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177">0%</text>
+  <text x="345" y="212" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="middle">30%</text>
+  <text x="495" y="212" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#6B7177" text-anchor="middle">60% of your capital</text>
+
+  <text x="16" y="238" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2E3338">Trade 200 times a year and you need a 60% return just to break even. Illustration only.</text>
+</svg>

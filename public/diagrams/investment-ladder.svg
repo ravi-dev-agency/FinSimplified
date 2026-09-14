@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 270" width="600" height="270" fill="none" role="img" aria-labelledby="ilTitle">
+  <title id="ilTitle">A ladder of investment options. At the bottom, savings accounts and fixed deposits with almost no risk and low returns. Rising through PPF, gold and hybrid funds to index funds, active funds and finally direct shares, which offer the most growth and the deepest falls.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">SAFER AT THE BOTTOM, MORE GROWTH AND DEEPER FALLS AT THE TOP</text>
+
+  <rect x="16" y="216" width="432" height="34" rx="3" fill="#EEF4FA"/>
+  <text x="30" y="238" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">Savings account, Liquid funds</text>
+  <text x="438" y="238" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="end">days</text>
+
+  <rect x="16" y="178" width="432" height="34" rx="3" fill="#D6E5F2"/>
+  <text x="30" y="200" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">Fixed deposits, Short duration debt</text>
+  <text x="438" y="200" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="end">1–3 years</text>
+
+  <rect x="16" y="140" width="432" height="34" rx="3" fill="#A8C8E4"/>
+  <text x="30" y="162" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">PPF, EPF, Gold, Hybrid funds</text>
+  <text x="438" y="162" font-family="Inter, Arial, sans-serif" font-size="11" fill="#44484D" text-anchor="end">3–10 years</text>
+
+  <rect x="16" y="102" width="432" height="34" rx="3" fill="#6FA3D0"/>
+  <text x="30" y="124" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#FFFFFF">Index funds, ETFs, Large cap funds</text>
+  <text x="438" y="124" font-family="Inter, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="end">5–10 years</text>
+
+  <rect x="16" y="64" width="432" height="34" rx="3" fill="#3D7FB8"/>
+  <text x="30" y="86" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#FFFFFF">Flexi cap, Mid cap, Small cap funds</text>
+  <text x="438" y="86" font-family="Inter, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="end">7–10 years+</text>
+
+  <rect x="16" y="26" width="432" height="34" rx="3" fill="#1F5FA0"/>
+  <text x="30" y="48" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#FFFFFF">Direct shares, Sectoral funds</text>
+  <text x="438" y="48" font-family="Inter, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="end">10 years+, high tolerance</text>
+
+  <line x1="472" y1="42" x2="472" y2="234" stroke="#2E3338" stroke-width="1.3"/>
+  <path d="M468 50 l4 -8 l4 8 z" fill="#2E3338"/>
+  <text x="486" y="76" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">More growth,</text>
+  <text x="486" y="91" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">deeper falls</text>
+  <text x="486" y="200" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">More stability,</text>
+  <text x="486" y="215" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">lower returns</text>
+</svg>

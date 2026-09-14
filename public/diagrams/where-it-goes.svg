@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 270" width="600" height="270" fill="none" role="img" aria-labelledby="wigTitle">
+  <title id="wigTitle">Ramu's monthly salary of 58,000 rupees split into four parts: 22,050 fixed, 10,739 living, 18,407 free spending, and only 6,804 actually saved. He believed he was saving 15,000.</title>
+
+  <text x="16" y="22" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">RAMU'S ₹58,000, ONE REAL MONTH</text>
+
+  <!-- proportional bar: 568px wide across 58,000 -->
+  <rect x="16" y="42" width="216" height="40" fill="#5A6066"/>
+  <rect x="232" y="42" width="105" height="40" fill="#8A9096"/>
+  <rect x="337" y="42" width="180" height="40" fill="#B3541E"/>
+  <rect x="517" y="42" width="67" height="40" fill="#1B6B3A"/>
+
+  <!-- labels under each block -->
+  <text x="20" y="102" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338">Fixed</text>
+  <text x="20" y="119" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7177">₹22,050</text>
+  <text x="20" y="136" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">rent, EMI, premium</text>
+
+  <text x="236" y="102" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338">Living</text>
+  <text x="236" y="119" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7177">₹10,739</text>
+
+  <text x="341" y="102" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#B3541E">Free</text>
+  <text x="341" y="119" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#B3541E">₹18,407</text>
+  <text x="341" y="136" font-family="Inter, Arial, sans-serif" font-size="11" fill="#B3541E">nearly a third of the salary</text>
+
+  <text x="521" y="102" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B6B3A">Saved</text>
+  <text x="521" y="119" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B6B3A">₹6,804</text>
+
+  <line x1="16" y1="168" x2="584" y2="168" stroke="#E3E6E9" stroke-width="1"/>
+
+  <!-- the belief vs the reality -->
+  <text x="16" y="196" font-family="Inter, Arial, sans-serif" font-size="12.5" fill="#2E3338">He believed he was saving</text>
+  <rect x="196" y="184" width="147" height="16" rx="3" fill="#E3E6E9"/>
+  <text x="351" y="196" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#6B7177">₹15,000</text>
+
+  <text x="16" y="226" font-family="Inter, Arial, sans-serif" font-size="12.5" fill="#2E3338">He was actually saving</text>
+  <rect x="196" y="214" width="67" height="16" rx="3" fill="#1B6B3A"/>
+  <text x="271" y="226" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#1B6B3A">₹6,804</text>
+
+  <text x="16" y="256" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">The gap was not the rent. It arrived in pieces of ₹200 and ₹400.</text>
+</svg>

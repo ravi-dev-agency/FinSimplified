@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260" width="600" height="260" fill="none" role="img" aria-labelledby="cpTitle">
+  <title id="cpTitle">A five thousand rupee monthly investment at twelve percent grows to about four lakh in five years, eleven point six lakh in ten, forty-nine point nine lakh in twenty, and one point seven six crore in thirty.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">₹5,000 EVERY MONTH, AT AN ASSUMED 12% A YEAR</text>
+
+  <line x1="40" y1="200" x2="584" y2="200" stroke="#2E3338" stroke-width="1.2"/>
+
+  <rect x="60" y="195" width="56" height="5" rx="2" fill="#B8CBE0"/>
+  <text x="88" y="218" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">5 years</text>
+  <text x="88" y="186" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338" text-anchor="middle">₹4.1 L</text>
+
+  <rect x="188" y="187" width="56" height="13" rx="2" fill="#8FB0CE"/>
+  <text x="216" y="218" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">10 years</text>
+  <text x="216" y="178" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338" text-anchor="middle">₹11.6 L</text>
+
+  <rect x="316" y="145" width="56" height="55" rx="2" fill="#4F8CBF"/>
+  <text x="344" y="218" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">20 years</text>
+  <text x="344" y="136" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338" text-anchor="middle">₹49.9 L</text>
+
+  <rect x="444" y="46" width="56" height="154" rx="2" fill="#1F5FA0"/>
+  <text x="472" y="218" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">30 years</text>
+  <text x="472" y="38" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338" text-anchor="middle">₹1.76 Cr</text>
+
+  <text x="524" y="120" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">You put in</text>
+  <text x="524" y="136" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">₹18 lakh.</text>
+  <text x="524" y="158" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">Growth added</text>
+  <text x="524" y="174" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2E3338">the rest.</text>
+
+  <text x="16" y="248" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">Illustration only. Actual returns may be higher, lower, or negative. This is not a promise.</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 230" width="600" height="230" fill="none" role="img" aria-labelledby="tcTitle">
+  <title id="tcTitle">One lakh rupees in an index growing at twelve percent reaches about 9.65 lakh in twenty years. A fund trailing by 0.15 percent reaches 9.39 lakh. A fund trailing by 0.40 percent reaches only 8.98 lakh, costing about 41,000 rupees more.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">₹1,00,000 OVER 20 YEARS, IN AN INDEX GROWING 12% A YEAR</text>
+
+  <text x="16" y="52" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">The index itself</text>
+  <rect x="200" y="40" width="340" height="24" rx="3" fill="#2E3338"/>
+  <text x="548" y="57" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338">₹9.65 L</text>
+
+  <text x="16" y="98" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Fund trailing by 0.15%</text>
+  <rect x="200" y="86" width="331" height="24" rx="3" fill="#1B6B3A"/>
+  <text x="539" y="103" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B6B3A">₹9.39 L</text>
+
+  <text x="16" y="144" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">Fund trailing by 0.40%</text>
+  <rect x="200" y="132" width="317" height="24" rx="3" fill="#B3261E"/>
+  <text x="525" y="149" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#B3261E">₹8.98 L</text>
+
+  <line x1="16" y1="178" x2="584" y2="178" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="200" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#2E3338">A quarter of a percent of tracking difference costs ₹41,101 over twenty years.</text>
+  <text x="16" y="220" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">This is why tracking matters more than the expense ratio on an index product. Illustrative.</text>
+</svg>
