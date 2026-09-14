@@ -22,11 +22,16 @@ export default function ModuleGrid() {
 
         {/* One flex row: icon, then a single text column. The blurb lives in
             that column too, so it aligns to the title rather than to the
-            spine. */}
+            spine.
+
+            The column is a full-height flex stack with the blurb allowed to
+            grow, which pushes "Read chapter" to the bottom. Without that the
+            link sits wherever the blurb happens to end, so two cards in the
+            same row disagree by a line or two. */}
         const body = (
-          <div className="flex items-start gap-3.5">
+          <div className="flex h-full items-stretch gap-3.5">
             <span
-              className="flex h-11 w-11 shrink-0 items-center justify-center rounded-[6px]"
+              className="flex h-11 w-11 shrink-0 items-center justify-center self-start rounded-[6px]"
               style={{
                 backgroundColor: `color-mix(in srgb, ${accent} 13%, white)`,
                 color: accent,
@@ -35,7 +40,7 @@ export default function ModuleGrid() {
               <Icon size={21} strokeWidth={1.9} aria-hidden />
             </span>
 
-            <div className="min-w-0 flex-1">
+            <div className="flex min-w-0 flex-1 flex-col">
               <div className="flex items-baseline gap-2.5">
                 <span
                   className="num text-[0.8125rem] font-bold tracking-wide"
@@ -52,12 +57,12 @@ export default function ModuleGrid() {
                 {mod.title}
               </h3>
 
-              <p className="mt-2 text-[0.9375rem] leading-relaxed text-subtle">
+              <p className="mt-2 grow text-[0.9375rem] leading-relaxed text-subtle">
                 {mod.blurb}
               </p>
 
               {live && (
-                <span className="mt-2.5 inline-block text-[0.9375rem] font-medium text-link">
+                <span className="mt-3 inline-block text-[0.9375rem] font-medium text-link">
                   Read chapter →
                 </span>
               )}
