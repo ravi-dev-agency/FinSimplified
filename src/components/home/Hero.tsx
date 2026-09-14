@@ -38,18 +38,12 @@ export default function Hero() {
               financial journey.
             </p>
 
-            <div className="mt-7 flex flex-wrap items-center gap-3">
+            <div className="mt-7">
               <Link
                 href="/learn"
-                className="rounded-[4px] bg-display px-5 py-3 text-[0.9375rem] font-semibold text-white no-underline hover:opacity-90"
+                className="inline-block rounded-[4px] bg-display px-6 py-3.5 text-[0.9375rem] font-semibold text-white no-underline hover:opacity-90"
               >
                 Start reading →
-              </Link>
-              <Link
-                href="/calculators"
-                className="rounded-[4px] border border-rule px-5 py-3 text-[0.9375rem] font-semibold text-display no-underline hover:border-display"
-              >
-                Run the numbers
               </Link>
             </div>
 
