@@ -3,7 +3,7 @@ import { PageHeader } from "@/components/ui/Content";
 import GlossaryList from "@/components/glossary/GlossaryList";
 
 export const metadata: Metadata = {
-  title: "Glossary — FinSimplified",
+  title: "Glossary",
   description:
     "Financial terms explained in one plain sentence each, with Indian rupee examples.",
 };

@@ -45,6 +45,27 @@ function leadingLabel(node: ReactNode): string {
 }
 
 export const markdownComponents: Components = {
+  /**
+   * Diagrams are hand-authored SVGs at a known 600-unit width. Declaring the
+   * intrinsic size lets the browser reserve space before the file arrives,
+   * which removes the layout shift that otherwise jolts the page as each one
+   * loads. Lazy loading keeps the ones further down out of the initial fetch.
+   */
+  img({ src, alt }) {
+    if (typeof src !== "string") return null;
+    return (
+      <img
+        src={src}
+        alt={alt ?? ""}
+        width={600}
+        height={300}
+        loading="lazy"
+        decoding="async"
+        className="h-auto w-full"
+      />
+    );
+  },
+
   blockquote({ children }) {
     const label = leadingLabel(children);
     const match = CALLOUTS.find((c) => c.test.test(label.trim()));

@@ -4,7 +4,7 @@ import { articles } from "@/data/articles";
 import { isArticlePublished } from "@/lib/content";
 
 export const metadata: Metadata = {
-  title: "Articles — FinSimplified",
+  title: "Articles",
   description:
     "One idea a week from the books, podcasts and talks I learn from — written in plain language, with what it actually means for your money.",
 };
@@ -60,7 +60,11 @@ export default function ArticlesPage() {
                   <img
                     src={article.cover}
                     alt=""
-                    className="w-full rounded-card border border-rule bg-tint"
+                    width={400}
+                    height={300}
+                    loading="lazy"
+                    decoding="async"
+                    className="h-auto w-full rounded-card border border-rule bg-tint"
                   />
                 ) : (
                   <div className="hidden sm:block" />

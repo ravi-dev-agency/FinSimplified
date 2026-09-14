@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import EmergencyFundCalculator from "@/components/calculators/EmergencyFundCalculator";
 
 export const metadata: Metadata = {
-  title: "Emergency fund calculator — FinSimplified",
+  title: "Emergency fund calculator",
   description:
     "Work out how much to keep aside for a bad month, and how long it takes to get there. The formula and every assumption are shown.",
 };

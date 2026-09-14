@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import SipCalculator from "@/components/calculators/SipCalculator";
 
 export const metadata: Metadata = {
-  title: "SIP calculator — FinSimplified",
+  title: "SIP calculator",
   description:
     "See what a monthly SIP could grow into, with the formula and every assumption shown. An educational estimate, not a promise of returns.",
 };

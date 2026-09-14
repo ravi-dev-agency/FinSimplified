@@ -37,10 +37,12 @@ export default function Footer() {
             <h2 className="text-[0.8125rem] font-semibold tracking-[0.08em] text-muted uppercase">
               Explore
             </h2>
-            <ul className="mt-3 space-y-2 text-[0.95rem]">
+            <ul className="mt-2 text-[0.95rem]">
               {mainNav.map((item) => (
                 <li key={item.href}>
-                  <Link href={item.href}>{item.label}</Link>
+                  <Link href={item.href} className="inline-block py-1.5">
+                    {item.label}
+                  </Link>
                 </li>
               ))}
             </ul>
@@ -50,10 +52,12 @@ export default function Footer() {
             <h2 className="text-[0.8125rem] font-semibold tracking-[0.08em] text-muted uppercase">
               Site
             </h2>
-            <ul className="mt-3 space-y-2 text-[0.95rem]">
+            <ul className="mt-2 text-[0.95rem]">
               {legal.map((item) => (
                 <li key={item.href}>
-                  <Link href={item.href}>{item.label}</Link>
+                  <Link href={item.href} className="inline-block py-1.5">
+                    {item.label}
+                  </Link>
                 </li>
               ))}
             </ul>

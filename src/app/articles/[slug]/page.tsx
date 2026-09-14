@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import JsonLd, { articleSchema } from "@/components/seo/JsonLd";
 import type { Metadata } from "next";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
@@ -21,8 +22,16 @@ export async function generateMetadata({
   const article = articles.find((a) => a.slug === slug);
   if (!article) return {};
   return {
-    title: `${article.title} — FinSimplified`,
+    title: article.title,
     description: article.blurb,
+    alternates: { canonical: `/articles/${article.slug}` },
+    openGraph: {
+      type: "article",
+      title: article.title,
+      description: article.blurb,
+      url: `/articles/${article.slug}`,
+      ...(article.cover ? { images: [article.cover] } : {}),
+    },
   };
 }
 
@@ -38,6 +47,14 @@ export default async function ArticlePage({
 
   return (
     <div className="mx-auto max-w-[1080px] px-4 py-8 md:px-6">
+      <JsonLd
+        data={articleSchema({
+          title: article.title,
+          description: article.blurb,
+          path: `/articles/${article.slug}`,
+          published: article.published || undefined,
+        })}
+      />
       <p className="text-[0.813rem] text-muted">
         <Link href="/articles">Articles</Link>
         <span className="px-1.5" aria-hidden>

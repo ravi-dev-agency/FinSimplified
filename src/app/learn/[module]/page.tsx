@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import JsonLd, { articleSchema } from "@/components/seo/JsonLd";
 import type { Metadata } from "next";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
@@ -20,7 +21,17 @@ export async function generateMetadata({
   const { module: slug } = await params;
   const mod = findModule(slug);
   if (!mod) return {};
-  return { title: `${mod.title} — FinSimplified`, description: mod.blurb };
+  return {
+    title: mod.title,
+    description: mod.blurb,
+    alternates: { canonical: `/learn/${mod.slug}` },
+    openGraph: {
+      type: "article",
+      title: mod.title,
+      description: mod.blurb,
+      url: `/learn/${mod.slug}`,
+    },
+  };
 }
 
 export default async function ChapterPage({
@@ -38,6 +49,14 @@ export default async function ChapterPage({
 
   return (
     <div className="mx-auto max-w-[760px] px-4 py-8 md:px-6">
+      <JsonLd
+        data={articleSchema({
+          title: mod.title,
+          description: mod.blurb,
+          path: `/learn/${mod.slug}`,
+          modified: mod.updated || undefined,
+        })}
+      />
       <p className="text-[0.813rem] text-muted">
         <Link href="/learn">Modules</Link>
         <span className="px-1.5" aria-hidden>

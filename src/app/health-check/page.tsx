@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { NotBuiltYet, PageHeader } from "@/components/ui/Content";
 
 export const metadata: Metadata = {
-  title: "Financial health check — FinSimplified",
+  title: "Financial health check",
   description:
     "Answer a few simple questions and get a clear picture of where your finances stand.",
 };

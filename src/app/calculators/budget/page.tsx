@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import BudgetCalculator from "@/components/calculators/BudgetCalculator";
 
 export const metadata: Metadata = {
-  title: "Budget calculator — FinSimplified",
+  title: "Budget calculator",
   description:
     "Split one month of take-home pay into three buckets and see what is actually left. The formula and every assumption are shown.",
 };

@@ -1,10 +1,17 @@
+import type { Metadata } from "next";
 import Hero from "@/components/home/Hero";
+import JsonLd, { siteSchema } from "@/components/seo/JsonLd";
 import ModuleGrid, { MoreComing } from "@/components/home/ModuleGrid";
 import ToolsList from "@/components/home/ToolsGrid";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
 
 export default function HomePage() {
   return (
     <>
+      <JsonLd data={siteSchema()} />
       <Hero />
 
       <section className="mx-auto max-w-[1080px] px-4 pb-16 md:px-6">

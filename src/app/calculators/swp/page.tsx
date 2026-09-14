@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import SwpCalculator from "@/components/calculators/SwpCalculator";
 
 export const metadata: Metadata = {
-  title: "SWP calculator — FinSimplified",
+  title: "SWP calculator",
   description:
     "See how long a corpus lasts when you withdraw a fixed amount every month. The formula and every assumption are shown.",
 };

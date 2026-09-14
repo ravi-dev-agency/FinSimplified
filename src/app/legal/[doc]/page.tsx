@@ -1,9 +1,25 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { PageHeader } from "@/components/ui/Content";
 import { legalDocs } from "@/data/legal";
 
 export function generateStaticParams() {
   return legalDocs.map((d) => ({ doc: d.slug }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ doc: string }>;
+}): Promise<Metadata> {
+  const { doc: slug } = await params;
+  const doc = legalDocs.find((d) => d.slug === slug);
+  if (!doc) return {};
+  return {
+    title: doc.title,
+    description: doc.intro,
+    alternates: { canonical: `/legal/${doc.slug}` },
+  };
 }
 
 export default async function LegalPage({

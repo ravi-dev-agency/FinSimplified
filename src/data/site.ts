@@ -1,6 +1,12 @@
 /** One place for the human details. Change these to your own. */
 export const site = {
   name: "FinSimplified",
+  /**
+   * Canonical origin, no trailing slash. Search engines and social cards
+   * need absolute URLs, so this has to be right before you go live.
+   * Set NEXT_PUBLIC_SITE_URL in production to override.
+   */
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://finsimplified.in",
   tagline: "Money is complicated. Understanding it doesn't have to be.",
   author: {
     /** Shown on every chapter byline. */

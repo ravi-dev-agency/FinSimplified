@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { tools } from "@/data/tools";
 
 export const metadata: Metadata = {
-  title: "Calculators — FinSimplified",
+  title: "Calculators",
   description:
     "Free financial calculators for India. Each one shows the formula it used and what it leaves out.",
 };

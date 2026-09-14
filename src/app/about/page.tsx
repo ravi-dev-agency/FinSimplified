@@ -3,7 +3,7 @@ import { PageHeader } from "@/components/ui/Content";
 import { site } from "@/data/site";
 
 export const metadata: Metadata = {
-  title: "About — FinSimplified",
+  title: "About",
   description:
     "Why FinSimplified exists, how it is written, and how it makes money.",
 };

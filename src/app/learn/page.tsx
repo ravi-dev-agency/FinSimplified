@@ -5,7 +5,7 @@ import ModuleGrid, { MoreComing } from "@/components/home/ModuleGrid";
 import { modules } from "@/data/modules";
 
 export const metadata: Metadata = {
-  title: "Modules — FinSimplified",
+  title: "Modules",
   description:
     "What to do when your salary arrives, in order: fixed bills, savings, an emergency fund, insurance, clearing costly debt, and only then investing.",
 };

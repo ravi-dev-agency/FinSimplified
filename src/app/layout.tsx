@@ -14,13 +14,61 @@ const inter = Inter({
   display: "swap",
 });
 
+const description =
+  "Plain-English chapters on investing, insurance, credit and borrowing, written for beginners in India. Free, with no signup.";
+
 export const metadata: Metadata = {
-  title: `${site.name} — ${site.tagline}`,
-  description:
-    "Plain-English chapters on investing, insurance, credit and borrowing, written for beginners in India. Free, with no signup.",
+  /**
+   * metadataBase turns every relative image path into an absolute URL, which
+   * is what social platforms require. Without it they silently show nothing.
+   */
+  metadataBase: new URL(site.url),
+  title: {
+    default: `${site.name} — ${site.tagline}`,
+    /** Inner pages set their own title; this appends the brand. */
+    template: `%s — ${site.name}`,
+  },
+  description,
+  applicationName: site.name,
+  authors: [{ name: site.author.name }],
+  keywords: [
+    "personal finance India",
+    "investing for beginners",
+    "mutual funds",
+    "SIP",
+    "emergency fund",
+    "term insurance",
+    "health insurance",
+    "credit score",
+  ],
+  alternates: { canonical: "/" },
+  openGraph: {
+    type: "website",
+    locale: "en_IN",
+    url: site.url,
+    siteName: site.name,
+    title: `${site.name} — ${site.tagline}`,
+    description,
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `${site.name} — ${site.tagline}`,
+    description,
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, "max-image-preview": "large" },
+  },
 };
 
-export const viewport: Viewport = { themeColor: "#1f5fa0" };
+export const viewport: Viewport = {
+  themeColor: "#1f5fa0",
+  width: "device-width",
+  initialScale: 1,
+  /** Never block pinch-zoom — it is an accessibility failure, not a polish. */
+  maximumScale: 5,
+};
 
 export default function RootLayout({
   children,
