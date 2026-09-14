@@ -32,10 +32,10 @@ export default function Hero() {
 
             <h1 className="display mt-3 max-w-[14ch]">Finance, made simple</h1>
 
-            <p className="mt-5 max-w-[50ch] text-[1.125rem] leading-relaxed text-subtle">
-              Everything I have learned about money in five years, written in
-              plain English so you do not have to pay for the lessons I paid
-              for.
+            <p className="mt-5 max-w-[52ch] text-[1.125rem] leading-relaxed text-subtle">
+              What I have learned about money over the years, shared here to
+              help you get better with your finances and go further in your
+              financial journey.
             </p>
 
             <div className="mt-7 flex flex-wrap items-center gap-3">
