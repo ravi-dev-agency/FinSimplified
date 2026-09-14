@@ -250,15 +250,15 @@ The numbers look trivial until you compound them. Take ₹1,00,000 in an index g
 | The index itself | ₹3,10,585 | ₹9,64,629 |
 | A fund trailing by 0.15% | ₹3,06,450 | ₹9,39,117 |
 | A fund trailing by 0.40% | ₹2,99,669 | ₹8,98,016 |
-| **Cost of the worse tracker** | **₹6,781** | **₹41,101** |
+| **Gap between the two funds** | **₹6,781** | **₹41,101** |
 
-*Table 8.9 — the same index, two funds, twenty years. Illustrative.*
+*Table 8.9 — the same index, two funds, twenty years. An illustration at an assumed 12%, not a forecast; actual returns vary and past performance does not guarantee future results.*
 
 ![One lakh over twenty years: the index reaches 9.65 lakh, a fund trailing 0.15 percent reaches 9.39 lakh, and one trailing 0.40 percent reaches only 8.98 lakh](/diagrams/tracking-cost.svg)
 
 *Fig 8.4 — a quarter of a percent, compounded for twenty years.*
 
-A quarter of a percent sounds like nothing. Over twenty years it is ₹41,101 on a single lakh.
+A quarter of a percent sounds like nothing. Over twenty years it is ₹41,101 on a single lakh — and against the index itself, the worse tracker gives up ₹66,614.
 
 > **Do this — and most people get this backwards.** Compare **tracking difference before expense ratio**. A fund charging 0.05% that trails its index by 0.4% is worse than one charging 0.15% that trails by 0.15%. For an index-tracking product, how well it tracks matters more than what it charges.
 

@@ -138,7 +138,10 @@ export default function Field({
           onChange(Number(e.target.value));
         }}
         aria-label={`${label} slider`}
-        className="mt-2.5 h-1 w-full cursor-pointer appearance-none bg-rule accent-ink"
+        /* The visible track is 1px, but the control itself is padded out to a
+           comfortable touch height. A 4px target is very hard to grab on a
+           phone, and the slider is the main way people use a calculator. */
+        className="mt-1 h-6 w-full cursor-pointer appearance-none bg-transparent accent-ink [&::-webkit-slider-runnable-track]:h-1 [&::-webkit-slider-runnable-track]:rounded-full [&::-webkit-slider-runnable-track]:bg-rule [&::-moz-range-track]:h-1 [&::-moz-range-track]:rounded-full [&::-moz-range-track]:bg-rule [&::-webkit-slider-thumb]:mt-[-7px] [&::-webkit-slider-thumb]:h-[15px] [&::-webkit-slider-thumb]:w-[15px] [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-ink"
       />
 
       {clamped && (
