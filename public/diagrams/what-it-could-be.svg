@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 270" width="600" height="270" fill="none" role="img" aria-labelledby="wcbT">
+  <title id="wcbT">Three point six crore rupees left untouched, paying out one lakh twenty thousand rupees every month indefinitely while the capital keeps growing. Compared against his old salary of six thousand rupees a month.</title>
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">WHAT THE SAME MONEY COULD HAVE DONE, TOUCHED BY NOBODY</text>
+
+  <rect x="24" y="44" width="150" height="108" rx="4" fill="#EEF4FA" stroke="#1F5FA0" stroke-width="1.8"/>
+  <text x="99" y="76" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1F5FA0" text-anchor="middle">left alone at 7%</text>
+  <text x="99" y="108" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="700" fill="#1F5FA0" text-anchor="middle">₹3.6 cr</text>
+  <text x="99" y="132" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1F5FA0" text-anchor="middle">capital never touched</text>
+
+  <path d="M182 98 L236 98" stroke="#3B8049" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M228 91l8 7-8 7" stroke="#3B8049" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="209" y="86" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#3B8049" text-anchor="middle">4% a year</text>
+
+  <rect x="244" y="44" width="160" height="108" rx="4" fill="#E8F3EA" stroke="#3B8049" stroke-width="1.8"/>
+  <text x="324" y="72" font-family="Inter, Arial, sans-serif" font-size="11" fill="#2F6B3A" text-anchor="middle">every month, forever</text>
+  <text x="324" y="106" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#2F6B3A" text-anchor="middle">₹1,20,000</text>
+  <text x="324" y="132" font-family="Inter, Arial, sans-serif" font-size="11" fill="#2F6B3A" text-anchor="middle">and the capital still grows</text>
+
+  <text x="470" y="72" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">his old salary</text>
+  <text x="470" y="102" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#8A9099" text-anchor="middle">₹6,000</text>
+  <text x="470" y="126" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177" text-anchor="middle">a month</text>
+
+  <line x1="16" y1="182" x2="584" y2="182" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="208" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#2E3338">Twenty times his income, every month, for the rest of his life —</text>
+  <text x="16" y="228" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#2E3338">from one decision, followed by no further decisions at all.</text>
+  <text x="16" y="254" font-family="Inter, Arial, sans-serif" font-size="11" fill="#8A9099">Illustration at an assumed 7%. Actual returns vary and are not guaranteed.</text>
+</svg>

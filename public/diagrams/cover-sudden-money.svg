@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" fill="none" role="img" aria-labelledby="covSM">
+  <title id="covSM">Five crore rupees arriving at once, with most of it draining away through an open tap below.</title>
+  <rect width="400" height="300" fill="#1F5FA0"/>
+
+  <text x="200" y="56" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#A8C8E4" text-anchor="middle" letter-spacing="1.5">WHEN ₹5 CRORE ARRIVES AT ONCE</text>
+
+  <text x="200" y="130" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="800" fill="#FFFFFF" text-anchor="middle">₹5,00,00,000</text>
+
+  <path d="M140 152 L200 196 L260 152" stroke="#8FD0A8" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="200" y="232" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#C5DBEE" text-anchor="middle">no plan · no protection · no order</text>
+
+  <line x1="80" y1="254" x2="320" y2="254" stroke="#3D7FB8" stroke-width="1.5"/>
+  <text x="200" y="280" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">The amount was never the problem.</text>
+</svg>

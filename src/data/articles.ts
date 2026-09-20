@@ -22,6 +22,16 @@ export type ArticleMeta = {
  */
 export const articles: ArticleMeta[] = [
   {
+    slug: "sudden-money",
+    title: "He won ₹5 crore. Five years later, it was gone.",
+    blurb:
+      "He earned ₹6,000 a month and had a sensible plan for the money. He lost most of it anyway — and what he says now about why is worth more than the money was.",
+    minutes: 11,
+    published: "20 September 2026",
+    source: "Sudden money",
+    cover: "/diagrams/cover-sudden-money.svg",
+  },
+  {
     slug: "compounding",
     title: "One paisa became ₹1.07 crore in 31 days",
     blurb:
