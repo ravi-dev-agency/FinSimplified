@@ -22,6 +22,16 @@ export type ArticleMeta = {
  */
 export const articles: ArticleMeta[] = [
   {
+    slug: "sudden-money",
+    title: "The KBC winner who did not lose everything",
+    blurb:
+      "India's most-repeated money cautionary tale is built on a line the man admits he invented to get a journalist off the phone. What actually happened to his ₹5 crore is the more useful story.",
+    minutes: 8,
+    published: "20 September 2026",
+    source: "Sudden money",
+    cover: "/diagrams/cover-sudden-money.svg",
+  },
+  {
     slug: "compounding",
     title: "One paisa became ₹1.07 crore in 31 days",
     blurb:
