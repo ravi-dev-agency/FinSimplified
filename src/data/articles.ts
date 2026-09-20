@@ -23,9 +23,9 @@ export type ArticleMeta = {
 export const articles: ArticleMeta[] = [
   {
     slug: "sudden-money",
-    title: "694 years of salary, in one evening",
+    title: "He won ₹5 crore. Five years later, it was gone.",
     blurb:
-      "He earned ₹6,000 a month, won ₹5 crore on KBC, and had a sensible plan for it. He lost most of it anyway — and what he says now about why is worth more than the money was.",
+      "He earned ₹6,000 a month and had a sensible plan for the money. He lost most of it anyway — and what he says now about why is worth more than the money was.",
     minutes: 11,
     published: "20 September 2026",
     source: "Sudden money",

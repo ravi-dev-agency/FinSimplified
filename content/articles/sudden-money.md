@@ -6,6 +6,10 @@ Then he went on the show and won ₹5 crore.
 
 At ₹6,000 a month, that is **8,333 months of salary. Six hundred and ninety-four years of earnings**, arriving in a single evening.
 
+![A salary bar two pixels wide beside a five crore bar filling the page](/diagrams/salary-vs-win.svg)
+
+*Fig 1 — drawn to scale. The salary bar really is that small.*
+
 Within five years it was mostly gone. He was drinking daily, his marriage was strained, and he later described himself in that period as *"a fugitive running away from the truth."*
 
 His name is Sushil Kumar. This is what happened, in order — and what he says about it now, which is the most valuable part.
@@ -67,6 +71,10 @@ A man whose working life had been operating a computer for a government scheme w
 
 *Table 1 — a fortune leaving without one dramatic mistake*
 
+![Five crore draining through three outlets: donations, businesses and events](/diagrams/three-drains.svg)
+
+*Fig 2 — where the money went. No single outlet was the disaster.*
+
 ## 3. What it cost at home
 
 This is the part the headlines skip, and the part that matters most.
@@ -116,6 +124,10 @@ But the consequence was real:
 Seven drinking groups. Constant invitations. **All of it gone on the rumour of an empty bank account.**
 
 He never had to actually lose everything to learn what those relationships were worth. He only had to be believed to have lost it.
+
+![Seven groups around him before the rumour; nobody after it](/diagrams/the-crowd.svg)
+
+*Fig 3 — the same man, before and after one invented sentence.*
 
 ## 6. He stopped
 
@@ -170,6 +182,10 @@ Now suppose that ₹3.6 crore had simply been left in something conservative ear
 | What happens to the ₹3.6 crore | It keeps growing |
 
 *Table 2 — illustration at an assumed 7%. Actual returns vary and past performance does not guarantee future results.*
+
+![3.6 crore left alone paying 1,20,000 a month against his old 6,000 salary](/diagrams/what-it-could-be.svg)
+
+*Fig 4 — the same ₹3.6 crore, left alone instead.*
 
 **₹1,20,000 every month. Indefinitely. From money that is still there at the end.**
 
