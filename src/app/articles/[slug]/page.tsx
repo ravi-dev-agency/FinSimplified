@@ -46,7 +46,7 @@ export default async function ArticlePage({
   if (!article || !raw) notFound();
 
   return (
-    <div className="mx-auto max-w-[1080px] px-4 py-8 md:px-6">
+    <div className="mx-auto max-w-[720px] px-4 py-8 md:px-6">
       <JsonLd
         data={articleSchema({
           title: article.title,
@@ -63,7 +63,7 @@ export default async function ArticlePage({
         <span>{article.title}</span>
       </p>
 
-      <div className="mt-5 max-w-[720px]">
+      <div className="mt-5">
         <p className="num text-[0.8125rem] text-muted">
           {article.published}
           {article.source && <> · {article.source}</>}
@@ -82,7 +82,7 @@ export default async function ArticlePage({
         </ReactMarkdown>
       </article>
 
-      <p className="mt-8 max-w-[720px] border-t border-rule pt-4 text-[0.813rem] leading-relaxed text-muted">
+      <p className="mt-8 border-t border-rule pt-4 text-[0.813rem] leading-relaxed text-muted">
         This is financial education, not financial advice. Rules in India
         change; the date above is when this was written. If you find something
         wrong, tell me and I will fix it.
