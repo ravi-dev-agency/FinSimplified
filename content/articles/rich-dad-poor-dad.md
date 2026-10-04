@@ -1,30 +1,29 @@
 ![Two columns: money flowing out to things you pay for, and money flowing in from things that pay you](/diagrams/cover-rich-dad.svg)
 
-Two nine-year-old boys in Hawaii decided to get rich by melting toothpaste tubes.
+Most people believe they will be better off when they earn more.
 
-The tubes were lead in those days. The boys melted them in a milk carton over a hotplate and poured the metal into plaster moulds of five-cent coins. One of their fathers walked in, watched for a moment, and told them they were doing an excellent job — of counterfeiting.
+It is the most reasonable assumption in personal finance, and it is wrong often enough to ruin careers. Plenty of people earning ₹2 lakh a month have nothing behind them, and plenty earning ₹50,000 have a growing asset column. The salary is not what separates them.
 
-That boy was Robert Kiyosaki. The book he wrote about it has sold over 40 million copies and is, for most Indian beginners, the first finance book they ever finish.
+*Rich Dad Poor Dad* is the book that explains why — and it is the first finance book most Indian beginners finish. It is also the one they do least with. Ask someone who read it three years ago what they actually changed, and you usually get a long pause.
 
-It is also the one they do least with. Ask someone who read it three years ago what they actually changed, and you usually get a long pause.
+That is a shame, because four of its ideas are genuinely among the most useful things a beginner can learn:
 
-This article is written to make sure you have an answer. Not a summary of the six lessons — those are everywhere. **A sequence of five things to do, in order, with one person's real numbers running through all of them.**
+1. **An asset puts money in your pocket. A liability takes money out.** Most of what people call their assets fail this test.
+2. **Buy assets first, then let them pay for the lifestyle** — not the other way around, which is how everyone actually runs it.
+3. **A salary is rented income.** It stops the day you stop, so the job is the input, never the destination.
+4. **Financial literacy beats a high income.** Not a slogan: the specific skill of knowing where your money goes and what each thing costs you.
 
-By the end you will have done the first one.
+The rest of the book is commentary on those four — and some of it is actively dangerous to follow in India, which we will come to.
 
-## The one idea underneath everything
+This article is those four ideas turned into **five things to do**, in order, with one salary running through all of them. By the end you will have done the first.
 
-Kiyosaki grew up around two men.
+## Why the concept matters more than the income
 
-His own father: PhD, university professor, senior government official in Hawaii. Respected, well paid, permanently short of money. The book calls him poor dad.
+Kiyosaki's own illustration is two men: his father — PhD, university professor, senior government official — and his friend's father, who left school at thirteen and owned shops and restaurants.
 
-His friend Mike's father: left school at thirteen, owned shops, warehouses and restaurants. Rich dad.
+The professor out-earned the shopkeeper for years and stayed short of money. What separated them was not income but **direction of flow**: one man's money left every month and never came back, the other's was steadily buying things that paid him.
 
-Poor dad out-earned rich dad for years. The difference was never income — it was what each man did with what arrived.
-
-> **An asset puts money into your pocket. A liability takes money out. Buy assets before you buy lifestyle.**
-
-That is the book. Everything else is commentary, and the five steps below are how a salaried person in India actually does it.
+That is the entire book, and it is the only part you need before step one.
 
 ![Money flowing out through EMIs and bills, versus money flowing in from investments and rent](/diagrams/asset-or-liability.svg)
 
@@ -229,22 +228,23 @@ Projected difference over twenty years, at an assumed 12%: **roughly ₹59 lakh*
 
 That is not a trick, a side hustle, or a course. It is the book's one real idea, applied by someone with an ordinary salary and no special knowledge.
 
-## The part the book never says out loud
+## The four ideas, one last time
 
-Rich dad did not teach those boys a scheme.
+Everything above comes from four sentences. They are worth keeping after you have forgotten this article:
 
-He put them to work for ten cents an hour, then for nothing at all, for months, until they stopped asking for a raise and started asking how money worked. The famous lessons came *after* the boring part, not instead of it.
+1. **An asset puts money in your pocket; a liability takes it out.** Your car, your phone on EMI and the flat you live in are not assets, whatever they cost.
+2. **Buy assets first, then let them pay for the lifestyle.** Run in the other order, nothing is left — not because you lack discipline, but because the order itself is wrong.
+3. **A salary is rented income.** Which is why the appraisal is not the reward. The appraisal is the input, and step 4 is what makes that true.
+4. **Financial literacy beats a high income.** Knowing where your money goes is worth more than earning 20% more and not knowing.
 
-The boring part is steps 1 to 4. They take one afternoon and then twenty years of leaving them alone.
+What the book never quite says is that none of this is clever. There is no scheme in it. It is an afternoon of arithmetic, one auto-debit, and then twenty years of leaving the thing alone while it does the uninteresting work.
 
 **So: the long pause at the start of this article — the one you get when you ask someone what they changed after reading this book. You should have an answer by tonight. "One auto-debit, two days after payday, rising 10% a year" is a complete answer.**
-
-Everything else in the book is commentary on that.
 
 ---
 
 *Priya is a composite — the salary, the expenses and the city are typical of a mid-level IT job in Hyderabad, but she is not one specific person. The arithmetic is real and comes from this site's [SIP calculator](/calculators/sip).*
 
-*Sources: Robert T. Kiyosaki, "Rich Dad Poor Dad" (1997) — the toothpaste-tube and ten-cents-an-hour episodes are from the book's own first chapters. Rich Global LLC's 2012 Chapter 11 filing and the Learning Annex judgment as reported by the ABA Journal. Derivatives figures from SEBI's study of individual traders in the equity derivatives segment, released July 2025, covering roughly 96 lakh traders in FY25. Residential rental yields and home loan rates are market ranges reported in 2025 and vary by city and lender. Section 16(ia) standard deduction of ₹75,000 under the new regime for FY 2025-26, per the Income Tax Department. Growth figures are illustrations at an assumed 12%, not projections — actual returns vary and past performance does not guarantee future results.*
+*Sources: Robert T. Kiyosaki, "Rich Dad Poor Dad" (1997). Rich Global LLC's 2012 Chapter 11 filing and the Learning Annex judgment as reported by the ABA Journal. Derivatives figures from SEBI's study of individual traders in the equity derivatives segment, released July 2025, covering roughly 96 lakh traders in FY25. Residential rental yields and home loan rates are market ranges reported in 2025 and vary by city and lender. Section 16(ia) standard deduction of ₹75,000 under the new regime for FY 2025-26, per the Income Tax Department. Growth figures are illustrations at an assumed 12%, not projections — actual returns vary and past performance does not guarantee future results.*
 
 *[VERIFY: standard deduction ₹75,000 (new regime) still current at publication. Tax rules change each Budget.]*
