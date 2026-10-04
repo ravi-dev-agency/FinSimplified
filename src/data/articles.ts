@@ -26,7 +26,7 @@ export const articles: ArticleMeta[] = [
     title: "What to actually take from Rich Dad Poor Dad",
     blurb:
       "All six of the book's lessons, what each one actually means on an Indian salary — and the one that does not work here at all.",
-    minutes: 10,
+    minutes: 17,
     published: "4 October 2026",
     source: "Rich Dad Poor Dad",
     cover: "/diagrams/cover-rich-dad.svg",
