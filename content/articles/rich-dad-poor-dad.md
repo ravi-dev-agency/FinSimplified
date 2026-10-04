@@ -6,7 +6,7 @@ That is not the reader's fault. The book is 30 years old, written by an American
 
 But a few of its ideas are among the most useful things a beginner can learn, and they survive the translation intact.
 
-So: what to actually take from it, what it means on an Indian salary, and what to leave on the page.
+The book is built as **six lessons**. Below is each one as Kiyosaki named it, what it actually means, what to do about it on an Indian salary — and, at the end, the parts to leave on the page.
 
 ## The one idea the whole book rests on
 
@@ -14,15 +14,21 @@ Robert Kiyosaki grew up around two men. His own father — educated, respected, 
 
 He calls them poor dad and rich dad. Their difference, as he tells it, was not income. It was what they did with it.
 
-That is the book's real argument, and it is correct:
+That is the book's real argument, and it is correct. Everything useful in it follows from that one observation.
+
+## Lesson 1 — The rich don't work for money
+
+The provocative title hides an ordinary point: a salary is rented income. It stops the day you stop. The rich, his argument goes, spend their working life building things that pay them whether they turn up or not.
+
+He is not telling you to quit your job. He is telling you that the job is the *input*, never the destination.
 
 > **A high salary does not make you rich. What you do with the salary does.**
 
-Everything useful in the book follows from that one sentence.
+Which leads directly to the question the whole book turns on.
 
-## 1. Know what an asset actually is
+## Lesson 2 — Financial literacy: know what an asset actually is
 
-This is the lesson. If you take nothing else, take this.
+This is the lesson. If you take nothing else from the book, take this.
 
 Kiyosaki's definition is deliberately blunt:
 
@@ -52,9 +58,13 @@ Most people's "assets" fail this test. Apply it honestly:
 
 **What to implement:** list everything you own that you think of as an asset. Write next to each one whether it put money in or took money out last month. The list that survives is your real asset column — and for most people it is much shorter than they expected.
 
-## 2. Buy assets before you buy lifestyle
+## Lesson 3 — Mind your own business
 
-The book's central mechanical advice is a sequence, not an amount:
+A line people misread as "start a company". It means something narrower:
+
+**Your profession is how you earn. Your business is the asset column you build with what you earn.** Most people spend a career minding someone else's business and never start their own.
+
+For a salaried person in India, this is the whole lesson: the job is fine. The job is not the plan. The plan is what the job funds — and the ordering matters more than the amount.
 
 **Income → buy assets → let the assets pay for the lifestyle.**
 
@@ -77,9 +87,9 @@ The point is not that cars are forbidden. It is that the car is a choice to conv
 
 **What to implement:** before any EMI, work out what that instalment becomes if invested for the same number of years. Then decide. You may still buy the car. You will at least know the price.
 
-## 3. Pay yourself first
+### How to actually do it: pay yourself first
 
-Older than this book — it comes from *The Richest Man in Babylon* — but Kiyosaki put it in front of millions.
+This idea is older than the book — it comes from *The Richest Man in Babylon* — but Kiyosaki put it in front of millions, and it is how Lesson 3 gets done.
 
 The rule: the moment income arrives, a fixed amount goes to your asset column, **before** rent, bills and spending. Not what is left at month end. There is never anything left at month end.
 
@@ -104,20 +114,33 @@ What a fixed monthly amount becomes over 20 years:
 
 **What to implement:** set the auto-debit for 2 days after your salary date. Start at an amount that feels slightly too small — the habit matters more than the number, and a SIP you never cancel beats a larger one you stop in March.
 
-## 4. Learn how money works — that is the actual asset
+## Lesson 4 — Taxes and the power of corporations
 
-Kiyosaki calls this financial literacy, and insists it beats a high salary. On this he is right, and it is the part people skip because it cannot be bought.
+This is the lesson that does **not** transfer, and it needs saying clearly rather than skipping.
 
-The four things he says to understand:
+Kiyosaki's argument is that the rich own things through companies, so expenses come out *before* tax, while employees earn, are taxed, and spend what is left.
 
-1. **Accounting** — reading where money actually goes. For you: knowing your real monthly outflow, not your estimate of it.
-2. **Investing** — what makes money, and at what risk.
-3. **Markets** — supply and demand; why the thing everyone is buying is rarely cheap.
-4. **Law** — tax and structure. In India: the regimes, 80C and 80D, capital gains rules, what EPF and NPS actually do.
+The observation is fair. The tactic is not available to you, and attempting it is the most expensive mistake in the book — the section below on what not to take explains why.
 
-**What to implement:** this month, work out your real outflow for last month from your bank statement — not from memory. Nearly everyone is wrong about this by 15–25%, and the gap is where the SIP money was always going to come from.
+What *does* transfer is the underlying habit: **know the tax treatment of a thing before you buy it, not after.** In India that means knowing the four things that actually move your tax — which regime you are on, what 80C and 80D cover if you are on the old one, how capital gains are taxed on what you hold, and what EPF and NPS do.
 
-## 5. Work to learn, not to earn
+**What to implement:** read your own payslip and Form 16 once, properly, until you can say where every deduction went. Most people have never done this, and it is the cheapest financial education available.
+
+## Lesson 5 — The rich invent money
+
+The most misread lesson in the book, and the one that has cost people the most.
+
+Kiyosaki does not mean printing money. He means that opportunities are *created* by people who are prepared to recognise them — and that confidence plus financial knowledge beats waiting for a safe, obvious deal that everyone else can also see.
+
+The useful half is real: the people who spot an opportunity are the ones who already understood the subject before it appeared. That is Lesson 2 doing its work.
+
+The dangerous half is also real. In the book this becomes an argument for aggressive leverage and quick property deals — written by a man whose company later went bankrupt, in a country whose property maths does not match India's. Taking "the rich invent money" as permission to borrow heavily and move fast is how beginners lose money while believing they are being bold.
+
+> **Careful.** Every scheme that has ever taken money from an Indian beginner — options tipping groups, guaranteed-return apps, "invest in my project" — sells itself as this lesson. Opportunity recognised by knowledge is one thing. Risk taken on confidence alone is the other.
+
+**What to implement:** get fluent in one thing before putting money in it. The lesson is the preparation, not the daring.
+
+## Lesson 6 — Work to learn, not to earn
 
 His argument: take the job that teaches you a skill you lack, over the one that pays slightly more right now — especially when young.
 
@@ -163,16 +186,18 @@ None of that makes the asset/liability idea wrong. It does mean: take the framew
 
 *Fig 3 — two columns, decided by which country wrote the advice.*
 
-## The six things, as a checklist
+## All six lessons, as things to actually do
 
-Everything above, as actions:
+| Lesson | What to do this month |
+|---|---|
+| 1 — The rich don't work for money | Treat the salary as the input, not the destination |
+| 2 — Financial literacy | Audit your asset column: did each item put money in or take it out last month? |
+| 3 — Mind your own business | Set one auto-debit, 2 days after payday — and price every EMI as its investment alternative first |
+| 4 — Taxes and corporations | Read your payslip and Form 16 until you can explain every deduction |
+| 5 — The rich invent money | Get fluent in one thing before putting money into it |
+| 6 — Work to learn | Pick the job that leaves you more employable in three years — when you can afford to |
 
-1. **Audit your asset column.** Every item: did it put money in or take money out last month?
-2. **Price every EMI as its investment alternative** before signing it.
-3. **Set one auto-debit, 2 days after payday.** Small is fine. Uncancelled matters more.
-4. **Find your real monthly outflow** from last month's statement, not from memory.
-5. **Pick the job that teaches you more** — when you can afford to.
-6. **Keep buying assets before lifestyle**, and let the lifestyle rise only as the asset column does.
+*Table 4 — the book's six lessons, as actions available to a salaried person in India*
 
 Not one of these requires a company, a property, or anything the book sells.
 
