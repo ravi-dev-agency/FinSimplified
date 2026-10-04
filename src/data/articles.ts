@@ -22,6 +22,16 @@ export type ArticleMeta = {
  */
 export const articles: ArticleMeta[] = [
   {
+    slug: "rich-dad-poor-dad",
+    title: "What to actually take from Rich Dad Poor Dad",
+    blurb:
+      "Six lessons worth implementing, what each one means on an Indian salary, and the parts of the book you should not follow here.",
+    minutes: 9,
+    published: "4 October 2026",
+    source: "Rich Dad Poor Dad",
+    cover: "/diagrams/cover-rich-dad.svg",
+  },
+  {
     slug: "sudden-money",
     title: "He won ₹5 crore. Five years later, it was gone.",
     blurb:

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" fill="none" role="img" aria-labelledby="aolT">
+  <title id="aolT">The same question asked of two things you own: does it put money into your pocket or take money out. A car on EMI takes money out and is a liability. An investment puts money in and is an asset.</title>
+
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">THE ONLY QUESTION THAT DECIDES IT</text>
+
+  <rect x="200" y="38" width="200" height="40" rx="4" fill="#EEF4FA" stroke="#A8C8E4" stroke-width="1"/>
+  <text x="300" y="63" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">Which way does money move?</text>
+
+  <path d="M250 78 L170 108" stroke="#8A9099" stroke-width="1.5"/>
+  <path d="M176 100 L166 110 L178 112" stroke="#8A9099" stroke-width="1.5" fill="none"/>
+  <path d="M350 78 L430 108" stroke="#8A9099" stroke-width="1.5"/>
+  <path d="M424 100 L434 110 L422 112" stroke="#8A9099" stroke-width="1.5" fill="none"/>
+
+  <rect x="30" y="116" width="250" height="124" rx="4" fill="#fdf3ec" stroke="#E2683C" stroke-width="1"/>
+  <text x="155" y="140" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#B44A22">OUT of your pocket</text>
+  <text x="155" y="166" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">car EMI · petrol · insurance</text>
+  <text x="155" y="186" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">phone on EMI · home loan</text>
+  <path d="M70 202 L240 202" stroke="#E2683C" stroke-width="1"/>
+  <text x="155" y="226" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#B44A22">LIABILITY</text>
+
+  <rect x="320" y="116" width="250" height="124" rx="4" fill="#edf5ef" stroke="#3B8049" stroke-width="1"/>
+  <text x="445" y="140" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#2F6B3A">INTO your pocket</text>
+  <text x="445" y="166" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">SIP · index funds · EPF</text>
+  <text x="445" y="186" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">NPS · rent you receive</text>
+  <path d="M360 202 L530 202" stroke="#3B8049" stroke-width="1"/>
+  <text x="445" y="226" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#2F6B3A">ASSET</text>
+
+  <path d="M30 262 L570 262" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="286" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#2E3338">Not what it is worth. Not what it is called. Only the direction.</text>
+</svg>

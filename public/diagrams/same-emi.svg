@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" width="600" height="280" fill="none" role="img" aria-labelledby="semT">
+  <title id="semT">Fifteen thousand rupees a month for seven years, sent two ways. As a car EMI it pays out twelve lakh sixty thousand and leaves a used car. Invested at an assumed twelve percent it becomes nineteen lakh eighty thousand.</title>
+
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">THE SAME ₹15,000 A MONTH, FOR SEVEN YEARS</text>
+
+  <rect x="225" y="36" width="150" height="38" rx="4" fill="#1F5FA0"/>
+  <text x="300" y="61" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">₹15,000 / month</text>
+
+  <path d="M265 74 L170 104" stroke="#8A9099" stroke-width="1.5"/>
+  <path d="M176 96 L166 106 L178 108" stroke="#8A9099" stroke-width="1.5" fill="none"/>
+  <path d="M335 74 L430 104" stroke="#8A9099" stroke-width="1.5"/>
+  <path d="M424 96 L434 106 L422 108" stroke="#8A9099" stroke-width="1.5" fill="none"/>
+
+  <rect x="30" y="112" width="250" height="110" rx="4" fill="#fdf3ec" stroke="#E2683C" stroke-width="1"/>
+  <text x="155" y="136" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#B44A22">AS A CAR EMI</text>
+  <text x="155" y="170" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#B44A22">₹12,60,000</text>
+  <text x="155" y="194" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">paid out — and a used car</text>
+  <text x="155" y="212" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">worth a fraction of it</text>
+
+  <rect x="320" y="112" width="250" height="110" rx="4" fill="#edf5ef" stroke="#3B8049" stroke-width="1"/>
+  <text x="445" y="136" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2F6B3A">INVESTED INSTEAD</text>
+  <text x="445" y="170" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#2F6B3A">₹19,79,685</text>
+  <text x="445" y="194" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">at an assumed 12%</text>
+  <text x="445" y="212" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">and still growing</text>
+
+  <path d="M30 244 L570 244" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="266" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">Illustration at an assumed 12%. Actual returns vary and are not guaranteed.</text>
+</svg>
