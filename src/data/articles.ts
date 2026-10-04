@@ -23,10 +23,10 @@ export type ArticleMeta = {
 export const articles: ArticleMeta[] = [
   {
     slug: "rich-dad-poor-dad",
-    title: "What to actually take from Rich Dad Poor Dad",
+    title: "Rich Dad Poor Dad, as five things to actually do",
     blurb:
-      "All six of the book's lessons, what each one actually means on an Indian salary — and the one that does not work here at all.",
-    minutes: 17,
+      "Most people finish the book and change nothing. Here is the whole thing as five steps, on a real ₹58,400 salary — and the four traps that use its language to take your money.",
+    minutes: 13,
     published: "4 October 2026",
     source: "Rich Dad Poor Dad",
     cover: "/diagrams/cover-rich-dad.svg",
