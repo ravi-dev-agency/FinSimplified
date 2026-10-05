@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290" width="600" height="290" fill="none" role="img" aria-labelledby="klT">
+  <title id="klT">Of the book's six lessons, five travel to India: salary as input, the asset and liability test, minding your own business, knowing a thing before buying it, and working to learn. Lesson four, owning your lifestyle through a company, does not — nor do the American property mechanics or the author's crash predictions.</title>
+
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">WHAT TRAVELS TO INDIA, AND WHAT DOES NOT</text>
+
+  <rect x="20" y="36" width="270" height="196" rx="4" fill="#edf5ef" stroke="#3B8049" stroke-width="1"/>
+  <text x="155" y="62" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#2F6B3A">KEEP</text>
+  <path d="M44 76 L266 76" stroke="#3B8049" stroke-width="1"/>
+  <text x="44" y="102" font-family="Inter, Arial, sans-serif" font-size="12.5" fill="#2E3338">1 · Salary is the input</text>
+  <text x="44" y="130" font-family="Inter, Arial, sans-serif" font-size="12.5" fill="#2E3338">2 · The asset / liability test</text>
+  <text x="44" y="158" font-family="Inter, Arial, sans-serif" font-size="12.5" fill="#2E3338">3 · Mind your own business</text>
+  <text x="44" y="186" font-family="Inter, Arial, sans-serif" font-size="12.5" fill="#2E3338">5 · Know it before you buy it</text>
+  <text x="44" y="214" font-family="Inter, Arial, sans-serif" font-size="12.5" fill="#2E3338">6 · Work to learn</text>
+
+  <rect x="310" y="36" width="270" height="196" rx="4" fill="#fdf3ec" stroke="#E2683C" stroke-width="1"/>
+  <text x="445" y="62" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#B44A22">LEAVE</text>
+  <path d="M334 76 L556 76" stroke="#E2683C" stroke-width="1"/>
+  <text x="334" y="102" font-family="Inter, Arial, sans-serif" font-size="12.5" fill="#2E3338">4 · Lifestyle through a</text>
+  <text x="334" y="120" font-family="Inter, Arial, sans-serif" font-size="12.5" fill="#2E3338">company — not available here</text>
+  <text x="334" y="150" font-family="Inter, Arial, sans-serif" font-size="12.5" fill="#2E3338">US property leverage</text>
+  <text x="334" y="168" font-family="Inter, Arial, sans-serif" font-size="12.5" fill="#2E3338">and flipping maths</text>
+  <text x="334" y="198" font-family="Inter, Arial, sans-serif" font-size="12.5" fill="#2E3338">The crash predictions</text>
+
+  <path d="M20 254 L580 254" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="278" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#2E3338">The mindset travels. The tactics were written for another country.</text>
+</svg>

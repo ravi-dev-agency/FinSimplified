@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" width="600" height="440" fill="none" role="img" aria-labelledby="rrT">
+  <title id="rrT">Kiyosaki's Cashflow board game. The inner track is the rat race: a ring of squares where Payday gives you your salary and Doodad squares take it away again on impulse purchases, so most players circle it forever. Deal squares are the only ones that build assets. The exit is not a square you land on — you leave when passive income from those assets is larger than your monthly expenses, which puts you on the outer fast track.</title>
+
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">THE BOARD GAME HE BUILT TO TEACH THE BOOK</text>
+
+  <!-- Outer fast track -->
+  <rect x="34" y="34" width="532" height="300" rx="10" fill="none" stroke="#3B8049" stroke-width="2" stroke-dasharray="7 5"/>
+  <rect x="210" y="22" width="180" height="24" rx="4" fill="#edf5ef"/>
+  <text x="300" y="39" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#2F6B3A">THE FAST TRACK</text>
+  <text x="300" y="322" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#2F6B3A">your assets cover the bills — working is now optional</text>
+
+  <!-- Rat race ring: top row -->
+  <rect x="150" y="96" width="76" height="34" rx="3" fill="#EEF4FA" stroke="#A8C8E4"/>
+  <text x="188" y="118" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FA0">PAYDAY</text>
+
+  <rect x="234" y="96" width="76" height="34" rx="3" fill="#fdf3ec" stroke="#E2683C"/>
+  <text x="272" y="118" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#B44A22">DOODAD</text>
+
+  <rect x="318" y="96" width="76" height="34" rx="3" fill="#edf5ef" stroke="#3B8049"/>
+  <text x="356" y="118" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2F6B3A">DEAL</text>
+
+  <rect x="402" y="96" width="76" height="34" rx="3" fill="#fdf3ec" stroke="#E2683C"/>
+  <text x="440" y="118" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#B44A22">DOODAD</text>
+
+  <!-- right column -->
+  <rect x="402" y="146" width="76" height="34" rx="3" fill="#fdf3ec" stroke="#E2683C"/>
+  <text x="440" y="168" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="600" fill="#B44A22">DOWNSIZED</text>
+
+  <rect x="402" y="196" width="76" height="34" rx="3" fill="#edf5ef" stroke="#3B8049"/>
+  <text x="440" y="218" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2F6B3A">DEAL</text>
+
+  <!-- bottom row -->
+  <rect x="318" y="246" width="76" height="34" rx="3" fill="#fdf3ec" stroke="#E2683C"/>
+  <text x="356" y="268" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#B44A22">DOODAD</text>
+
+  <rect x="234" y="246" width="76" height="34" rx="3" fill="#EEF4FA" stroke="#A8C8E4"/>
+  <text x="272" y="268" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FA0">BABY</text>
+
+  <rect x="150" y="246" width="76" height="34" rx="3" fill="#edf5ef" stroke="#3B8049"/>
+  <text x="188" y="268" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#2F6B3A">DEAL</text>
+
+  <!-- left column -->
+  <rect x="122" y="196" width="76" height="34" rx="3" fill="#fdf3ec" stroke="#E2683C"/>
+  <text x="160" y="218" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#B44A22">DOODAD</text>
+
+  <rect x="122" y="146" width="76" height="34" rx="3" fill="#EEF4FA" stroke="#A8C8E4"/>
+  <text x="160" y="168" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="600" fill="#1F5FA0">CHARITY</text>
+
+  <!-- direction of travel -->
+  <path d="M486 113 L500 113 L500 263 L406 263" stroke="#E2683C" stroke-width="1.5" fill="none"/>
+  <path d="M414 258 L404 263 L414 268" stroke="#E2683C" stroke-width="1.5" fill="none"/>
+  <path d="M114 263 L100 263 L100 113 L138 113" stroke="#E2683C" stroke-width="1.5" fill="none"/>
+  <path d="M130 108 L140 113 L130 118" stroke="#E2683C" stroke-width="1.5" fill="none"/>
+
+  <!-- centre -->
+  <text x="300" y="172" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#B44A22">THE RAT RACE</text>
+  <text x="300" y="196" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#44484D">Payday pays you.</text>
+  <text x="300" y="212" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#44484D">Doodads take it straight back.</text>
+  <text x="300" y="230" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#2E3338">Most players circle forever.</text>
+
+  <!-- exit -->
+  <path d="M300 96 L300 62" stroke="#3B8049" stroke-width="2.5"/>
+  <path d="M292 72 L300 58 L308 72" stroke="#3B8049" stroke-width="2.5" fill="none"/>
+  <text x="314" y="80" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#2F6B3A">the only way out</text>
+
+  <path d="M16 356 L584 356" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="300" y="380" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#2E3338">You escape when passive income &gt; monthly expenses.</text>
+  <text x="300" y="400" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#44484D">Only DEAL squares build that. Every DOODAD is another month inside.</text>
+  <text x="300" y="422" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#6B7177">A bigger salary deals you bigger expenses with it. No salary wins this board.</text>
+</svg>
