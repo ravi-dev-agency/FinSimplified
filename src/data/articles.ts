@@ -23,7 +23,7 @@ export type ArticleMeta = {
 export const articles: ArticleMeta[] = [
   {
     slug: "rich-dad-poor-dad",
-    title: "Rich Dad Poor Dad, as five things to actually do",
+    title: "Earning more won't make you rich. This book explains why.",
     blurb:
       "Most people finish the book and change nothing. Here is the whole thing as five steps, on a real ₹58,400 salary — and the four traps that use its language to take your money.",
     minutes: 22,
