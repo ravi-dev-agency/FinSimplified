@@ -113,9 +113,15 @@ There is exactly one way out of the inner loop, and it is not a bigger salary:
 
 > **You leave the rat race when your passive income exceeds your monthly expenses.**
 
+**Passive income** is simply money that arrives without you working that month — rent from a property you own, interest, dividends from shares, the growth on money you have invested. The opposite of a salary, which stops the moment you do.
+
 That is the finish line. Not a corpus someone on YouTube named, not a salary band — **your own monthly expenses**, covered by money you did not work for that month.
 
-It is worth calculating, because it turns a vague ambition into a number. For Priya, whose month comes to ₹52,180:
+It is worth calculating, because it turns a vague ambition into a number.
+
+The rough method: work out how much you could take out each year without running the pot down. A common illustration uses 4–5% a year. So if you need ₹52,180 a month — ₹6,26,160 a year — you divide that by the rate.
+
+For Priya:
 
 | To cover ₹52,180 a month | You would need |
 |---|---|
@@ -201,6 +207,11 @@ This is the concept by its proper name — Kiyosaki takes it from *The Richest M
 
 Kiyosaki's point is sharper than "save more". He argues the pressure of having paid yourself first is *useful* — it forces you to find the rest, the way a deadline forces work. The alternative, paying everyone else first and saving the remainder, has no forcing function at all.
 
+If the words are new, they are simpler than they sound:
+
+- A **SIP** (Systematic Investment Plan) is just a standing instruction to invest a fixed amount every month, automatically, usually into a mutual fund. You set it once.
+- **EPF** is the Provident Fund already cut from your salary each month. You are, without deciding to, already doing this step — which is exactly why it is the one part of most people's savings that actually grows.
+
 The mechanics matter more than people think:
 
 - Date it **2–3 days after your salary lands**, never the 28th
@@ -258,7 +269,9 @@ A flat bought on loan and rented out does not pay you every month — **it costs
 
 ### "I'm making money work for me" — in F&O
 
-SEBI studied roughly 96 lakh individual traders in the equity derivatives segment. In FY25, **91% of them lost money** — about ₹1.05 lakh crore in total, averaging ₹1.1 lakh per person, in one year.
+**F&O** — futures and options — is a way of betting on which way a share or an index will move, using borrowed money so that small moves become big gains or big losses. It is marketed as investing. It is not.
+
+SEBI, the market regulator, studied roughly 96 lakh individual traders in this segment. In FY25, **91% of them lost money** — about ₹1.05 lakh crore in total, averaging ₹1.1 lakh per person, in one year.
 
 Almost every one of them believed they were being bolder than the salaried crowd. Nine out of ten were paying for the privilege of being wrong, faster.
 
@@ -266,7 +279,7 @@ Almost every one of them believed they were being bolder than the salaried crowd
 
 ### "I paid ₹25,000 for the course"
 
-The book's own business model, pointed at you. Kiyosaki's fortune came substantially from seminars and licensing — the same seminars at the centre of the lawsuit that bankrupted his company Rich Global LLC in 2012, after a US court ordered it to pay around $24 million to the promoter that built his speaking career.
+The book's own business model, pointed at you. Kiyosaki's fortune came substantially from seminars and licensing, not from the investing the book describes. Those same seminars were at the centre of a lawsuit: a US court ordered his company Rich Global LLC to pay around $24 million to the promoter that had built his speaking career. The company filed for bankruptcy in 2012.
 
 If a course promises passive income and the only verifiable passive income in the room is the instructor's, selling the course, you have found the asset. It is not yours.
 
@@ -274,7 +287,13 @@ If a course promises passive income and the only verifiable passive income in th
 
 ### And the one lesson that simply does not apply here
 
-The book's most-repeated tactic is to own things through a company, so expenses come out *before* tax. For a salaried employee in India this is not available: your tax is deducted at source, you get the **₹75,000 standard deduction** under the new regime and the specific deductions the Act allows, and you cannot route your car or phone through a company you invented.
+The book's most-repeated tactic is to own things through a company, so expenses come out *before* tax.
+
+Why that works there and not here: a business is taxed on what is left after its costs. An employee is taxed on the whole salary first and spends what remains. So the book's advice is to move your life into the first category.
+
+For a salaried employee in India that door is closed. Your tax is cut from your salary before you are ever paid. That is called **deduction at source**, and you have no say in it.
+
+What you can claim back is fixed by law: a **standard deduction** of ₹75,000 — a flat amount everyone on the new tax regime gets, with no bills to produce — plus the specific deductions the Act allows. You cannot route your car or your phone through a company you invented.
 
 Attempting it without a genuine business is not clever structuring. It is tax evasion.
 
