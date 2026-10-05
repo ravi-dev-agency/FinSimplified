@@ -96,11 +96,18 @@ That gap — between what you think and what is true — is step one.
 
 Kiyosaki did not only write the book. He built a board game, *Cashflow*, to teach the same idea — and the game makes one thing clearer than the book does.
 
-The board has two tracks. The inner loop is **the rat race**: you draw a career card with a salary and matching expenses, and you go round. Draw a higher-paying career and you also draw higher expenses — which is the joke, and the lesson. The outer track is the **fast track**, where the problem is what to do with surplus rather than how to survive the month.
+The board has two tracks. The inner ring is **the rat race**. You draw a career card with a salary and matching expenses, and you go round it — landing on squares:
+
+- **Payday** — your salary arrives. Satisfying, and the reason you keep going round.
+- **Doodad** — an unplanned purchase. A gadget, a repair, a shopping trip. It takes the cash you were saving for a Deal.
+- **Deal** — the only squares that let you buy an asset.
+- **Downsized**, **Baby**, **Charity** — life, happening whether or not you planned for it.
+
+Draw a higher-paying career and you draw higher expenses with it, which is the joke and the lesson. The outer track is the **fast track**, where the problem is what to do with surplus rather than how to survive the month.
 
 ![The rat race inner loop and the fast track outside it, with the exit condition between them](/diagrams/rat-race.svg)
 
-*Fig 3 — the inner loop is where almost everyone plays their whole life.*
+*Fig 3 — count the squares: four take your money, three build it. That ratio is the lesson.*
 
 There is exactly one way out of the inner loop, and it is not a bigger salary:
 

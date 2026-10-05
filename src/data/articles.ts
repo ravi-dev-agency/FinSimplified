@@ -26,7 +26,7 @@ export const articles: ArticleMeta[] = [
     title: "Rich Dad Poor Dad, as five things to actually do",
     blurb:
       "Most people finish the book and change nothing. Here is the whole thing as five steps, on a real ₹58,400 salary — and the four traps that use its language to take your money.",
-    minutes: 18,
+    minutes: 19,
     published: "4 October 2026",
     source: "Rich Dad Poor Dad",
     cover: "/diagrams/cover-rich-dad.svg",
