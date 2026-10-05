@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="600" height="420" fill="none" role="img" aria-labelledby="cfpT">
+  <title id="cfpT">Three cash flow patterns. For the poor, income goes straight out as expenses and nothing reaches the balance sheet. For the middle class, income buys liabilities, and each liability sends a new expense back into the monthly outflow. For the rich, income buys assets, and those assets send income back which eventually pays the expenses.</title>
+
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">THE SAME TWO BOXES. ONLY THE ARROWS DIFFER.</text>
+
+  <!-- ROW 1 : THE POOR -->
+  <text x="16" y="48" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#2E3338">The poor</text>
+  <rect x="120" y="36" width="150" height="34" rx="4" fill="#EEF4FA" stroke="#A8C8E4" stroke-width="1"/>
+  <text x="195" y="58" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338">Income</text>
+  <rect x="330" y="36" width="150" height="34" rx="4" fill="#fdf3ec" stroke="#E2683C" stroke-width="1"/>
+  <text x="405" y="58" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#B44A22">Expenses</text>
+  <path d="M270 53 L322 53" stroke="#8A9099" stroke-width="1.5"/>
+  <path d="M314 48 L324 53 L314 58" stroke="#8A9099" stroke-width="1.5" fill="none"/>
+  <text x="496" y="57" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">nothing kept</text>
+
+  <!-- ROW 2 : THE MIDDLE CLASS -->
+  <text x="16" y="124" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#2E3338">The middle</text>
+  <text x="16" y="140" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#2E3338">class</text>
+  <rect x="120" y="106" width="150" height="34" rx="4" fill="#EEF4FA" stroke="#A8C8E4" stroke-width="1"/>
+  <text x="195" y="128" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338">Income</text>
+  <rect x="330" y="106" width="150" height="34" rx="4" fill="#fdf3ec" stroke="#E2683C" stroke-width="1"/>
+  <text x="405" y="128" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#B44A22">Expenses</text>
+  <path d="M270 123 L322 123" stroke="#8A9099" stroke-width="1.5"/>
+  <path d="M314 118 L324 123 L314 128" stroke="#8A9099" stroke-width="1.5" fill="none"/>
+
+  <rect x="330" y="166" width="150" height="34" rx="4" fill="#fdf3ec" stroke="#E2683C" stroke-width="1"/>
+  <text x="405" y="188" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#B44A22">Liabilities</text>
+  <path d="M195 140 L195 183 L322 183" stroke="#E2683C" stroke-width="1.5"/>
+  <path d="M314 178 L324 183 L314 188" stroke="#E2683C" stroke-width="1.5" fill="none"/>
+  <text x="206" y="166" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#B44A22">buys</text>
+
+  <path d="M488 183 L512 183 L512 123 L488 123" stroke="#E2683C" stroke-width="1.5" fill="none"/>
+  <path d="M496 118 L486 123 L496 128" stroke="#E2683C" stroke-width="1.5" fill="none"/>
+  <text x="520" y="157" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#B44A22">each adds</text>
+  <text x="520" y="171" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#B44A22">a new bill</text>
+
+  <!-- ROW 3 : THE RICH -->
+  <text x="16" y="256" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#2E3338">The rich</text>
+  <rect x="120" y="238" width="150" height="34" rx="4" fill="#EEF4FA" stroke="#A8C8E4" stroke-width="1"/>
+  <text x="195" y="260" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2E3338">Income</text>
+  <rect x="330" y="238" width="150" height="34" rx="4" fill="#fdf3ec" stroke="#E2683C" stroke-width="1"/>
+  <text x="405" y="260" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#B44A22">Expenses</text>
+
+  <rect x="120" y="300" width="150" height="34" rx="4" fill="#edf5ef" stroke="#3B8049" stroke-width="1"/>
+  <text x="195" y="322" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2F6B3A">Assets</text>
+  <path d="M195 272 L195 295" stroke="#3B8049" stroke-width="1.5"/>
+  <path d="M190 287 L195 297 L200 287" stroke="#3B8049" stroke-width="1.5" fill="none"/>
+  <text x="206" y="290" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#2F6B3A">buys</text>
+
+  <path d="M270 317 L405 317 L405 276" stroke="#3B8049" stroke-width="1.5"/>
+  <path d="M400 284 L405 274 L410 284" stroke="#3B8049" stroke-width="1.5" fill="none"/>
+  <text x="290" y="310" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#2F6B3A">and these pay the expenses</text>
+
+  <path d="M16 364 L584 364" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="388" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#2E3338">The middle class buy liabilities they believe are assets.</text>
+  <text x="16" y="408" font-family="Inter, Arial, sans-serif" font-size="12" fill="#44484D">Same salary, opposite direction. That loop is the rat race.</text>
+</svg>

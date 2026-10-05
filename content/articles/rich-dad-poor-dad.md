@@ -29,6 +29,42 @@ That is the entire book, and it is the only part you need before step one.
 
 *Fig 1 — the same question, asked of everything you own.*
 
+## The diagram the whole book is built on
+
+Kiyosaki's real teaching tool is not a slogan. It is a pair of boxes.
+
+Every person's money sits in two statements. The **income statement** is the month: what comes in, what goes out. The **balance sheet** is what you have built: assets on one side, liabilities on the other.
+
+What matters is not the boxes. It is **which way money flows between them** — and that single pattern is the difference between the three groups the book describes.
+
+![Three cash flow patterns: the poor spend everything, the middle class buy liabilities, the rich buy assets that pay the expenses](/diagrams/cash-flow-patterns.svg)
+
+*Fig 2 — same salary, three directions. The middle row is the one that feels like success.*
+
+**The poor.** Income arrives, expenses consume it, nothing reaches the balance sheet. The cycle repeats at every income level — which is why a raise alone changes nothing.
+
+**The middle class.** Income arrives and is used to acquire **liabilities** — the bigger car, the upgraded phone, the second home loan — each of which creates a new monthly expense. This is the trap, because it looks exactly like success. The balance sheet grows, but only on the liability side, and every addition raises the monthly bill. Kiyosaki calls the resulting loop the **rat race**: earn more, owe more, work harder, repeat.
+
+**The rich.** Income is used to acquire **assets**. Those assets throw off their own income, and eventually that income — not the salary — pays the expenses. The salary becomes optional.
+
+> **The single most useful sentence in the book:** the rich buy assets; the middle class buy liabilities they believe are assets.
+
+That belief is the whole problem, and it is why step 1 below is an audit rather than an investment.
+
+**Why people stay in the middle row.** Kiyosaki's answer is two emotions, and it is the part of the book most worth sitting with. **Fear** of not having money keeps you in a job you will not leave and stops you learning anything that feels risky. **Greed** — or more honestly, desire — means that when the money does arrive, it is spent before it is allocated. The raise gets converted into a bigger EMI within weeks.
+
+Both feelings are normal and neither goes away with a higher salary. The only thing that works is removing the decision from the moment: money that leaves automatically, before you see it, is not subject to either emotion. That is step 3, and it is why the *date* of the auto-debit matters more than the amount.
+
+| | Income statement | Balance sheet |
+|---|---|---|
+| **The poor** | Salary in, expenses out, nothing left | Empty |
+| **The middle class** | Salary in, expenses *plus EMIs* out | Liabilities that look like assets |
+| **The rich** | Asset income pays the expenses | Assets that pay for themselves |
+
+*Table 1 — where your last five purchases actually put you*
+
+Your own position is not decided by your salary. It is decided by which of those three rows your last five purchases put you in.
+
 ## Meet the salary we will use
 
 To keep this concrete, every step below uses the same person.
@@ -50,7 +86,7 @@ Her actual month, written down for the first time:
 | **Total out** | **₹52,180** |
 | **Left** | **₹6,220** |
 
-*Table 1 — one real month, before anything changes*
+*Table 2 — one real month, before anything changes*
 
 Priya would have guessed she saves "around ₹10,000". She saves ₹6,220, and most months it is gone by the 28th.
 
@@ -73,7 +109,7 @@ Take every "asset" you believe you own and sort it honestly:
 | ₹40,000 in a savings account | put in about ₹100 | Barely an asset |
 | SIP | — | She does not have one |
 
-*Table 2 — the test applied honestly. Most lists look like this.*
+*Table 3 — the test applied honestly. Most lists look like this.*
 
 Priya's real asset column is: EPF, and a savings account losing to inflation. That is the entire thing.
 
@@ -88,6 +124,8 @@ This is not a failure. It is the normal starting position, and you cannot fix wh
 **Time: 30 minutes with your bank statement.**
 
 Nobody has "nothing to invest". They have money with no instruction attached to it.
+
+The book's name for this step is **mind your own business** — a line usually misread as "start a company". Kiyosaki means something narrower and more useful: **your profession is how you earn; your business is the asset column you build with what you earn.** Most people spend a career minding someone else's business and never start their own. Keep the job. Start the business — which, for a salaried person, means steps 2, 3 and 4.
 
 Priya has ₹6,220 free. But she also found two things she had stopped noticing:
 
@@ -105,21 +143,25 @@ Priya's bike EMI has four years to run:
 | As the bike EMI | ₹2,01,600 paid out, bike worth a fraction |
 | Invested instead | ₹2,59,706 |
 
-*Table 3 — illustration at an assumed 12%, from the [SIP calculator](/calculators/sip). Actual returns vary and may be lower; past performance does not guarantee future results.*
+*Table 4 — illustration at an assumed 12%, from the [SIP calculator](/calculators/sip). Actual returns vary and may be lower; past performance does not guarantee future results.*
 
 She still wants the bike. That is fine — the point is not that bikes are forbidden. The point is that **the EMI is always presented as ₹4,200 and never as ₹2.6 lakh**, and you should at least know the second number before you sign.
 
 ![The same monthly amount: one path ends with a depreciated vehicle, the other with a larger sum](/diagrams/same-emi.svg)
 
-*Fig 2 — the same instalment, pointed in two directions.*
+*Fig 3 — the same instalment, pointed in two directions.*
 
 **Do this now:** go through last month's statement line by line. Find every recurring debit you did not actively decide this year. For most people that is ₹2,000–₹4,000 hiding in plain sight.
 
-## Step 3 — Set one auto-debit, 2 days after payday
+## Step 3 — Pay yourself first
 
 **Time: 20 minutes. This is the step that actually changes the outcome.**
 
-The rule the book borrows from *The Richest Man in Babylon*: the money goes to your asset column **before** rent, bills and spending — not from what survives at month end. Nothing survives at month end.
+This is the concept by its proper name — Kiyosaki takes it from *The Richest Man in Babylon* and it is the mechanical heart of the book.
+
+**Pay yourself first** means the money goes to your asset column **before** rent, bills and spending. Not what survives at month end. Nothing survives at month end — and that is not a character flaw, it is arithmetic: spending expands to fill whatever is visible in the account.
+
+Kiyosaki's point is sharper than "save more". He argues the pressure of having paid yourself first is *useful* — it forces you to find the rest, the way a deadline forces work. The alternative, paying everyone else first and saving the remainder, has no forcing function at all.
 
 The mechanics matter more than people think:
 
@@ -135,7 +177,7 @@ Priya starts at **₹3,000** — half of what she found, so the change does not 
 | After 20 years | ₹7,20,000 | ₹29,97,444 |
 | After 25 years | ₹9,00,000 | ₹56,92,905 |
 
-*Table 4 — illustration from the [SIP calculator](/calculators/sip). Actual returns vary and may be lower.*
+*Table 5 — illustration from the [SIP calculator](/calculators/sip). Actual returns vary and may be lower.*
 
 **Do this now:** set up one SIP auto-debit for 2 days after your salary date. Any amount. A SIP you never cancel beats a larger one you stop in March.
 
@@ -152,7 +194,7 @@ So: **increase the SIP by 10% every year**, on the same date as her appraisal. �
 | Kept flat | ₹7,20,000 | ₹29,97,444 |
 | Raised 10% a year | ₹20,61,624 | **₹59,65,984** |
 
-*Table 5 — illustration at an assumed 12%. Actual returns vary and may be lower; past performance does not guarantee future results.*
+*Table 6 — illustration at an assumed 12%. Actual returns vary and may be lower; past performance does not guarantee future results.*
 
 Same starting amount. Same fund. **Roughly twice the outcome**, from one instruction she gives once.
 
@@ -200,7 +242,7 @@ Attempting it without a genuine business is not clever structuring. It is tax ev
 
 ![Keep the mindset lessons; leave the US-specific tactics and the predictions](/diagrams/keep-leave.svg)
 
-*Fig 3 — two columns, decided by which country wrote the advice.*
+*Fig 4 — two columns, decided by which country wrote the advice.*
 
 ## The whole thing on one page
 
@@ -212,7 +254,7 @@ Attempting it without a genuine business is not clever structuring. It is tax ev
 | 4 | Calendar reminder: +10% at every appraisal | 2 min |
 | 5 | Learn the four traps; re-read before any big decision | — |
 
-*Table 6 — the book's six lessons, as a salaried person in India can actually use them*
+*Table 7 — the book's six lessons, as a salaried person in India can actually use them*
 
 Where the book's lessons land: Step 1 is financial literacy (Lesson 2). Steps 2 and 3 are minding your own business (Lesson 3). Step 4 is the rich don't work for money (Lesson 1). Step 5 covers the rest — taxes and corporations (Lesson 4) and inventing money (Lesson 5), both of which are warnings here rather than instructions.
 
@@ -236,6 +278,8 @@ Everything above comes from four sentences. They are worth keeping after you hav
 2. **Buy assets first, then let them pay for the lifestyle.** Run in the other order, nothing is left — not because you lack discipline, but because the order itself is wrong.
 3. **A salary is rented income.** Which is why the appraisal is not the reward. The appraisal is the input, and step 4 is what makes that true.
 4. **Financial literacy beats a high income.** Knowing where your money goes is worth more than earning 20% more and not knowing.
+
+And one sentence that holds all four: **the rich buy assets, the middle class buy liabilities they believe are assets.** If you can only keep one line from the book, keep that.
 
 What the book never quite says is that none of this is clever. There is no scheme in it. It is an afternoon of arithmetic, one auto-debit, and then twenty years of leaving the thing alone while it does the uninteresting work.
 
