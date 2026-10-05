@@ -92,6 +92,37 @@ Priya would have guessed she saves "around ₹10,000". She saves ₹6,220, and m
 
 That gap — between what you think and what is true — is step one.
 
+## The game he built, and the finish line it gives you
+
+Kiyosaki did not only write the book. He built a board game, *Cashflow*, to teach the same idea — and the game makes one thing clearer than the book does.
+
+The board has two tracks. The inner loop is **the rat race**: you draw a career card with a salary and matching expenses, and you go round. Draw a higher-paying career and you also draw higher expenses — which is the joke, and the lesson. The outer track is the **fast track**, where the problem is what to do with surplus rather than how to survive the month.
+
+![The rat race inner loop and the fast track outside it, with the exit condition between them](/diagrams/rat-race.svg)
+
+*Fig 3 — the inner loop is where almost everyone plays their whole life.*
+
+There is exactly one way out of the inner loop, and it is not a bigger salary:
+
+> **You leave the rat race when your passive income exceeds your monthly expenses.**
+
+That is the finish line. Not a corpus someone on YouTube named, not a salary band — **your own monthly expenses**, covered by money you did not work for that month.
+
+It is worth calculating, because it turns a vague ambition into a number. For Priya, whose month comes to ₹52,180:
+
+| To cover ₹52,180 a month | You would need |
+|---|---|
+| Drawing 4% a year | ₹1,56,54,000 |
+| Drawing 5% a year | ₹1,25,23,200 |
+
+*Table 3 — illustration only. The withdrawal rate you can safely take is debated and depends on your horizon, inflation and what you hold.*
+
+Two things follow from that table, and both are more useful than the number itself.
+
+**First: the target moves when your expenses move.** Every EMI you add raises the finish line. Priya's bike and phone EMIs alone add about ₹19 lakh to what she needs. Reducing what you need is often easier than earning what you need.
+
+**Second: you do not have to reach it to benefit.** Passive income covering even a quarter of your expenses changes how a job loss feels. The finish line is useful as a direction, not as a wall you must clear.
+
 ## Step 1 — Write down what you own, and which way it moves
 
 **Time: 20 minutes. Do this before anything else.**
@@ -109,7 +140,7 @@ Take every "asset" you believe you own and sort it honestly:
 | ₹40,000 in a savings account | put in about ₹100 | Barely an asset |
 | SIP | — | She does not have one |
 
-*Table 3 — the test applied honestly. Most lists look like this.*
+*Table 4 — the test applied honestly. Most lists look like this.*
 
 Priya's real asset column is: EPF, and a savings account losing to inflation. That is the entire thing.
 
@@ -143,13 +174,13 @@ Priya's bike EMI has four years to run:
 | As the bike EMI | ₹2,01,600 paid out, bike worth a fraction |
 | Invested instead | ₹2,59,706 |
 
-*Table 4 — illustration at an assumed 12%, from the [SIP calculator](/calculators/sip). Actual returns vary and may be lower; past performance does not guarantee future results.*
+*Table 5 — illustration at an assumed 12%, from the [SIP calculator](/calculators/sip). Actual returns vary and may be lower; past performance does not guarantee future results.*
 
 She still wants the bike. That is fine — the point is not that bikes are forbidden. The point is that **the EMI is always presented as ₹4,200 and never as ₹2.6 lakh**, and you should at least know the second number before you sign.
 
 ![The same monthly amount: one path ends with a depreciated vehicle, the other with a larger sum](/diagrams/same-emi.svg)
 
-*Fig 3 — the same instalment, pointed in two directions.*
+*Fig 4 — the same instalment, pointed in two directions.*
 
 **Do this now:** go through last month's statement line by line. Find every recurring debit you did not actively decide this year. For most people that is ₹2,000–₹4,000 hiding in plain sight.
 
@@ -177,7 +208,7 @@ Priya starts at **₹3,000** — half of what she found, so the change does not 
 | After 20 years | ₹7,20,000 | ₹29,97,444 |
 | After 25 years | ₹9,00,000 | ₹56,92,905 |
 
-*Table 5 — illustration from the [SIP calculator](/calculators/sip). Actual returns vary and may be lower.*
+*Table 6 — illustration from the [SIP calculator](/calculators/sip). Actual returns vary and may be lower.*
 
 **Do this now:** set up one SIP auto-debit for 2 days after your salary date. Any amount. A SIP you never cancel beats a larger one you stop in March.
 
@@ -194,7 +225,7 @@ So: **increase the SIP by 10% every year**, on the same date as her appraisal. �
 | Kept flat | ₹7,20,000 | ₹29,97,444 |
 | Raised 10% a year | ₹20,61,624 | **₹59,65,984** |
 
-*Table 6 — illustration at an assumed 12%. Actual returns vary and may be lower; past performance does not guarantee future results.*
+*Table 7 — illustration at an assumed 12%. Actual returns vary and may be lower; past performance does not guarantee future results.*
 
 Same starting amount. Same fund. **Roughly twice the outcome**, from one instruction she gives once.
 
@@ -242,7 +273,7 @@ Attempting it without a genuine business is not clever structuring. It is tax ev
 
 ![Keep the mindset lessons; leave the US-specific tactics and the predictions](/diagrams/keep-leave.svg)
 
-*Fig 4 — two columns, decided by which country wrote the advice.*
+*Fig 5 — two columns, decided by which country wrote the advice.*
 
 ## The whole thing on one page
 
@@ -254,7 +285,7 @@ Attempting it without a genuine business is not clever structuring. It is tax ev
 | 4 | Calendar reminder: +10% at every appraisal | 2 min |
 | 5 | Learn the four traps; re-read before any big decision | — |
 
-*Table 7 — the book's six lessons, as a salaried person in India can actually use them*
+*Table 8 — the book's six lessons, as a salaried person in India can actually use them*
 
 Where the book's lessons land: Step 1 is financial literacy (Lesson 2). Steps 2 and 3 are minding your own business (Lesson 3). Step 4 is the rich don't work for money (Lesson 1). Step 5 covers the rest — taxes and corporations (Lesson 4) and inventing money (Lesson 5), both of which are warnings here rather than instructions.
 
