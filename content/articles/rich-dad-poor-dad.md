@@ -2,7 +2,9 @@
 
 Most people believe they will be better off when they earn more.
 
-It is the most reasonable assumption in personal finance, and it is wrong often enough to ruin careers. Plenty of people earning ₹2 lakh a month have nothing behind them, and plenty earning ₹50,000 have a growing asset column. The salary is not what separates them.
+It sounds obvious. It is also wrong, and you have probably seen it yourself.
+
+Think of two people you know. One earns ₹2 lakh a month and still has nothing saved. The other earns ₹50,000 and is quietly building something. The salary is not what made the difference.
 
 *Rich Dad Poor Dad* is the book that explains why — and it is the first finance book most Indian beginners finish. It is also the one they do least with. Ask someone who read it three years ago what they actually changed, and you usually get a long pause.
 
@@ -10,8 +12,8 @@ That is a shame, because four of its ideas are genuinely among the most useful t
 
 1. **An asset puts money in your pocket. A liability takes money out.** Most of what people call their assets fail this test.
 2. **Buy assets first, then let them pay for the lifestyle** — not the other way around, which is how everyone actually runs it.
-3. **A salary is rented income.** It stops the day you stop, so the job is the input, never the destination.
-4. **Financial literacy beats a high income.** Not a slogan: the specific skill of knowing where your money goes and what each thing costs you.
+3. **A salary stops the day you stop working.** So the job is where the money comes from — it is not the plan by itself.
+4. **Knowing how money works beats earning more.** Not a slogan — the plain skill of knowing where your money actually goes each month.
 
 The rest of the book is commentary on those four — and some of it is actively dangerous to follow in India, which we will come to.
 
@@ -21,7 +23,7 @@ This article is those four ideas turned into **five things to do**, in order, wi
 
 Kiyosaki's own illustration is two men: his father — PhD, university professor, senior government official — and his friend's father, who left school at thirteen and owned shops and restaurants.
 
-The professor out-earned the shopkeeper for years and stayed short of money. What separated them was not income but **direction of flow**: one man's money left every month and never came back, the other's was steadily buying things that paid him.
+The professor earned more than the shopkeeper for years, and was still short of money. The difference was not how much came in. It was where it went. One man's money left every month and never came back. The other man's money was busy buying things that paid him.
 
 That is the entire book, and it is the only part you need before step one.
 
@@ -33,9 +35,12 @@ That is the entire book, and it is the only part you need before step one.
 
 Kiyosaki's real teaching tool is not a slogan. It is a pair of boxes.
 
-Every person's money sits in two statements. The **income statement** is the month: what comes in, what goes out. The **balance sheet** is what you have built: assets on one side, liabilities on the other.
+Your money lives in two places, and it helps to picture them separately.
 
-What matters is not the boxes. It is **which way money flows between them** — and that single pattern is the difference between the three groups the book describes.
+- **Your month** — what comes in and what goes out. Salary in, rent and bills out.
+- **What you have built** — everything you own on one side, everything you owe on the other.
+
+The boxes are not the point. The point is **where your money goes when it arrives**, and there are only three answers. The book is really about which of the three you are doing.
 
 ![Three cash flow patterns: the poor spend everything, the middle class buy liabilities, the rich buy assets that pay the expenses](/diagrams/cash-flow-patterns.svg)
 
@@ -43,17 +48,23 @@ What matters is not the boxes. It is **which way money flows between them** — 
 
 **The poor.** Income arrives, expenses consume it, nothing reaches the balance sheet. The cycle repeats at every income level — which is why a raise alone changes nothing.
 
-**The middle class.** Income arrives and is used to acquire **liabilities** — the bigger car, the upgraded phone, the second home loan — each of which creates a new monthly expense. This is the trap, because it looks exactly like success. The balance sheet grows, but only on the liability side, and every addition raises the monthly bill. Kiyosaki calls the resulting loop the **rat race**: earn more, owe more, work harder, repeat.
+**The middle class.** The money arrives and buys **liabilities** — a bigger car, a better phone, a second home loan. Each one comes with a new bill every month.
 
-**The rich.** Income is used to acquire **assets**. Those assets throw off their own income, and eventually that income — not the salary — pays the expenses. The salary becomes optional.
+This is the trap, and it is dangerous because it looks exactly like success. You do own more things. But every new thing raises what you must pay each month, so you need the job more than you did before. Kiyosaki calls this loop the **rat race**: earn more, owe more, work harder, repeat.
+
+**The rich.** The money arrives and buys **assets** instead. Those assets pay them money every month. Eventually that money — not the salary — is enough to cover the bills, and working becomes a choice.
 
 > **The single most useful sentence in the book:** the rich buy assets; the middle class buy liabilities they believe are assets.
 
 That belief is the whole problem, and it is why step 1 below is an audit rather than an investment.
 
-**Why people stay in the middle row.** Kiyosaki's answer is two emotions, and it is the part of the book most worth sitting with. **Fear** of not having money keeps you in a job you will not leave and stops you learning anything that feels risky. **Greed** — or more honestly, desire — means that when the money does arrive, it is spent before it is allocated. The raise gets converted into a bigger EMI within weeks.
+**So why does almost everyone stay in the middle row?** Kiyosaki says two feelings keep us there, and both will be familiar.
 
-Both feelings are normal and neither goes away with a higher salary. The only thing that works is removing the decision from the moment: money that leaves automatically, before you see it, is not subject to either emotion. That is step 3, and it is why the *date* of the auto-debit matters more than the amount.
+**Fear.** Being afraid of running out of money keeps you in a job you do not enjoy, and stops you learning anything new because it feels risky.
+
+**Wanting things.** When money does arrive, it is spent before you have decided anything. The raise turns into a bigger EMI within weeks.
+
+Neither feeling goes away when you earn more — richer people simply want more expensive things. The only thing that works is taking the decision away from yourself. **Money that leaves your account automatically, before you even see it, never has to survive a bad mood.** That is step 3 below, and it is why the *date* you set matters more than the amount.
 
 | | Income statement | Balance sheet |
 |---|---|---|
@@ -88,9 +99,9 @@ Her actual month, written down for the first time:
 
 *Table 2 — one real month, before anything changes*
 
-Priya would have guessed she saves "around ₹10,000". She saves ₹6,220, and most months it is gone by the 28th.
+Ask Priya before she wrote this down and she would have said she saves "around ₹10,000". The real number is ₹6,220, and most months it is gone by the 28th.
 
-That gap — between what you think and what is true — is step one.
+Almost everyone is wrong about this, and usually in the same direction. Closing that gap is step one.
 
 ## The game he built, and the finish line it gives you
 
@@ -103,7 +114,9 @@ The board has two tracks. The inner ring is **the rat race**. You draw a career 
 - **Deal** — the only squares that let you buy an asset.
 - **Downsized**, **Baby**, **Charity** — life, happening whether or not you planned for it.
 
-Draw a higher-paying career and you draw higher expenses with it, which is the joke and the lesson. The outer track is the **fast track**, where the problem is what to do with surplus rather than how to survive the month.
+Here is the clever part. If you draw a better-paying career, you also draw bigger expenses to go with it. The doctor does not escape faster than the mechanic. That is the joke, and it is the lesson.
+
+The outer track is the **fast track**. There, your problem is what to do with spare money — not how to reach the end of the month.
 
 ![The rat race inner loop and the fast track outside it, with the exit condition between them](/diagrams/rat-race.svg)
 
@@ -115,11 +128,11 @@ There is exactly one way out of the inner loop, and it is not a bigger salary:
 
 **Passive income** is simply money that arrives without you working that month — rent from a property you own, interest, dividends from shares, the growth on money you have invested. The opposite of a salary, which stops the moment you do.
 
-That is the finish line. Not a corpus someone on YouTube named, not a salary band — **your own monthly expenses**, covered by money you did not work for that month.
+That is the finish line. Not some big number you saw in a video — **your own monthly bills**, paid by money you did not work for.
 
-It is worth calculating, because it turns a vague ambition into a number.
+It is worth working out, because it turns a vague wish into an actual target.
 
-The rough method: work out how much you could take out each year without running the pot down. A common illustration uses 4–5% a year. So if you need ₹52,180 a month — ₹6,26,160 a year — you divide that by the rate.
+Here is the rough method. You want to know how big a pot you need so that what you take from it each year does not shrink it. A common illustration uses 4–5% a year. Priya needs ₹52,180 a month, which is ₹6,26,160 a year — so you divide that by the rate.
 
 For Priya:
 
@@ -128,21 +141,21 @@ For Priya:
 | Drawing 4% a year | ₹1,56,54,000 |
 | Drawing 5% a year | ₹1,25,23,200 |
 
-*Table 3 — illustration only. The withdrawal rate you can safely take is debated and depends on your horizon, inflation and what you hold.*
+*Table 3 — an illustration, not a promise. How much you can safely take out each year is argued over, and depends on how long you need it to last and what you are holding.*
 
 Two things follow from that table, and both are more useful than the number itself.
 
-**First: the target moves when your expenses move.** Every EMI you add raises the finish line. Priya's bike and phone EMIs alone add about ₹19 lakh to what she needs. Reducing what you need is often easier than earning what you need.
+**First: every EMI you take moves the finish line further away.** Priya's bike and phone EMIs alone add roughly ₹19 lakh to the pot she needs. Needing less is usually easier than earning more.
 
-**Second: you do not have to reach it to benefit.** Passive income covering even a quarter of your expenses changes how a job loss feels. The finish line is useful as a direction, not as a wall you must clear.
+**Second: you do not have to reach it for this to be worth doing.** If money you did not work for covers even a quarter of your bills, losing a job stops being a disaster and becomes a problem. Treat the number as a direction to walk in, not a wall you must get over.
 
 ## Step 1 — Write down what you own, and which way it moves
 
 **Time: 20 minutes. Do this before anything else.**
 
-Kiyosaki's definition is deliberately blunt: not what a thing is called, not what it is worth. **Which direction does the money move.**
+Kiyosaki's test is deliberately simple. Forget what the thing is called and what it is worth. Ask one question: **last month, did it put money in my pocket or take money out?**
 
-Take every "asset" you believe you own and sort it honestly:
+Write down everything you think of as yours, and answer honestly:
 
 | What Priya calls it | Last month it… | So it is |
 |---|---|---|
@@ -155,11 +168,11 @@ Take every "asset" you believe you own and sort it honestly:
 
 *Table 4 — the test applied honestly. Most lists look like this.*
 
-Priya's real asset column is: EPF, and a savings account losing to inflation. That is the entire thing.
+So Priya actually owns two things that pay her: her EPF, and a savings account earning so little that rising prices eat it anyway. That is the whole list.
 
-This is not a failure. It is the normal starting position, and you cannot fix what you have not written down.
+This is not a failure, and it is not unusual. It is where almost everyone starts. But you cannot fix a list you have never written down.
 
-> The house you live in is the argument everyone has with this book. Kiyosaki calls it a liability, which sounds absurd to Indian ears. He is not saying don't buy a home. He is saying don't count it as the thing that will fund your life, because it pays you nothing while you live in it. Buy it because you want to live in it. That is a good enough reason.
+> Everyone argues with this book about one thing: the house you live in. Kiyosaki calls it a liability, which sounds wrong to most Indian families. He is not saying do not buy a home. He is saying do not expect it to pay for your life, because while you live in it, it only takes money — EMI, repairs, property tax. Buy it because you want to live in it. That is a good enough reason on its own.
 
 **Do this now:** open your banking app, list what you own, and write *in* or *out* against each one for last month. Whatever survives is your real asset column.
 
@@ -167,18 +180,18 @@ This is not a failure. It is the normal starting position, and you cannot fix wh
 
 **Time: 30 minutes with your bank statement.**
 
-Nobody has "nothing to invest". They have money with no instruction attached to it.
+Almost nobody has "nothing to invest". What they have is money leaving every month that nobody told where to go.
 
-The book's name for this step is **mind your own business** — a line usually misread as "start a company". Kiyosaki means something narrower and more useful: **your profession is how you earn; your business is the asset column you build with what you earn.** Most people spend a career minding someone else's business and never start their own. Keep the job. Start the business — which, for a salaried person, means steps 2, 3 and 4.
+The book calls this step **mind your own business**, which people hear as "quit and start a company". He means something much simpler: **your job is how you earn money. Your business is what you build with it.** Most people spend thirty years building someone else's business and never start their own. Keep the job. Start the business — and for a salaried person, the business is just steps 2, 3 and 4.
 
 Priya has ₹6,220 free. But she also found two things she had stopped noticing:
 
 - **Phone EMI, ₹2,100** — eleven months left on a phone she would have bought outright
 - **Subscriptions, ₹1,180** — four services, two of which she had not opened in months
 
-That is **₹3,280 a month** that was never a decision. It was a default.
+That is **₹3,280 every month** that she never actually chose to spend. It just kept happening.
 
-**The test that matters:** do not ask "can I afford ₹4,200 a month?" Ask what that instalment becomes if it were invested for the same number of years instead.
+**Now the question worth asking before any EMI.** Do not ask "can I afford ₹4,200 a month?" — the answer is almost always yes, which is why the question is useless. Ask instead: *if I put that same ₹4,200 into an investment for the same number of years, what would I have at the end?*
 
 Priya's bike EMI has four years to run:
 
@@ -189,13 +202,15 @@ Priya's bike EMI has four years to run:
 
 *Table 5 — illustration at an assumed 12%, from the [SIP calculator](/calculators/sip). Actual returns vary and may be lower; past performance does not guarantee future results.*
 
-She still wants the bike. That is fine — the point is not that bikes are forbidden. The point is that **the EMI is always presented as ₹4,200 and never as ₹2.6 lakh**, and you should at least know the second number before you sign.
+She still wants the bike, and that is completely fine. Nobody is saying do not buy things.
+
+The point is that the showroom tells you the price is ₹4,200 a month. It never tells you the other price, which is **₹2.6 lakh you will not have**. Know both numbers, then decide.
 
 ![The same monthly amount: one path ends with a depreciated vehicle, the other with a larger sum](/diagrams/same-emi.svg)
 
 *Fig 4 — the same instalment, pointed in two directions.*
 
-**Do this now:** go through last month's statement line by line. Find every recurring debit you did not actively decide this year. For most people that is ₹2,000–₹4,000 hiding in plain sight.
+**Do this now:** open last month's bank statement and read it line by line. Look for anything that repeats every month that you did not actively choose this year. Most people find ₹2,000–₹4,000 sitting there in plain sight.
 
 ## Step 3 — Pay yourself first
 
@@ -203,9 +218,11 @@ She still wants the bike. That is fine — the point is not that bikes are forbi
 
 This is the concept by its proper name — Kiyosaki takes it from *The Richest Man in Babylon* and it is the mechanical heart of the book.
 
-**Pay yourself first** means the money goes to your asset column **before** rent, bills and spending. Not what survives at month end. Nothing survives at month end — and that is not a character flaw, it is arithmetic: spending expands to fill whatever is visible in the account.
+**Pay yourself first** means your savings leave the account **before** rent, bills and spending — not after.
 
-Kiyosaki's point is sharper than "save more". He argues the pressure of having paid yourself first is *useful* — it forces you to find the rest, the way a deadline forces work. The alternative, paying everyone else first and saving the remainder, has no forcing function at all.
+Most people do the opposite. They pay everyone else and save whatever is left at the end of the month. Nothing is ever left. That is not weak willpower; it is simply what happens, because spending quietly grows to match whatever money you can see in the account.
+
+Kiyosaki goes further than "save more". He says the squeeze you feel *after* paying yourself is the useful bit — it pushes you to manage the rest, the same way a deadline makes you finish work. Saving whatever is left over puts no pressure on anything, which is why it never works.
 
 If the words are new, they are simpler than they sound:
 
@@ -234,9 +251,9 @@ Priya starts at **₹3,000** — half of what she found, so the change does not 
 
 **This is the step almost nobody does, and it roughly doubles the result.**
 
-Priya's salary will not stay at ₹58,400. If her SIP does stay at ₹3,000, every future raise is absorbed by lifestyle — which is exactly what happened to poor dad.
+Priya's salary will not stay at ₹58,400 forever. But if her SIP stays at ₹3,000 forever, then every raise she ever gets will quietly disappear into better food, a nicer phone, a bigger flat. That is exactly what happened to poor dad.
 
-So: **increase the SIP by 10% every year**, on the same date as her appraisal. ₹3,000 becomes ₹3,300, then ₹3,630, and so on. She never feels it, because the raise arrives in the same month.
+So she does one more thing: **raise the SIP by 10% each year**, in the same month as her appraisal. ₹3,000 becomes ₹3,300, then ₹3,630, and so on. She barely notices, because the raise lands in the same month the SIP goes up.
 
 | ₹3,000/month, 20 years | She puts in | It becomes |
 |---|---|---|
@@ -245,9 +262,9 @@ So: **increase the SIP by 10% every year**, on the same date as her appraisal. �
 
 *Table 7 — illustration at an assumed 12%. Actual returns vary and may be lower; past performance does not guarantee future results.*
 
-Same starting amount. Same fund. **Roughly twice the outcome**, from one instruction she gives once.
+Same starting amount. Same fund. Same salary. **Close to double the money**, because of one decision she makes once and never thinks about again.
 
-This is Lesson 1 of the book in its practical form: the raise is not the reward. The raise is the input.
+This is the first idea in the book made practical: your raise is not your reward. Your raise is the raw material.
 
 **Do this now:** put a calendar reminder on your appraisal month that says *increase SIP by 10%*. That is the whole step.
 
@@ -257,15 +274,19 @@ Steps 1–4 take an afternoon. This step protects them for the next twenty years
 
 ### "I'll quit my job and build assets"
 
-The book makes a job feel like a trap. For a 25-year-old with six months of expenses saved and no dependants, leaving to try something is a reasonable risk. For someone with a home loan, a school fee and one income, it is not a risk — it is the family's floor.
+The book is written to make a job feel like a cage. Be careful with that feeling.
 
-Kiyosaki himself was employed, and married to someone employed, through the years he was building. **The book sells the leap and skips the runway.** Build the asset column while employed; the job is what funds the thing that eventually replaces it.
+If you are 25, have six months of expenses saved and nobody depending on you, leaving to try something is a fair risk. If you have a home loan, a school fee and you are the only earner, that job is not a cage — it is the floor your family is standing on.
+
+Worth knowing: Kiyosaki was employed himself, and married to someone employed, during the years he was building. **The book sells you the jump and quietly leaves out the safety net.** Build your assets while you are still employed. The job is what pays for the thing that may one day replace it.
 
 ### "I bought a flat, so I own an asset"
 
-The most common misread in India. Run the actual arithmetic: residential rental yields sit at roughly **2–3%** net, home loans cost roughly **8.25–9%**. You are borrowing at nine to earn two or three.
+This is the most common mistake in India, so it is worth doing the sums.
 
-A flat bought on loan and rented out does not pay you every month — **it costs you every month**, and you are betting appreciation covers the gap. That bet may pay. It is still a bet, not the self-funding asset the book describes.
+Rent out a flat here and the rent usually works out to about **2–3% of what the flat cost** in a year. The home loan charges you about **8.25–9%** a year. So you are paying nine to earn two or three.
+
+That means a flat bought on loan and rented out does not pay you each month — **it takes money from you each month**. You are hoping the price rises enough later to make up the difference. It might. But that is a bet on the price going up, which is a different thing from the asset the book describes, the kind that pays for itself while you hold it.
 
 ### "I'm making money work for me" — in F&O
 
