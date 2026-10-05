@@ -236,14 +236,14 @@ The mechanics matter more than people think:
 - EPF already works this way — that is precisely why it works
 - Start at an amount that feels slightly too small
 
-Priya starts at **₹3,000** — half of what she found, so the change does not feel like punishment. Here is what that single decision does:
+Priya starts at **₹3,000**. She found ₹3,280 of waste and has ₹6,220 spare, so ₹3,000 is comfortably within what she can actually do — and leaving herself room matters more than starting big. Here is what that one decision does:
 
 | ₹3,000 a month at an assumed 12% | She puts in | It becomes |
 |---|---|---|
 | After 20 years | ₹7,20,000 | ₹29,97,444 |
 | After 25 years | ₹9,00,000 | ₹56,92,905 |
 
-*Table 6 — illustration from the [SIP calculator](/calculators/sip). Actual returns vary and may be lower.*
+*Table 6 — illustration at an assumed 12%, from the [SIP calculator](/calculators/sip). Actual returns vary and may be lower; past performance does not guarantee future results.*
 
 **Do this now:** set up one SIP auto-debit for 2 days after your salary date. Any amount. A SIP you never cancel beats a larger one you stop in March.
 
@@ -332,15 +332,26 @@ Attempting it without a genuine business is not clever structuring. It is tax ev
 | 4 | Calendar reminder: +10% at every appraisal | 2 min |
 | 5 | Learn the four traps; re-read before any big decision | — |
 
-*Table 8 — the book's six lessons, as a salaried person in India can actually use them*
+*Table 8 — the five steps, and how long each one actually takes*
 
-Where the book's lessons land: Step 1 is financial literacy (Lesson 2). Steps 2 and 3 are minding your own business (Lesson 3). Step 4 is the rich don't work for money (Lesson 1). Step 5 covers the rest — taxes and corporations (Lesson 4) and inventing money (Lesson 5), both of which are warnings here rather than instructions.
+If you have read the book and want to know where its six lessons went:
 
-Lesson 6 — work to learn, not to earn — sits outside the money entirely: when two offers are close, take the one that leaves you more employable in three years, if you can afford the difference. With a family on one income, take the higher salary and feel nothing about it.
+| The book's lesson | Where it is here |
+|---|---|
+| 1 — The rich don't work for money | Step 4 |
+| 2 — Financial literacy | Step 1 |
+| 3 — Mind your own business | Steps 2 and 3 |
+| 4 — Taxes and corporations | Step 5, as a warning |
+| 5 — The rich invent money | Step 5, as a warning |
+| 6 — Work to learn | Below |
+
+*Table 9 — the book's six lessons, mapped to the five steps*
+
+**Lesson 6 — work to learn, not to earn** — is the one that is not about money at all. When two job offers are close, take the one that will teach you more, because skills follow you between jobs and a salary does not. The caveat: that is advice for people with a cushion. If you support a family on one income, take the higher salary and do not feel bad about it.
 
 ## What Priya actually did
 
-She found ₹3,280 that was never a decision. She started a ₹3,000 SIP dated the 3rd, because her salary lands on the 1st. She set a reminder for her appraisal month. She kept the bike.
+She found ₹3,280 a month she had never actually decided to spend. She started a ₹3,000 SIP dated the 3rd, because her salary lands on the 1st. She set a reminder for her appraisal month. She kept the bike, and she still has her ₹6,220 of breathing room.
 
 Total time: one Sunday afternoon. Total change to how her month feels: almost none.
 
@@ -354,14 +365,14 @@ Everything above comes from four sentences. They are worth keeping after you hav
 
 1. **An asset puts money in your pocket; a liability takes it out.** Your car, your phone on EMI and the flat you live in are not assets, whatever they cost.
 2. **Buy assets first, then let them pay for the lifestyle.** Run in the other order, nothing is left — not because you lack discipline, but because the order itself is wrong.
-3. **A salary is rented income.** Which is why the appraisal is not the reward. The appraisal is the input, and step 4 is what makes that true.
-4. **Financial literacy beats a high income.** Knowing where your money goes is worth more than earning 20% more and not knowing.
+3. **A salary stops the day you stop working.** Which is why the appraisal is not the prize. It is the raw material — and step 4 is what turns it into something.
+4. **Knowing how money works beats earning more.** Knowing where your money actually goes is worth more than earning 20% more and never checking.
 
 And one sentence that holds all four: **the rich buy assets, the middle class buy liabilities they believe are assets.** If you can only keep one line from the book, keep that.
 
 What the book never quite says is that none of this is clever. There is no scheme in it. It is an afternoon of arithmetic, one auto-debit, and then twenty years of leaving the thing alone while it does the uninteresting work.
 
-**So: the long pause at the start of this article — the one you get when you ask someone what they changed after reading this book. You should have an answer by tonight. "One auto-debit, two days after payday, rising 10% a year" is a complete answer.**
+**Remember the long pause — the one people give when you ask what they changed after reading this book. You should have an answer by tonight. "One auto-debit, two days after payday, going up 10% a year" is a complete answer.**
 
 ---
 
