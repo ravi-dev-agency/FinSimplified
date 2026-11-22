@@ -1,7 +1,8 @@
-import { BookOpen, Calculator, Home, Newspaper } from "lucide-react";
+import { BookOpen, Calculator, Home, ListVideo, Newspaper } from "lucide-react";
 
 export const mainNav = [
   { label: "Learn", href: "/learn" },
+  { label: "Series", href: "/series" },
   { label: "Articles", href: "/articles" },
   { label: "Calculators", href: "/calculators" },
 ];
@@ -13,6 +14,7 @@ export const mainNav = [
 export const mobileNav = [
   { label: "Home", href: "/", icon: Home },
   { label: "Learn", href: "/learn", icon: BookOpen },
+  { label: "Series", href: "/series", icon: ListVideo },
   { label: "Articles", href: "/articles", icon: Newspaper },
   { label: "Tools", href: "/calculators", icon: Calculator },
 ];
