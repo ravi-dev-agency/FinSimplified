@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="600" height="200" fill="none" role="img" aria-labelledby="snT">
+  <title id="snT">Four safety nets in order before investing: one, an emergency fund; two, clear costly debt; three, health and term insurance; four, open an investment account. Only then, invest.</title>
+
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">IN THIS ORDER — BEFORE YOUR FIRST RUPEE IS INVESTED</text>
+
+  <rect x="16" y="44" width="98" height="96" rx="4" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="65" y="72" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#6B7177">1</text>
+  <text x="65" y="98" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">Emergency</text>
+  <text x="65" y="116" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">fund</text>
+
+  <rect x="133" y="44" width="98" height="96" rx="4" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="182" y="72" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#6B7177">2</text>
+  <text x="182" y="98" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">Clear costly</text>
+  <text x="182" y="116" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">debt</text>
+
+  <rect x="250" y="44" width="98" height="96" rx="4" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="299" y="72" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#6B7177">3</text>
+  <text x="299" y="98" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">Health and</text>
+  <text x="299" y="116" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">term cover</text>
+
+  <rect x="367" y="44" width="98" height="96" rx="4" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="416" y="72" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#6B7177">4</text>
+  <text x="416" y="98" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">Open an</text>
+  <text x="416" y="116" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">account</text>
+
+  <rect x="484" y="44" width="100" height="96" rx="4" fill="#1F5FA0"/>
+  <text x="534" y="98" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Then</text>
+  <text x="534" y="116" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">invest</text>
+
+  <path d="M118 92 L129 92 M125 88 L129 92 L125 96" stroke="#8A9099" stroke-width="1.5"/>
+  <path d="M235 92 L246 92 M242 88 L246 92 L242 96" stroke="#8A9099" stroke-width="1.5"/>
+  <path d="M352 92 L363 92 M359 88 L363 92 L359 96" stroke="#8A9099" stroke-width="1.5"/>
+  <path d="M469 92 L480 92 M476 88 L480 92 L476 96" stroke="#8A9099" stroke-width="1.5"/>
+
+  <path d="M16 162 L584 162" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="186" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">Skip one and a single bad month can force you to sell investments at a loss.</text>
+</svg>

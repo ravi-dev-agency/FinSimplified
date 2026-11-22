@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" fill="none" role="img" aria-labelledby="magT">
+  <title id="magT">Priya guessed she had five to six lakh rupees. Her real total was four lakh one thousand eight hundred. The part she could use tomorrow was forty thousand, less than one month of spending.</title>
+
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">PRIYA'S MONEY: WHAT SHE THOUGHT, WHAT SHE HAS</text>
+
+  <text x="16" y="66" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">What she guessed</text>
+  <rect x="180" y="48" width="400" height="28" rx="4" stroke="#8A9099" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="192" y="67" font-family="Inter, Arial, sans-serif" font-size="13" fill="#44484D">about ₹5–6 lakh</text>
+
+  <text x="16" y="120" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">Her real total</text>
+  <rect x="180" y="102" width="268" height="28" rx="4" fill="#E3E6E9"/>
+  <text x="458" y="121" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#2E3338">₹4,01,800</text>
+
+  <text x="16" y="174" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">Usable tomorrow</text>
+  <rect x="180" y="156" width="27" height="28" rx="4" fill="#1F5FA0"/>
+  <text x="217" y="175" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#2E3338">₹40,000 <tspan font-weight="400" fill="#44484D">— less than one month of spending</tspan></text>
+
+  <path d="M16 206 L584 206" stroke="#E3E6E9" stroke-width="1"/>
+  <text x="16" y="228" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">The rest is EPF, meant for retirement, and family gold she will not sell. Priya is a composite example.</text>
+</svg>
