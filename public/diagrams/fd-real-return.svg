@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 270" width="600" height="270" fill="none" role="img" aria-labelledby="fdT">
+  <title id="fdT">A seven percent FD after tax and six percent inflation. With no tax you gain zero point nine percent a year. In the ten percent slab, zero point three. In the twenty percent slab you lose zero point four. In the thirty percent slab you lose one point one percent a year.</title>
+
+  <text x="16" y="20" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#6B7177">A 7% FD, AFTER TAX AND 6% INFLATION — REAL GAIN PER YEAR</text>
+
+  <text x="250" y="48" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#B3261E">← getting poorer</text>
+  <text x="350" y="48" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B6B3A">getting richer →</text>
+  <path d="M330 58 L330 228" stroke="#8A9099" stroke-width="1"/>
+
+  <text x="16" y="82" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">No tax</text>
+  <rect x="330" y="66" width="141" height="24" rx="3" fill="#1B6B3A"/>
+  <text x="479" y="83" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1B6B3A">+0.9%</text>
+
+  <text x="16" y="124" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">10% slab</text>
+  <rect x="330" y="108" width="39" height="24" rx="3" fill="#1B6B3A"/>
+  <text x="377" y="125" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1B6B3A">+0.3%</text>
+
+  <text x="16" y="166" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">20% slab</text>
+  <rect x="265" y="150" width="65" height="24" rx="3" fill="#B3261E"/>
+  <text x="257" y="167" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#B3261E">−0.4%</text>
+
+  <text x="16" y="208" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#2E3338">30% slab</text>
+  <rect x="162" y="192" width="168" height="24" rx="3" fill="#B3261E"/>
+  <text x="154" y="209" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#B3261E">−1.1%</text>
+
+  <text x="16" y="256" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7177">Tax at slab rate plus 4% cess. Illustration only; actual FD and inflation rates vary.</text>
+</svg>

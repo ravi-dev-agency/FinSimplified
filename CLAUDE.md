@@ -34,6 +34,10 @@ src/lib/content.ts            reads markdown from disk
 Site structure is **flat, two levels**: `/learn` lists modules,
 `/learn/<slug>` is the chapter. No categories, no sub-chapters, no sidebar.
 
+The one grouping layer is `/series`: playlist-style collections of articles
+read in order, defined in `src/data/series.ts`. The author adds series and
+their content personally — do not create series or placeholder posts.
+
 ## Rules that must not be broken
 
 ### 1. Design

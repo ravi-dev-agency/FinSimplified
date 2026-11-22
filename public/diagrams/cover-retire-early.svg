@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" fill="none" role="img" aria-labelledby="reCov">
+  <title id="reCov">One lakh rupees left in a savings account for twenty years, with prices rising six percent a year, buys only what fifty-six thousand three hundred rupees buys today.</title>
+  <rect width="400" height="300" fill="#1F5FA0"/>
+
+  <text x="200" y="44" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#A8C8E4">WHAT ₹1 LAKH CAN BUY</text>
+
+  <text x="105" y="120" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">₹1,00,000</text>
+  <text x="105" y="144" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#C5DBEE">today</text>
+
+  <path d="M178 112 L222 112" stroke="#E2683C" stroke-width="3"/>
+  <path d="M214 104 L224 112 L214 120" stroke="#E2683C" stroke-width="3" fill="none"/>
+
+  <text x="300" y="120" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">₹56,300</text>
+  <text x="300" y="144" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#C5DBEE">in 20 years</text>
+
+  <text x="200" y="192" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#C5DBEE">Left in a savings account at 3%,</text>
+  <text x="200" y="210" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#C5DBEE">with prices rising 6% a year</text>
+
+  <path d="M60 238 L340 238" stroke="#3D7FB8" stroke-width="1"/>
+  <text x="200" y="268" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Know where you stand first.</text>
+</svg>

@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { articles } from "@/data/articles";
 import { legalDocs } from "@/data/legal";
 import { modules } from "@/data/modules";
+import { series } from "@/data/series";
 import { site } from "@/data/site";
 import { tools } from "@/data/tools";
 import { isArticlePublished, isPublished } from "@/lib/content";
@@ -14,7 +15,7 @@ import { isArticlePublished, isPublished } from "@/lib/content";
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
 
-  const staticPages = ["", "/learn", "/articles", "/calculators", "/about"].map(
+  const staticPages = ["", "/learn", "/series", "/articles", "/calculators", "/about"].map(
     (path) => ({
       url: `${site.url}${path}`,
       lastModified: now,
@@ -41,6 +42,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     }));
 
+  const seriesPages = series.map((s) => ({
+    url: `${site.url}/series/${s.slug}`,
+    lastModified: now,
+    changeFrequency: "weekly" as const,
+    priority: 0.7,
+  }));
+
   const calculators = tools
     .filter((t) => t.ready)
     .map((t) => ({
@@ -57,5 +65,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.3,
   }));
 
-  return [...staticPages, ...chapters, ...posts, ...calculators, ...legal];
+  return [...staticPages, ...chapters, ...seriesPages, ...posts, ...calculators, ...legal];
 }

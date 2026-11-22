@@ -22,6 +22,16 @@ export type ArticleMeta = {
  */
 export const articles: ArticleMeta[] = [
   {
+    slug: "retire-early-where-you-stand",
+    title: "Before you invest a rupee, find out where you stand",
+    blurb:
+      "Episode 1 of Planning to Retire Early. A twenty-minute money audit, what inflation does to money that sits still, why an FD may not keep up after tax, and the four safety nets that come before your first SIP.",
+    minutes: 13,
+    published: "22 November 2026",
+    source: "Planning to Retire Early",
+    cover: "/diagrams/cover-retire-early.svg",
+  },
+  {
     slug: "rich-dad-poor-dad",
     title: "Earning more won't make you rich. This book explains why.",
     blurb:
