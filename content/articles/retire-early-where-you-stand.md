@@ -77,8 +77,6 @@ Second, look at what she can actually use. The EPF is meant for retirement — s
 
 That is not a failure. It is where most people start. But you cannot plan from a number you have never seen.
 
-> [AUTHOR: your own money audit moment goes here — what you guessed, what the real number was, and what surprised you. Write it yourself; do not leave this placeholder in.]
-
 **Do this now:** open your copy of the [toolkit sheet](https://docs.google.com/spreadsheets/d/1dYz-L0TcSzT3gXPYc05PGhdnBiUwBdoqHIUApVE9r8Y/copy) and fill in the **Money Audit** tab. It works out the percentages and the total for you. The sheet was created by Zero1 by Zerodha for their investing series; full credit to them for it.
 
 ## Step 2 — Why a bigger salary will not do it
@@ -89,7 +87,7 @@ That helps. But a salary is money you *earn*. Wealth is money you *keep* — and
 
 The reason is **inflation** — the steady rise in prices over time. A plate of idli that cost ₹30 some years ago costs ₹45 now. Your ₹100 note did not change. What it can buy did.
 
-In India, prices have risen by around 6% a year over the long run. So ₹1 lakh today will not buy ₹1 lakh of things later.
+In India, prices have risen by roughly 5–7% a year on average over the last few decades — some recent years have been lower, some years in the past much higher. This article uses 6% as a middle assumption. Either way, ₹1 lakh today will not buy ₹1 lakh of things later.
 
 The table below shows what ₹1 lakh will be able to buy in the future, written in **today's money** — that is, how much it would be worth if you spent it today. It assumes 6% inflation:
 
@@ -119,7 +117,7 @@ You did nothing wrong, and you still lost almost half.
 
 They do. But the interest is not all yours.
 
-Income tax in India works in bands called **slabs**: the more you earn, the higher the rate on the top part of your income — 5%, 10%, 20%, up to 30%. FD interest is added to your salary and taxed at whatever your top rate is. On top of that comes a **cess** — an extra 4% charged on the tax itself.
+Income tax in India works in bands called **slabs**: the more you earn, the higher the rate on the top part of your income — from 5% on the lowest band up to 30% on the highest. FD interest is added to your salary and taxed at whatever your top rate is. On top of that comes a **cess** — an extra 4% charged on the tax itself.
 
 And the tax is due every year as the interest builds up, not just when the FD finishes. So the 7% you are quoted is not the 7% you keep.
 
@@ -133,6 +131,8 @@ On ₹1 lakh at 7% for one year:
 | 30% | ₹7,000 | ₹2,184 | 4.8% | −1.1% |
 
 *Table 3 — the same FD, four different people*
+
+One thing that changes this for many people: under the new tax regime, if your **total** income for the year — salary plus FD interest — stays within ₹12 lakh, a rebate brings your tax to zero. If that is you, the "No tax" row is your row. The tax rows start to matter once your income goes above that.
 
 The last column is the one that matters. It is what you gain **after** tax and **after** prices have risen — your real gain in what the money can buy. A plus sign means you are slowly getting richer. A minus sign means you are slowly getting poorer, even though the FD statement shows more money every year.
 
@@ -247,4 +247,4 @@ Until then, do the audit. It is the only step in this whole series that costs no
 
 *Priya is a composite — the salary, spending and city are typical of a mid-level IT job in Hyderabad, but she is not one specific person. Inflation and FD figures are illustrations at an assumed 6% inflation and 7% FD rate, with tax at slab rate plus 4% health and education cess; actual rates vary. Past performance does not guarantee future results.*
 
-*[VERIFY: FD interest taxed at slab rate plus 4% cess still current at publication; long-run CPI inflation around 6%; Nifty 50 fall of more than half in 2008. Tax rules change each Budget.]*
+*Sources: FD interest is taxed at slab rate plus 4% health and education cess, with the Section 87A rebate making total income up to ₹12 lakh tax-free under the new regime, per the Income Tax Department, for FY 2026-27. Long-run Indian CPI inflation from World Bank and RBI data. The Nifty 50 fell from about 6,357 in January 2008 to about 2,524 in October 2008, a fall of roughly 60%. Tax rules change each Budget — last checked 22 November 2026.*
